@@ -1,0 +1,95 @@
+/*
+Theme Name: Dítě v rozvodu
+Theme URI: https://ditevrozvodu.cz
+Author: SPONDEA
+Author URI: https://spondea.cz
+Description: Custom theme for Dítě v rozvodu website
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ditevrozvodu
+*/
+
+/* Reset WordPress default styles that conflict with Tailwind */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Override WordPress default paragraph and heading margins */
+.entry-content p,
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6 {
+    margin: 0 !important;
+}
+
+/* Remove WordPress default link styles */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Ensure Tailwind utilities work properly */
+.wp-block-group,
+.wp-block-column,
+.wp-block-columns {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Override Elementor default styles if present */
+.elementor-widget-container {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Ensure body uses correct font */
+body {
+    font-family: 'Lexend', sans-serif !important;
+    line-height: 1.5;
+}
+
+/* Remove WordPress admin bar margin on frontend */
+body.admin-bar {
+    margin-top: 0 !important;
+}
+
+/* Ensure navigation menu items display correctly */
+#primary-menu {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#primary-menu li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#primary-menu a {
+    color: #4b5563;
+    /* text-gray-700 */
+    transition: color 0.2s;
+}
+
+#primary-menu a:hover {
+    color: #2b2d72;
+    /* primary color */
+}
+
+#primary-menu .current-menu-item a,
+#primary-menu .current_page_item a {
+    color: #2b2d72;
+    /* primary color */
+    font-weight: 700;
+    border-bottom: 2px solid #e55297;
+    /* accent color */
+}
