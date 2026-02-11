@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Podpora pro rodiče procházející rozvodem. Pomůžeme vám zvládnout toto náročné období s ohledem na potřeby vašich dětí.">
+    <title>Dítě v rozvodu | Styl Gumroad</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Poppins:wght@700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1E2B4D',
+                        secondary: '#EC407A',
+                        'secondary-dark': '#C2185B',
+                        'bg-alt': '#F8F9FA',
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'sans-serif'],
+                        body: ['Open Sans', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .gumroad-shadow {
+            box-shadow: 4px 4px 0 0 #1E2B4D;
+        }
+
+        .gumroad-shadow-hover {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover:hover {
+            box-shadow: 6px 6px 0 0 #1E2B4D !important;
+            transform: translate(-2px, -2px) !important;
+        }
+
+        .gumroad-shadow-magenta {
+            box-shadow: 4px 4px 0 0 #EC407A;
+        }
+
+        .gumroad-shadow-hover-magenta {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover-magenta:hover {
+            box-shadow: 6px 6px 0 0 #EC407A !important;
+            transform: translate(-3px, -3px) !important;
+        }
+
+        .border-gumroad {
+            border: 2px solid #1E2B4D;
+        }
+    </style>
+</head>
+
+<body class="font-body text-primary bg-white antialiased">
+    <!-- Header -->
+    <header class="fixed top-0 left-0 right-0 h-20 bg-white border-b-2 border-primary z-50">
+        <div class="max-w-[1400px] mx-auto px-6 h-full flex items-center justify-between">
+            <a href="index.html" class="flex items-center gap-4">
+                <img src="images/logo.png" alt="Dítě v rozvodu" class="h-10 w-auto object-contain">
+                <span class="font-heading font-black text-2xl uppercase italic text-primary">Dítě v rozvodu</span>
+            </a>
+            <nav class="hidden md:block">
+                <ul class="flex items-center gap-1">
+                    <li><a href="potreby-deti.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">Potřeby
+                            dětí</a></li>
+                    <li><a href="domluva.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">Domluva</a>
+                    </li>
+                    <li><a href="ospod-a-soud.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">OSPOD
+                            a soud</a>
+                    </li>
+                    <li><a href="#"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">Jak
+                            pomoct sobě</a></li>
+                    <li><a href="kontakt.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-6 py-2 bg-primary text-white hover:bg-secondary transition-colors h-20 flex items-center">Kontakt</a>
+                    </li>
+                </ul>
+            </nav>
+            <button id="mobile-menu-btn" class="flex flex-col gap-1 md:hidden p-2 z-50 relative" aria-label="Menu">
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="pt-32 pb-20 bg-[#F1F3F5] border-b-2 border-primary">
+        <div class="max-w-[1400px] mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-8 items-stretch">
+            <div class="p-8 md:p-16 flex flex-col justify-center border-2 border-primary bg-white rounded-3xl">
+                <h1
+                    class="font-heading font-black text-5xl md:text-7xl leading-none mb-8 uppercase tracking-normal italic">
+                    Rozvádíte se?<br>
+                    <span class="text-secondary">Vaše děti to zvládnou.</span>
+                </h1>
+                <p class="text-xl md:text-2xl font-bold mb-10 leading-snug max-w-[500px]">
+                    Rozvod je náročná životní situace, ale nemusí být katastrofa.
+                    Pomůžeme vám projít tímto obdobím tak, aby vaše děti zůstaly v bezpečí.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4">
+                    <a href="#kurz"
+                        class="px-8 py-5 bg-secondary text-white font-heading text-lg font-black uppercase italic border-2 border-primary rounded-3xl gumroad-shadow-hover transition-all text-center">
+                        Chci kurz
+                    </a>
+                    <a href="#orientace"
+                        class="px-8 py-5 bg-white text-primary font-heading text-lg font-black uppercase italic border-2 border-primary rounded-3xl gumroad-shadow-hover transition-all text-center">
+                        Kde začít
+                    </a>
+                </div>
+            </div>
+            <div
+                class="border-2 border-primary bg-white rounded-3xl flex items-center justify-center p-8 overflow-hidden relative">
+                <div class="absolute inset-0 opacity-10"
+                    style="background-image: radial-gradient(#1E2B4D 2px, transparent 2px); background-size: 20px 20px;">
+                </div>
+                <img src="images/3 (1).png" alt="Rodina"
+                    class="w-full h-auto max-w-[550px] relative z-10 rotate-2 group-hover:rotate-0 transition-transform duration-500">
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Provedeme vás změnami Section -->
+    <section class="py-24 bg-[#F8F9FA] border-b-2 border-primary">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <h2 class="font-heading font-black text-4xl md:text-5xl uppercase tracking-normal mb-16 italic">
+                Provedeme vás změnami ve vaší rodině
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="p-8 border-2 border-primary bg-white rounded-3xl">
+                    <h3 class="font-heading text-2xl font-black uppercase mb-4 text-secondary">Máte strach to dětem
+                        říct?</h3>
+                    <p class="font-bold">Ať je jim pět nebo patnáct, většinou poznají, že se něco děje. Pomůžeme vám
+                        najít slova, která jsou pravdivá, věku přiměřená a dětem uleví.</p>
+                </div>
+                <div class="p-8 border-2 border-primary bg-white rounded-3xl">
+                    <h3 class="font-heading text-2xl font-black uppercase mb-4 text-secondary">Nevíte, jak je ochránit?
+                    </h3>
+                    <p class="font-bold">Nejvíc dětem ubližuje dlouhodobý konflikt, ne samotný rozchod. Ukážeme vám
+                        konkrétní kroky, jak snížit napětí a nevtahovat děti do sporů.</p>
+                </div>
+                <div class="p-8 border-2 border-primary bg-white rounded-3xl">
+                    <h3 class="font-heading text-2xl font-black uppercase mb-4 text-secondary">Jak jim neublížit víc?
+                    </h3>
+                    <p class="font-bold">Tenhle strach má většina rodičů. Společně se podíváme na to, co děti skutečně
+                        potřebují – a co už je naopak zbytečně zatěžuje.</p>
+                </div>
+                <div class="p-8 border-2 border-primary bg-white rounded-3xl">
+                    <h3 class="font-heading text-2xl font-black uppercase mb-4 text-secondary">Cítíte se v tom sami?
+                    </h3>
+                    <p class="font-bold">Rozchod je období plné nejistoty. Nabízíme vám odbornou oporu, srozumitelné
+                        informace a prostor se zorientovat bez tlaku na „správné“ řešení.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Orientation Section (Articles) -->
+    <section class="py-24 bg-white" id="orientace">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <h2
+                class="font-heading font-black text-4xl md:text-6xl uppercase tracking-normal mb-16 border-b-8 border-primary pb-4">
+                Orientujte se v tom, co vás čeká
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Article 1 -->
+                <a href="jak-to-rict-detem.html"
+                    class="flex flex-col border-2 border-primary bg-white rounded-3xl gumroad-shadow-hover-magenta transition-all overflow-hidden">
+                    <div
+                        class="h-48 border-b-2 border-primary bg-secondary/10 flex items-center justify-center p-6 grayscale hover:grayscale-0 transition-all">
+                        <img src="images/1.png" alt="Komunikace" class="h-full object-contain">
+                    </div>
+                    <div class="p-6 flex-grow flex flex-col">
+                        <span class="font-heading text-xs font-black uppercase mb-2 text-secondary">Potřeby dětí</span>
+                        <h3 class="font-heading text-xl font-extrabold leading-tight mb-4">Jak mluvit s dětmi o rozvodu
+                        </h3>
+                        <p class="text-sm font-bold mb-6 flex-grow">Praktické tipy, jak dětem sdělit, co se děje, bez
+                            traumat.</p>
+                        <span
+                            class="mt-auto px-6 py-3 bg-white text-primary font-heading text-sm font-black uppercase italic border-2 border-primary rounded-2xl gumroad-shadow-hover transition-all text-center">Číst
+                            více</span>
+                    </div>
+                </a>
+
+                <!-- Article 2 -->
+                <a href="#"
+                    class="flex flex-col border-2 border-primary bg-white rounded-3xl gumroad-shadow-hover-magenta transition-all overflow-hidden">
+                    <div
+                        class="h-48 border-b-2 border-primary bg-secondary/10 flex items-center justify-center p-6 grayscale hover:grayscale-0 transition-all">
+                        <img src="images/2.png" alt="Soud" class="h-full object-contain">
+                    </div>
+                    <div class="p-6 flex-grow flex flex-col">
+                        <span class="font-heading text-xs font-black uppercase mb-2 text-secondary">OSPOD a soud</span>
+                        <h3 class="font-heading text-xl font-extrabold leading-tight mb-4">OSPOD krok za krokem</h3>
+                        <p class="text-sm font-bold mb-6 flex-grow">Co je OSPOD, kdy zasahuje a co od něj očekávat.</p>
+                        <span
+                            class="mt-auto px-6 py-3 bg-white text-primary font-heading text-sm font-black uppercase italic border-2 border-primary rounded-2xl gumroad-shadow-hover transition-all text-center">Číst
+                            více</span>
+                    </div>
+                </a>
+
+                <!-- Article 3 -->
+                <a href="#"
+                    class="flex flex-col border-2 border-primary bg-white rounded-3xl gumroad-shadow-hover-magenta transition-all overflow-hidden">
+                    <div
+                        class="h-48 border-b-2 border-primary bg-secondary/10 flex items-center justify-center p-6 grayscale hover:grayscale-0 transition-all">
+                        <img src="images/ne_1.png" alt="Dohoda" class="h-full object-contain">
+                    </div>
+                    <div class="p-6 flex-grow flex flex-col">
+                        <span class="font-heading text-xs font-black uppercase mb-2 text-secondary">Domluva</span>
+                        <h3 class="font-heading text-xl font-extrabold leading-tight mb-4">Domluva s druhým rodičem</h3>
+                        <p class="text-sm font-bold mb-6 flex-grow">Tipy na komunikaci i v náročných vztazích.</p>
+                        <span
+                            class="mt-auto px-6 py-3 bg-white text-primary font-heading text-sm font-black uppercase italic border-2 border-primary rounded-2xl gumroad-shadow-hover transition-all text-center">Číst
+                            více</span>
+                    </div>
+                </a>
+
+                <!-- Article 4 -->
+                <a href="#"
+                    class="flex flex-col border-2 border-primary bg-white rounded-3xl gumroad-shadow-hover-magenta transition-all overflow-hidden">
+                    <div
+                        class="h-48 border-b-2 border-primary bg-secondary/10 flex items-center justify-center p-6 grayscale hover:grayscale-0 transition-all">
+                        <img src="images/2_A.png" alt="Péče" class="h-full object-contain">
+                    </div>
+                    <div class="p-6 flex-grow flex flex-col">
+                        <span class="font-heading text-xs font-black uppercase mb-2 text-secondary">Potřeby dětí</span>
+                        <h3 class="font-heading text-xl font-extrabold leading-tight mb-4">Střídavá péče v praxi</h3>
+                        <p class="text-sm font-bold mb-6 flex-grow">Jak nastavit pravidla tak, aby fungovala pro dítě.
+                        </p>
+                        <span
+                            class="mt-auto px-6 py-3 bg-white text-primary font-heading text-sm font-black uppercase italic border-2 border-primary rounded-2xl gumroad-shadow-hover transition-all text-center">Číst
+                            více</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Section -->
+    <section class="py-24 bg-secondary border-y-2 border-primary overflow-hidden relative" id="kurz">
+        <div
+            class="absolute -top-12 -right-12 w-56 h-56 bg-white border-2 border-primary rotate-12 flex items-center justify-center font-heading font-black text-xl uppercase text-center p-2 z-20 rounded-full shadow-[8px_8px_0_0_#1E2B4D]">
+            Online Kurz
+        </div>
+        <div class="max-w-[1400px] mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div class="relative order-last lg:order-first">
+                <img src="images/4 (1).png" alt="Kurz"
+                    class="w-full h-auto border-2 border-primary rounded-3xl transform -rotate-1">
+            </div>
+            <div class="flex flex-col gap-8 bg-white border-2 border-primary p-12 rounded-3xl gumroad-shadow-magenta">
+                <h2 class="font-heading font-black text-4xl md:text-5xl uppercase tracking-normal leading-none italic">
+                    Jak mluvit s dětmi o rozpadu rodiny
+                </h2>
+                <p class="text-xl font-bold leading-snug">
+                    Existuje lepší cesta – pro vás i vaše děti. Tento kurz vám dá jistotu a konkrétní nástroje.
+                </p>
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    <div class="flex items-center gap-3 font-bold text-sm">
+                        <span
+                            class="w-6 h-6 bg-secondary border-2 border-primary flex items-center justify-center text-white font-black">✓</span>
+                        70 minut videí
+                    </div>
+                    <div class="flex items-center gap-3 font-bold text-sm">
+                        <span
+                            class="w-6 h-6 bg-secondary border-2 border-primary flex items-center justify-center text-white font-black">✓</span>
+                        Materiály ke stažení
+                    </div>
+                    <div class="flex items-center gap-3 font-bold text-sm">
+                        <span
+                            class="w-6 h-6 bg-secondary border-2 border-primary flex items-center justify-center text-white font-black">✓</span>
+                        Příklady a scénáře
+                    </div>
+                    <div class="flex items-center gap-3 font-bold text-sm">
+                        <span
+                            class="w-6 h-6 bg-secondary border-2 border-primary flex items-center justify-center text-white font-black">✓</span>
+                        Přístup napořád
+                    </div>
+                </div>
+                <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi" target="_blank"
+                    class="px-8 py-5 bg-primary text-white font-heading text-lg font-black uppercase italic border-2 border-primary rounded-3xl gumroad-shadow-hover-magenta transition-all text-center">
+                    Chci vstoupit do kurzu
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-24 bg-white border-b-2 border-primary">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <h2
+                class="font-heading font-black text-4xl md:text-6xl uppercase tracking-normal mb-20 italic text-center text-primary">
+                Co o kurzu říkají klienti
+            </h2>
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+                <!-- Testimonial 1 -->
+                <div class="flex flex-col gap-6">
+                    <div class="p-10 bg-white border-2 border-primary rounded-[40px] relative h-full">
+                        <svg class="w-8 h-8 text-primary mb-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path
+                                d="M14.017 21L14.017 18C14.017 16.899 14.892 16 16.017 16H19.017C19.569 16 20.017 15.552 20.017 15V9C20.017 8.448 19.569 8 19.017 8H16.017C14.912 8 14.017 7.105 14.017 6V3L14.017 3H21.017V21H14.017ZM3.017 21V18C3.017 16.899 3.892 16 5.017 16H8.017C8.569 16 9.017 15.552 9.017 15V9C9.017 8.448 8.569 8 8.017 8H5.017C3.912 8 3.017 7.105 3.017 6V3L3.017 3H10.017V21H3.017Z" />
+                        </svg>
+                        <p class="font-bold text-lg leading-relaxed text-primary">"Kurz nebyl příliš dlouhý, stručně a
+                            jasně popisuje formou rozhovoru, jak mluvit o rozvodu s dětmi. Líbily se mi konkrétní
+                            příklady. Doporučuji rodičům, aby si udělali čas."</p>
+                        <div class="mt-6">
+                            <span class="block font-heading font-black uppercase text-primary text-sm">K. P.</span>
+                            <span class="text-sm font-bold opacity-60">máma školáka</span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="flex flex-col gap-6">
+                    <div class="p-10 bg-white border-2 border-primary rounded-[40px] relative h-full">
+                        <svg class="w-8 h-8 text-primary mb-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path
+                                d="M14.017 21L14.017 18C14.017 16.899 14.892 16 16.017 16H19.017C19.569 16 20.017 15.552 20.017 15V9C20.017 8.448 19.569 8 19.017 8H16.017C14.912 8 14.017 7.105 14.017 6V3L14.017 3H21.017V21H14.017ZM3.017 21V18C3.017 16.899 3.892 16 5.017 16H8.017C8.569 16 9.017 15.552 9.017 15V9C9.017 8.448 8.569 8 8.017 8H5.017C3.912 8 3.017 7.105 3.017 6V3L3.017 3H10.017V21H3.017Z" />
+                        </svg>
+                        <p class="font-bold text-lg leading-relaxed text-primary">"Myslim si ze by tento kurz měl být
+                            povinný! Díky kurzu jsem se ujistila, co všechno dělám správně. I když mě máma nezatěžovala
+                            informacemi, věděla jsem, že se mohu kdykoliv otevřené zeptat."</p>
+                        <div class="mt-6">
+                            <span class="block font-heading font-black uppercase text-primary text-sm">Kristýna
+                                Kloudová</span>
+                            <span class="text-sm font-bold opacity-60">máma miminka a batolete</span>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="flex flex-col gap-6">
+                    <div class="p-10 bg-white border-2 border-primary rounded-[40px] relative h-full">
+                        <svg class="w-8 h-8 text-primary mb-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path
+                                d="M14.017 21L14.017 18C14.017 16.899 14.892 16 16.017 16H19.017C19.569 16 20.017 15.552 20.017 15V9C20.017 8.448 19.569 8 19.017 8H16.017C14.912 8 14.017 7.105 14.017 6V3L14.017 3H21.017V21H14.017ZM3.017 21V18C3.017 16.899 3.892 16 5.017 16H8.017C8.569 16 9.017 15.552 9.017 15V9C9.017 8.448 8.569 8 8.017 8H5.017C3.912 8 3.017 7.105 3.017 6V3L3.017 3H10.017V21H3.017Z" />
+                        </svg>
+                        <p class="font-bold text-lg leading-relaxed text-primary">"Pracuji na OSPOD už deset let a
+                            považuji tento materiál za vynikající. Je odborný, lidský a velmi srozumitelný všem. Můžete
+                            řešit své osobní záležitosti z bezpečí domova."</p>
+                        <div class="mt-6">
+                            <span class="block font-heading font-black uppercase text-primary text-sm">Denisa
+                                Mrázová</span>
+                            <span class="text-sm font-bold opacity-60">OSPOD Slavkov</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team / SPONDEA Section -->
+    <section class="py-24 bg-[#F8F9FA] border-b-2 border-primary overflow-hidden">
+        <div class="max-w-[1400px] mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
+            <div class="flex flex-col gap-10">
+                <div>
+
+                    <h2
+                        class="font-heading font-black text-5xl md:text-6xl uppercase tracking-normal mb-8 italic text-primary leading-none">
+                        Kdo vás doprovodí
+                    </h2>
+
+                </div>
+
+                <div class="flex flex-col gap-6">
+                    <div class="relative">
+                        <svg class="w-10 h-10 text-secondary mb-4 opacity-50" fill="currentColor" viewBox="0 0 24 24">
+                            <path
+                                d="M14.017 21L14.017 18C14.017 16.899 14.892 16 16.017 16H19.017C19.569 16 20.017 15.552 20.017 15V9C20.017 8.448 19.569 8 19.017 8H16.017C14.912 8 14.017 7.105 14.017 6V3L14.017 3H21.017V21H14.017ZM3.017 21V18C3.017 16.899 3.892 16 5.017 16H8.017C8.569 16 9.017 15.552 9.017 15V9C9.017 8.448 8.569 8 8.017 8H5.017C3.912 8 3.017 7.105 3.017 6V3L3.017 3H10.017V21H3.017Z" />
+                        </svg>
+                        <p
+                            class="text-2xl font-bold leading-tight italic text-primary mb-8 border-l-2 border-secondary pl-8">
+                            "Víme, že toho teď máte hrozně moc. Je ale super, že vám záleží na psychickém zdraví vašich
+                            dětí a že jim chcete pomoct."
+                        </p>
+                    </div>
+
+                    <div class="flex items-center gap-6">
+                        <div class="w-24 h-24 bg-secondary/20 rounded-full overflow-hidden flex-shrink-0">
+                            <img src="images/valek portrait.png" alt="Petr Válek" class="w-full h-full object-cover">
+                        </div>
+                        <div>
+                            <span class="block font-heading font-black text-xl uppercase text-primary mb-1">Petr
+                                Válek</span>
+                            <span class="block text-sm font-bold opacity-60">klinický psycholog SPONDEA</span>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="https://www.spondea.cz/cz" target="_blank"
+                    class="mt-4 px-6 py-3 bg-white text-primary font-heading text-sm font-black uppercase italic border-2 border-primary rounded-2xl gumroad-shadow-hover transition-all text-center inline-block w-fit">
+                    CHCI VĚDĚT VÍC O VAŠÍ PRÁCI
+                </a>
+            </div>
+            <div class="relative flex justify-center lg:justify-end">
+                <img src="images/5a.png" alt="Tým" class="w-full h-auto max-w-[500px] rotate-2">
+            </div>
+        </div>
+    </section>
+
+    <!-- Topics Grid -->
+    <section class="py-24 bg-white border-b-2 border-primary">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <a href="#"
+                    class="p-10 flex flex-col gap-4 border-2 border-primary bg-white rounded-3xl hover:translate-y-[-4px] hover:shadow-[4px_4px_0_0_#1E2B4D] transition-all">
+                    <img src="images/chlapecek.png" alt="Děti" class="h-24 w-auto object-contain mb-4">
+                    <h4 class="font-heading font-black text-xl uppercase italic">Děti a potřeby</h4>
+                </a>
+                <a href="#"
+                    class="p-10 flex flex-col gap-4 border-2 border-primary bg-white rounded-3xl hover:translate-y-[-4px] hover:shadow-[4px_4px_0_0_#1E2B4D] transition-all">
+                    <img src="images/3_A.png" alt="Komunikace" class="h-24 w-auto object-contain mb-4">
+                    <h4 class="font-heading font-black text-xl uppercase italic">Domluva</h4>
+                </a>
+                <a href="#"
+                    class="p-10 flex flex-col gap-4 border-2 border-primary bg-white rounded-3xl hover:translate-y-[-4px] hover:shadow-[4px_4px_0_0_#1E2B4D] transition-all">
+                    <img src="images/4.png" alt="Soud" class="h-24 w-auto object-contain mb-4">
+                    <h4 class="font-heading font-black text-xl uppercase italic">OSPOD a soud</h4>
+                </a>
+                <a href="#"
+                    class="p-10 flex flex-col gap-4 border-2 border-primary bg-white rounded-3xl hover:translate-y-[-4px] hover:shadow-[4px_4px_0_0_#1E2B4D] transition-all">
+                    <img src="images/yourself.png" alt="Pomoc" class="h-24 w-auto object-contain mb-4">
+                    <h4 class="font-heading font-black text-xl uppercase italic">Jak pomoct sobě</h4>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-20">
+        <div class="max-w-[1400px] mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-16">
+            <div class="flex flex-col gap-8">
+                <div class="flex items-center gap-4">
+                    <img src="images/logo.png" alt="Logo" class="h-10 w-auto object-contain brightness-0 invert">
+                    <span class="font-heading font-black text-xl uppercase italic">Dítě v rozvodu</span>
+                </div>
+                <p class="font-bold text-lg leading-snug">Pomáháme rodičům projít rozvodem s láskou a respektem k dětem.
+                </p>
+            </div>
+            <div class="grid grid-cols-2 gap-8">
+                <div>
+                    <h5 class="font-heading font-black text-xs uppercase mb-6 text-secondary">Menu</h5>
+                    <ul class="flex flex-col gap-4 text-sm font-bold uppercase tracking-widest">
+                        <li><a href="#" class="hover:text-secondary">Kurz</a></li>
+                        <li><a href="#" class="hover:text-secondary">Články</a></li>
+                        <li><a href="#" class="hover:text-secondary">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-heading font-black text-xs uppercase mb-6 text-secondary">Sociální sítě</h5>
+                    <ul class="flex flex-col gap-4 text-sm font-bold uppercase tracking-widest">
+                        <li><a href="#" class="hover:text-secondary">Facebook</a></li>
+                        <li><a href="#" class="hover:text-secondary">Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="flex flex-col gap-8">
+                <h5 class="font-heading font-black text-xs uppercase text-secondary">Zůstaňte v kontaktu</h5>
+                <form class="flex gap-1 border-2 border-white p-1 rounded-2xl">
+                    <input type="email" placeholder="vas@email.cz"
+                        class="bg-transparent px-4 py-2 font-bold text-sm w-full outline-none placeholder:text-white/50 rounded-xl">
+                    <button
+                        class="bg-white text-primary px-6 py-2 font-heading font-black text-xs uppercase italic whitespace-nowrap rounded-xl">Odebírat</button>
+                </form>
+            </div>
+        </div>
+        <div
+            class="max-w-[1400px] mx-auto px-6 mt-20 pt-10 border-t-2 border-white/10 text-center text-xs font-bold uppercase tracking-widest text-white/50">
+            &copy; 2026 dítěvrozvodu.cz. All rights reserved.
+        </div>
+    </footer>
+
+    <style>
+        @keyframes marquee {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        .font-heading {
+            letter-spacing: 0.02em;
+            word-spacing: 0.15em;
+        }
+
+        .animate-marquee {
+            display: inline-flex;
+            animation: marquee 20s linear infinite;
+        }
+    </style>
+</body>
+
+</html>

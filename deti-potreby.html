@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Články a rady na téma děti a jejich potřeby během rozvodu.">
+    <title>Děti a jejich potřeby | Dítě v rozvodu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1E2B4D',
+                        secondary: '#EC407A',
+                        'secondary-dark': '#C2185B',
+                        'bg-alt': '#F8F9FA',
+                        'text-main': '#2C3E50',
+                        'text-light': '#546E7A',
+                        'text-muted': '#90A4AE',
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'sans-serif'],
+                        body: ['Open Sans', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'soft': '0 10px 15px -3px rgba(30, 43, 77, 0.1), 0 4px 6px -2px rgba(30, 43, 77, 0.05)',
+                        'card': '0 4px 6px -1px rgba(30, 43, 77, 0.08), 0 2px 4px -1px rgba(30, 43, 77, 0.04)',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="font-body text-text-main bg-white antialiased">
+    <!-- Header -->
+    <header class="fixed top-0 left-0 right-0 h-20 bg-white/95 backdrop-blur-md shadow-sm z-50">
+        <div class="max-w-[1200px] mx-auto px-6 h-full flex items-center justify-between">
+            <a href="index.html" class="block">
+                <img src="images/logo.png" alt="Dítě v rozvodu" class="h-12 w-auto object-contain">
+            </a>
+            <nav class="hidden md:block">
+                <ul class="flex items-center gap-8">
+                    <li><a href="deti-potreby.html"
+                            class="font-heading text-sm font-bold text-secondary uppercase tracking-wider relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[2px] after:bg-secondary">Děti
+                            a jejich potřeby</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Domluva
+                            s druhým rodičem</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">OSPOD
+                            a soud</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Kdo
+                            pomůže mně</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Kontakt</a>
+                    </li>
+                </ul>
+            </nav>
+            <button id="mobile-menu-btn" class="flex flex-col gap-1 md:hidden p-2 z-50 relative" aria-label="Menu">
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+            </button>
+
+            <!-- Mobile Menu Overlay -->
+            <div id="mobile-menu"
+                class="fixed inset-0 bg-white/95 backdrop-blur-md z-40 flex flex-col items-center justify-center gap-8 opacity-0 pointer-events-none transition-all duration-300">
+                <a href="deti-potreby.html"
+                    class="mobile-link text-2xl font-heading font-bold text-secondary hover:text-secondary transition-colors">Děti
+                    a jejich potřeby</a>
+                <a href="#"
+                    class="mobile-link text-2xl font-heading font-bold text-primary hover:text-secondary transition-colors">Domluva
+                    s druhým rodičem</a>
+                <a href="#"
+                    class="mobile-link text-2xl font-heading font-bold text-primary hover:text-secondary transition-colors">OSPOD
+                    a soud</a>
+                <a href="#"
+                    class="mobile-link text-2xl font-heading font-bold text-primary hover:text-secondary transition-colors">Kdo
+                    pomůže mně</a>
+                <a href="#"
+                    class="mobile-link text-2xl font-heading font-bold text-primary hover:text-secondary transition-colors">Kontakt</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Header -->
+    <section class="pt-32 pb-16 bg-gradient-to-b from-[#FFF5F8] to-white">
+        <div class="max-w-[1200px] mx-auto px-6 text-center">
+            <div
+                class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-pink-100 shadow-sm mb-6">
+                <span class="w-2 h-2 rounded-full bg-secondary"></span>
+                <span class="text-xs font-bold uppercase tracking-widest text-text-light">Téma</span>
+            </div>
+            <h1 class="text-4xl md:text-5xl font-bold text-primary font-heading mb-6">Děti a jejich potřeby</h1>
+            <p class="text-xl text-text-light max-w-[700px] mx-auto leading-relaxed">
+                Vše co potřebujete vědět o tom, jak děti prožívají rozvod a jak jim můžete pomoci.
+            </p>
+        </div>
+    </section>
+
+    <!-- Article Feed Section -->
+    <section class="py-16 bg-white">
+        <div class="max-w-[1200px] mx-auto px-6">
+            <!-- 
+                 The data-category attribute here is the key! 
+                 This tells script.js to only load articles with this category.
+                 In real WordPress usage, this could be the Category ID (e.g., "5").
+            -->
+            <div id="articles-grid" data-category="Komunikace"
+                class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Articles will be injected here by script.js -->
+                <div class="col-span-full text-center py-20 text-gray-400">
+                    Načítám články...
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-[#121A30] text-white pt-16 pb-6 border-t-4 border-secondary">
+        <div class="max-w-[1200px] mx-auto px-6">
+            <div class="flex flex-col gap-4">
+                <a href="index.html" class="block mb-4">
+                    <img src="images/logo.png" alt="Dítě v rozvodu"
+                        class="h-10 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity">
+                </a>
+                <p>&copy; 2026 dítěvrozvodu.cz. Všechna práva vyhrazena.</p>
+                <div class="flex gap-6">
+                    <a href="#" class="hover:text-white transition-colors">Ochrana osobních údajů</a>
+                    <a href="#" class="hover:text-white transition-colors">Obchodní podmínky</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

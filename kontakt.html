@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Kontaktujte nás pro technickou podporu nebo dotazy k obsahu. Jsme SPONDEA, pomáháme rodinám v náročných situacích.">
+    <title>Kontakt | Dítě v rozvodu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Poppins:wght@700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1E2B4D',
+                        secondary: '#EC407A',
+                        'secondary-dark': '#C2185B',
+                        'bg-alt': '#F8F9FA',
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'sans-serif'],
+                        body: ['Open Sans', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .gumroad-shadow {
+            box-shadow: 4px 4px 0 0 #1E2B4D;
+        }
+
+        .gumroad-shadow-hover {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover:hover {
+            box-shadow: 6px 6px 0 0 #1E2B4D !important;
+            transform: translate(-2px, -2px) !important;
+        }
+
+        .gumroad-shadow-magenta {
+            box-shadow: 4px 4px 0 0 #EC407A;
+        }
+
+        .gumroad-shadow-hover-magenta {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover-magenta:hover {
+            box-shadow: 6px 6px 0 0 #EC407A !important;
+            transform: translate(-3px, -3px) !important;
+        }
+
+        .border-gumroad {
+            border: 2px solid #1E2B4D;
+        }
+    </style>
+</head>
+
+<body class="font-body text-primary bg-white antialiased">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <a href="index.html" class="text-xl font-bold text-primary">Dítě v rozvodu</a>
+                <div class="hidden md:flex space-x-6">
+                    <a href="potreby-deti-new.html" class="text-gray-700 hover:text-primary transition">Potřeby dětí</a>
+                    <a href="domluva-s-rodicem.html" class="text-gray-700 hover:text-primary transition">Domluva s
+                        druhým rodičem</a>
+                    <a href="ospod-a-soud.html" class="text-gray-700 hover:text-primary transition">OSPOD a soud</a>
+                    <a href="jak-pomoct-sobe.html" class="text-gray-700 hover:text-primary transition">Jak pomoct
+                        sobě</a>
+                    <a href="kontakt.html" class="text-primary font-bold border-b-2 border-accent">Kontakt</a>
+                </div>
+                <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                    class="bg-accent text-white px-6 py-2 rounded-full font-semibold hover:bg-pink-600 transition">
+                    Naučte se mluvit s dětmi
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content Section -->
+    <main class="pt-32 pb-20">
+        <div class="max-w-[900px] mx-auto px-6">
+
+            <!-- Hero -->
+            <div class="text-center mb-16">
+                <h1
+                    class="font-heading font-black text-5xl md:text-7xl leading-none mb-8 uppercase tracking-normal italic">
+                    Kontakt
+                </h1>
+                <p class="text-xl md:text-2xl font-bold leading-snug max-w-[700px] mx-auto">
+                    Jsme tu pro vás, pokud máte otázky k webu nebo kurzu.
+                </p>
+            </div>
+
+            <!-- Intro Box -->
+            <div class="p-8 md:p-12 border-2 border-primary bg-[#F1F3F5] rounded-3xl mb-16">
+                <p class="font-bold text-lg mb-4">
+                    Tento web je určen rodičům, kteří procházejí rozvodem nebo rozchodem a hledají informace, orientaci
+                    a oporu online, vlastním tempem a bez nutnosti osobního kontaktu.
+                </p>
+                <p class="text-lg">
+                    Většina odpovědí, které rodiče v této situaci potřebují, je obsažena přímo v textech, nástrojích a
+                    materiálech na webu.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-20">
+                <!-- Contact Form Section -->
+                <div>
+                    <h2 class="font-heading font-black text-3xl uppercase mb-6 italic">Chcete nám napsat?</h2>
+                    <p class="font-bold mb-6">
+                        Kontaktujte nás, pokud něco na webu nefunguje, máte dotaz k obsahu nebo struktuře webu nebo nám
+                        chcete dát zpětnou vazbu k online materiálům.
+                    </p>
+                    <div class="p-6 bg-secondary/5 border-l-4 border-secondary rounded-r-xl mb-8">
+                        <p class="text-sm font-bold">
+                            ⚠️ Tento kontakt neslouží k individuálnímu poradenství k rozvodu, péči o děti, komunikaci s
+                            druhým rodičem ani k řešení soudních nebo opatrovnických sporů.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Form -->
+                <div class="p-8 border-2 border-primary bg-white rounded-3xl gumroad-shadow">
+                    <form class="flex flex-col gap-4">
+                        <div>
+                            <label class="font-heading font-bold uppercase text-xs mb-2 block text-secondary">Vaše
+                                jméno</label>
+                            <input type="text"
+                                class="w-full p-4 bg-gray-50 border-2 border-primary rounded-xl font-bold outline-none focus:border-secondary transition-colors"
+                                placeholder="Jan Novák">
+                        </div>
+                        <div>
+                            <label class="font-heading font-bold uppercase text-xs mb-2 block text-secondary">Váš
+                                email</label>
+                            <input type="email"
+                                class="w-full p-4 bg-gray-50 border-2 border-primary rounded-xl font-bold outline-none focus:border-secondary transition-colors"
+                                placeholder="jan@email.cz">
+                        </div>
+                        <div>
+                            <label
+                                class="font-heading font-bold uppercase text-xs mb-2 block text-secondary">Zpráva</label>
+                            <textarea rows="4"
+                                class="w-full p-4 bg-gray-50 border-2 border-primary rounded-xl font-bold outline-none focus:border-secondary transition-colors"
+                                placeholder="Co máte na srdci?"></textarea>
+                        </div>
+                        <button type="submit"
+                            class="mt-2 px-8 py-4 bg-secondary text-white font-heading font-black uppercase text-sm border-2 border-primary rounded-xl gumroad-shadow-hover transition-all text-center">
+                            Odeslat zprávu
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- About SPONDEA -->
+            <div class="border-t-2 border-primary pt-16">
+                <div class="flex flex-col md:flex-row gap-12 items-start">
+                    <div class="flex-1">
+                        <h2 class="font-heading font-black text-3xl uppercase mb-6 italic">Kdo vás doprovází</h2>
+                        <p class="font-bold text-lg mb-6">
+                            Jsme SPONDEA, nezisková organizace, která již 28 let pomáhá rodinám v náročných životních
+                            situacích.
+                        </p>
+                        <p class="mb-8">
+                            Naše psycholožky a psychologové, krizové interventky a sociální pracovnice denně pracují s
+                            rodinami, které prochází rozvodem. Naše zkušenosti jsme přetavili do tohoto kurzu.
+                        </p>
+                        <a href="http://www.spondea.cz" target="_blank"
+                            class="text-secondary font-black uppercase border-b-2 border-secondary hover:text-primary hover:border-primary transition-colors">
+                            Chci vědět víc o vaší práci →
+                        </a>
+                    </div>
+                    <div class="w-full md:w-1/3">
+                        <div
+                            class="border-2 border-primary bg-white p-6 rounded-3xl rotate-2 hover:rotate-0 transition-transform duration-500">
+                            <span class="font-heading font-black text-5xl text-primary block mb-2">28</span>
+                            <span class="font-bold text-sm uppercase tracking-widest block">let zkušeností</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="text-xl font-bold mb-4">Dítě v rozvodu</h4>
+                    <p class="opacity-75">Praktický průvodce rozvodem pro rodiče</p>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Témata</h4>
+                    <ul class="space-y-2 opacity-75">
+                        <li><a href="potreby-deti-new.html" class="hover:text-light-blue transition">Potřeby dětí</a>
+                        </li>
+                        <li><a href="domluva-s-rodicem.html" class="hover:text-light-blue transition">Domluva</a></li>
+                        <li><a href="ospod-a-soud.html" class="hover:text-light-blue transition">OSPOD a soud</a></li>
+                        <li><a href="jak-pomoct-sobe.html" class="hover:text-light-blue transition">Jak pomoct sobě</a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Kontakt</h4>
+                    <p class="opacity-75">SPONDEA, o.p.s.<br>Brno</p>
+                </div>
+            </div>
+            <div class="border-t border-white/20 pt-8 text-center opacity-75 text-sm">
+                <p>&copy; 2026 SPONDEA. Všechna práva vyhrazena.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js?v=2"></script>
+</body>
+
+</html>

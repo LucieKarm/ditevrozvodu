@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Jak komunikovat s druhým rodičem, nastavit pravidla a dospět k dohodě, která bude fungovat pro vás i vaše děti.">
+    <title>Domluva | Dítě v rozvodu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Poppins:wght@700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1E2B4D',
+                        secondary: '#EC407A',
+                        'secondary-dark': '#C2185B',
+                        'bg-alt': '#F8F9FA',
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'sans-serif'],
+                        body: ['Open Sans', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .gumroad-shadow {
+            box-shadow: 4px 4px 0 0 #1E2B4D;
+        }
+
+        .gumroad-shadow-hover {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover:hover {
+            box-shadow: 6px 6px 0 0 #1E2B4D !important;
+            transform: translate(-2px, -2px) !important;
+        }
+
+        .gumroad-shadow-magenta {
+            box-shadow: 4px 4px 0 0 #EC407A;
+        }
+
+        .gumroad-shadow-hover-magenta {
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .gumroad-shadow-hover-magenta:hover {
+            box-shadow: 6px 6px 0 0 #EC407A !important;
+            transform: translate(-3px, -3px) !important;
+        }
+
+        .border-gumroad {
+            border: 2px solid #1E2B4D;
+        }
+    </style>
+</head>
+
+<body class="font-body text-primary bg-white antialiased">
+    <!-- Header -->
+    <header class="fixed top-0 left-0 right-0 h-20 bg-white border-b-2 border-primary z-50">
+        <div class="max-w-[1400px] mx-auto px-6 h-full flex items-center justify-between">
+            <a href="index-alt.html" class="flex items-center gap-4">
+                <img src="images/logo.png" alt="Dítě v rozvodu" class="h-10 w-auto object-contain">
+                <span class="font-heading font-black text-2xl uppercase italic text-primary">Dítě v rozvodu</span>
+            </a>
+            <nav class="hidden md:block">
+                <ul class="flex items-center gap-1">
+                    <li><a href="potreby-deti.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">Potřeby
+                            dětí</a></li>
+                    <li><a href="domluva.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 bg-secondary text-white transition-colors border-r-2 border-primary h-20 flex items-center">Domluva</a>
+                    </li>
+                    <li><a href="ospod-a-soud.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">OSPOD</a>
+                    </li>
+                    <li><a href="#"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-4 py-2 hover:bg-secondary hover:text-white transition-colors border-r-2 border-primary h-20 flex items-center">Kdo
+                            pomůže</a></li>
+                    <li><a href="kontakt.html"
+                            class="font-heading text-xs font-bold uppercase tracking-wider px-6 py-2 bg-primary text-white hover:bg-secondary transition-colors h-20 flex items-center">Kontakt</a>
+                    </li>
+                </ul>
+            </nav>
+            <button id="mobile-menu-btn" class="flex flex-col gap-1 md:hidden p-2 z-50 relative" aria-label="Menu">
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full"></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Page Hero Section -->
+    <section class="pt-32 pb-20 bg-[#F1F3F5] border-b-2 border-primary">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <div class="max-w-[900px] mx-auto text-center">
+                <h1
+                    class="font-heading font-black text-5xl md:text-7xl leading-none mb-8 uppercase tracking-normal italic">
+                    Domluva <span class="text-secondary">rodičů</span>
+                </h1>
+                <p class="text-xl md:text-2xl font-bold leading-snug max-w-[700px] mx-auto">
+                    Jak komunikovat s druhým rodičem, nastavit pravidla a dospět k dohodě, která bude fungovat pro vás i
+                    vaše děti.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Articles Grid Section -->
+    <section class="py-24 bg-white">
+        <div class="max-w-[1400px] mx-auto px-6">
+            <!-- 
+                 Data-category "Dohoda" filters articles by the Agreement category.
+            -->
+            <div id="articles-grid" data-category="Dohoda" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Articles will be injected here by script.js -->
+                <div class="col-span-full text-center py-20 text-gray-400">
+                    Načítám články...
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-20">
+        <div class="max-w-[1400px] mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-16">
+            <div class="flex flex-col gap-8">
+                <div class="flex items-center gap-4">
+                    <img src="images/logo.png" alt="Logo" class="h-10 w-auto object-contain brightness-0 invert">
+                    <span class="font-heading font-black text-xl uppercase italic">Dítě v rozvodu</span>
+                </div>
+                <p class="font-bold text-lg leading-snug">Pomáháme rodičům projít rozvodem s láskou a respektem k dětem.
+                </p>
+            </div>
+            <div class="grid grid-cols-2 gap-8">
+                <div>
+                    <h5 class="font-heading font-black text-xs uppercase mb-6 text-secondary">Menu</h5>
+                    <ul class="flex flex-col gap-4 text-sm font-bold uppercase tracking-widest">
+                        <li><a href="index-alt.html#kurz" class="hover:text-secondary">Kurz</a></li>
+                        <li><a href="index-alt.html#orientace" class="hover:text-secondary">Články</a></li>
+                        <li><a href="kontakt.html" class="hover:text-secondary">Kontakt</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-heading font-black text-xs uppercase mb-6 text-secondary">Sociální sítě</h5>
+                    <ul class="flex flex-col gap-4 text-sm font-bold uppercase tracking-widest">
+                        <li><a href="#" class="hover:text-secondary">Facebook</a></li>
+                        <li><a href="#" class="hover:text-secondary">Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="flex flex-col gap-8">
+                <h5 class="font-heading font-black text-xs uppercase text-secondary">Zůstaňte v kontaktu</h5>
+                <form class="flex gap-1 border-2 border-white p-1">
+                    <input type="email" placeholder="vas@email.cz"
+                        class="bg-transparent px-4 py-2 font-bold text-sm w-full outline-none placeholder:text-white/50">
+                    <button
+                        class="bg-white text-primary px-6 py-2 font-heading font-black text-xs uppercase italic whitespace-nowrap">Odebírat</button>
+                </form>
+            </div>
+        </div>
+        <div
+            class="max-w-[1400px] mx-auto px-6 mt-20 pt-10 border-t-2 border-white/10 text-center text-xs font-bold uppercase tracking-widest text-white/50">
+            &copy; 2026 dítěvrozvodu.cz. All rights reserved.
+        </div>
+    </footer>
+
+    <script src="script.js?v=2"></script>
+</body>
+
+</html>

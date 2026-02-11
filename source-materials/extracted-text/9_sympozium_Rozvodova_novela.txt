@@ -1,0 +1,406 @@
+Justiční akademie
+9. rodinněprávní sympozium – Interpretace a aplikace zásadních ustanovení
+rozvodové novely
+Obsah
+Úvod2
+Dva ideové základy3
+Teze4
+Teze 1 - Nová úprava péče o dítě: důraz na nejlepší zájem dítěte5
+Teze 2 – Flexibilita a adaptabilita konceptu nejlepšího zájmu dítěte6
+Teze 3 – Vodítka pro nalezení nejlepšího zájmu dítěte7
+Teze 4 – Dobrý vztah s oběma rodiči jako základní potřeba dítěte7
+Teze 6 – Dostatečné a narušené kompetence rodičů11
+Teze 7 – Pozitivní a negativní závazky státu na poli ochrany rodinného života12
+Teze 8 – Rodičovské obstrukce13
+Interpretace některých ustanovení rozvodové novely a praktická doporučení14
+Použité zdroje24
+Úvod
+Ve dnech 10. a 11. listopadu 2025 se v Kroměříži uskutečnilo 9. rodinněprávní sympozium na téma Interpretace a aplikace zásadních ustanovení rozvodové novely. Rodinněprávní sympozium si klade za cíl napříč profesemi a stupni soudní soustavy, včetně soudu Ústavního a Nejvyššího, diskutovat o typových případech rodinného práva a nalézat modelová řešení, která by odpovídala požadavkům kladeným na moderní opatrovnickou justici.
+Sympozia se zúčastnili:
+Mgr. Ilona Benešová, Obvodní soud pro Prahu 9 Mgr. Jana Boudová Zvěřinová, Krajský soud v Praze
+JUDr. Hana Brožová, Krajský soud v Ostravě, pobočka Olomouc JUDr. Lenka Ceplová, Krajský soud v Ústí nad Labem
+JUDr. Kateřina Čuhelová, Ph.D., Krajský soud v Brně JUDr. Roman Fiala, Nejvyšší soud České republiky Mgr. Kateřina Franková, Krajský soud v Praze
+Mgr. Lenka Hubáčková, Obvodní soud pro Prahu 5 JUDr. Jaromír Jirsa, Ústavní soud České republiky Mgr. Tomáš Kamradek, Okresní soud v Ostravě Mgr. Přemysl Klas, Krajský soud v Brně
+JUDr. Pavel Kotrady, Okresní soud ve Vsetíně
+JUDr. Veronika Křesíanová, Ph.D., Ústavní soud České republiky
+Mgr. Jana Kučerová (Němcová), Okresní soud v Českých Budějovicích
+Mgr. Jakub Kvapil, Právnická fakulta Univerzity Karlovy v Praze, Advokáti s.r.o. JUDr. Ivana Losová, Krajský soud v Brně
+Mgr. et Mgr. Lucie Matoušová, Ústavní soud České republiky JUDr. Hana Nová, Obvodní soud pro Prahu 4
+Mgr. Jan Novák, Krajský soud v Ostravě, pobočka Olomouc JUDr. Igor Pařízek, Krajský soud v Hradci Králové
+Mgr. Milan Pečenka, Krajský soud v Ostravě, pobočka Olomouc Mgr. Terezie Pemová, Justiční akademie
+Mgr. Eva Petrová, Ministerstvo spravedlnosti ČR Mgr. Naďa Pínová, Městský soud v Praze
+Mgr. Vladimír Polák, Krajský soud v Ústí nad Labem Mgr. Jana Provazníková, Okresní soud v Táboře
+Mgr. et Mgr. Jitka Prušková, Ústavní soud České republiky JUDr. Lubomír Ptáček, Ph.D., Nejvyšší soud České republiky
+Martina Sebalo Vňuková, MSc. Ph.D., Psychiatrická klinika 1. LF UK JUDr. Renáta Šínová, Ph.D., Právnická fakulta v Olomouci
+Mgr. Timm Šmehlík, Krajský soud v Plzni Mgr. Jan Špalek, Okresní soud Plzeň - město
+Mgr. Petra Vidmuchová, Okresní soud v Kroměříži
+JUDr. Lenka Westphalová, Ph.D., Právnická fakulta v Olomouci Bc. Petra Wünschová, LOCIKA
+V příloze č. 1 tohoto sympozia naleznete poučení pro rodiče podle § 469 odst. 4 z. ř. s. V příloze č. 2 naleznete vzor referátu – dotazu na OSPOD podle § 469 odst. 4 z. ř. s.
+Dva ideové základy
+Sympozium vnímá, že změny provedené zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony, stojí na dvou ideových základech:
+Rovnocenná péče dostatečně kompetentních rodičů
+Výchova dítěte bez tělesného trestání, duševního strádání a jiných ponižujících opatření.
+Problematika výchovy dětí bez tělesného trestání, duševního strádání a jiných ponižujících opatření bude zmíněna jen okrajově v rámci komentáře k jednotlivým novelizovaným ustanovením, neboí se jí komplexně zabývalo 7. rodinněprávní sympozium, na které lze v tomto zcela odkázat
+Teze
+Nejlepší zájem dítěte je předním hlediskem při rozhodování soudu o úpravě péče o nezletilé dítě, a to včetně následných změn poměrů. Zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony (dále jen rozvodová novela) se koncept nejlepšího zájmu dítěte přímo promítnul do ustanovení § 906 odst. 1, § 907 odst. 1, 2 občanského zákoníku.
+Koncept nejlepšího zájmu dítěte je flexibilní a adaptabilní. Měl by být přizpůsoben a definován individuálně s ohledem na specifickou situaci, v níž se dítě, jehož se věc týká, nachází, přičemž pozornost by měla být věnována jeho osobním poměrům, situaci a potřebám. V rámci individuálních rozhodnutí musí být nejlepší zájem dítěte hodnocen a stanoven ve světle specifických okolností konkrétního dítěte. Při posuzování nejlepšího zájmu dítěte nelze postupovat podle předem daného schématu, zájem a potřeby konkrétního dítěte je třeba posuzovat v každém jednotlivém případě zvláší (viz závěry 6. rodinněprávního sympozia).
+Vodítky pro nalezení nejlepšího zájmu dítěte pří úpravě péče jsou zejména potřeby dítěte, rodičovské kompetence a postoj dítěte.
+Základní potřebou dítěte je mít a rozvíjet vztahy s oběma rodiči. Je proto v zájmu dítěte, aby se do péče o něj ekvivalentně zapojili oba kompetentní rodiče, a to s přihlédnutím ke konkrétní situaci dítěte související s jeho věkem, zdravotním stavem či dalšími okolnostmi na jeho straně (bydliště, školské zařízení, které navštěvuje…). Má-li jeden z rodičů narušené rodičovské kompetence, musí soud hledat míru zapojení takového rodiče do péče o dítě, popřípadě posoudit nutnost zásahu do jeho rodičovské odpovědnosti.
+Potřeby dítěte se mění v čase; platí, že čím je dítě mladší, tím se jeho potřeby mění rychleji. Umožňuje-li aktuálně zjištěný skutkový stav nastavit režim postupného rozšiřování péče, není nutné vyčkávat na změnu poměrů v budoucnu.
+Naprostá většina rodičů je schopná pečovat o své dítě (má dostatečné rodičovské kompetence) a není důvod, proč by do péče o dítě neměli být zapojeni ekvivalentním způsobem. Rodičovské kompetence jsou narušeny zejména v případech násilného jednání, závislosti na návykových látkách a v případě (některých) duševních poruch.
+Při úpravě poměrů nezletilého dítěte dvou kompetentních rodičů vystupuje do popředí negativní závazek státu na poli ochrany rodinného života; stát může do rodiny ingerovat, jen je-li to nezbytně nutné. Při úpravě poměrů nezletilého dítěte, má-li jeden nebo oba rodiče narušené rodičovské kompetence, vystupuje do popředí pozitivní závazek státu na poli ochrany rodinného života; stát by měl rodiče podpořit při posilování jeho rodičovských kompetencí.
+Nepravdivá nařčení z narušení rodičovských kompetencí a/nebo zavádějící informace o specifických potřebách dítěte směřují k vyloučení druhého rodiče ze života dítěte a soudy mají tuto skutečnost při úpravě poměrů dítěte zohlednit.
+Teze 1 - Nová úprava péče o dítě: důraz na nejlepší zájem dítěte
+Nejlepší zájem dítěte je předním hlediskem při rozhodování soudu o úpravě péče o nezletilé dítě, a to včetně následných změn poměrů. Zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony (dále jen rozvodová novela) se koncept nejlepšího zájmu dítěte přímo promítnul do ustanovení § 906 odst. 1, § 907 odst. 1, 2 občanského zákoníku.Nejlepší zájem dítěte je předním hlediskem při rozhodování soudu o úpravě péče o nezletilé dítě, a to včetně následných změn poměrů. Zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony (dále jen rozvodová novela) se koncept nejlepšího zájmu dítěte přímo promítnul do ustanovení § 906 odst. 1, § 907 odst. 1, 2 občanského zákoníku.
+Nejlepší zájem dítěte je předním hlediskem při rozhodování soudu o úpravě péče o nezletilé dítě, a to včetně následných změn poměrů. Zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony (dále jen rozvodová novela) se koncept nejlepšího zájmu dítěte přímo promítnul do ustanovení § 906 odst. 1, § 907 odst. 1, 2 občanského zákoníku.
+Nejlepší zájem dítěte je předním hlediskem při rozhodování soudu o úpravě péče o nezletilé dítě, a to včetně následných změn poměrů. Zákonem č. 268/2025 Sb., kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony (dále jen rozvodová novela) se koncept nejlepšího zájmu dítěte přímo promítnul do ustanovení § 906 odst. 1, § 907 odst. 1, 2 občanského zákoníku.
+Podle § 906 odst. 1 o. z., ve znění účinném od 1. 1. 2026, má-li být rozhodnuto o rozvodu manželství rodičů dítěte, soud nejprve určí, jak bude každý z rodičů napříště o dítě pečovat, a to s uvážením zájmu dítěte; s tímto zřetelem se od souhlasného stanoviska rodičů soud odchýlí jen tehdy, vyžaduje- li to zájem dítěte.
+Podle § 907 odst. 1 o. z., ve znění účinném od 1. 1. 2026, dohodnou-li se na tom rodiče, soud rozhodne, že dítě zůstává v péči obou rodičů, aniž by určoval rozsah péče o dítě každého z nich.
+Podle § 907 odst. 2 o. z., ve znění účinném od 1. 1. 2026, nerozhodne-li soud podle odstavce 1, určí rozsah péče o dítě každého z rodičů, a to s uvážením zájmu dítěte.
+Dle Obecného komentáře č. 14 Výboru OSN pro práva dítěte, bod 67, výbor je toho názoru, že obecně je v nejlepším zájmu dítěte sdílená rodičovská péče. Při rozhodování ohledně rodičovských povinností je však jediným kritériem nejlepší zájem konkrétního dítěte.
+Ustanovení § 906 a 907 občanského zákoníku (dále jen o. z.) ve znění účinném do 31. 12. 2025 vymezovala řadu kritérií, která byla rozhodná pro svěření dítěte do společné péče, střídavé péče, péče jednoho z rodičů či do péče jiné osoby. Jednalo se o vztah dítěte ke každému z rodičů, ale také o jeho vztah k sourozencům, popřípadě i k prarodičům (§ 906 odst. 1 o. z.); o osobnost dítěte, zejména s ohledem na jeho vlohy a schopnosti ve vztahu k vývojovým možnostem a životním poměrům rodičů, jakož i na citovou orientaci a zázemí dítěte; o výchovné schopnosti každého z rodičů; o stávající a očekávanou stálost výchovného prostředí, v němž má dítě napříště žít; o citové vazby dítěte k jeho sourozencům, prarodičům, popřípadě dalším příbuzným i nepříbuzným osobám; o to, který z rodičů dosud o dítě řádně pečoval a řádně dbal o jeho citovou, rozumovou a mravní výchovu, jakož i o to, u kterého z rodičů má dítě lepší předpoklady zdravého a úspěšného vývoje (§ 907 odst. 1 o. z.); o schopnost rodiče dohodnout se na výchově dítěte s druhým rodičem (§ 907 odst. 2 o. z.).
+Již v rámci 8. rodinněprávního sympozia byla zmíněna diskutabilnost shora uvedených zákonných kritérií, která měla potenciál eskalovat rodičovské konflikty, neboí směřovala k „nalezení lepšího rodiče“. Není přitom známa žádná vědecká metoda, která by dokázala u rodičů, kteří nemají narušené rodičovské kompetence, porovnat kvalitu jejich rodičovství. Ustanovení § 906 a 907 o. z. ve znění účinném do 31. 12. 2025 nebyla ani zcela kompatibilní s nálezovou judikaturou Ústavního soudu týkající se střídavé péče (například body 30 až 56 odůvodnění nálezu sp. zn. I. ÚS 3065/21), která v rámci rozhodování o poměrech dítěte po obecných soudech požadovala, aby primárně prokazovaly, zda v projednávaném případě existují skutečnosti, pro které by do života dítěte neměli být ekvivalentním způsobem zapojeni oba rodiče, a to zpravidla formou střídavé péče.
+V rámci debat o rozvodové novele se objevují názory, že „pouhý“ obecný odkaz na zájem dítěte, bez uvedení relevantních kritérií pro určení míry péče rodičů, přinese zhoršení situace dětí, zejména těch ohrožených domácím násilím. Sympozium považuje takové úvahy za nedůvodné. Jak bude níže uvedeno, jedním z vodítek pro určení nejlepšího zájmu dítěte v případech, kdy se rozhoduje o jeho
+péči, jsou rodičovské kompetence obou rodičů. Má-li některý z rodičů kompetence narušené (např. v případech domácího násilí, závislosti na návykových látkách, neléčené psychiatrické nemoci…), soudy musí v zájmu dítěte takovou skutečnost zohlednit1, buď v rámci rozsahu určené péče, nebo zásahu do rodičovské odpovědnosti. K tomuto tématu viz závěry 6. rodinněprávního sympozia a odůvodnění 7. a 8. teze 7. rodinněprávního sympozia.
+Rozvodová novela řeší primárně úpravu poměrů k nezletilým dětem v souvislosti s rozvodem a rozchodem rodičů; nejde o speciální zákon zaměřený na problematiku domácího násilí, dětí ohrožených sexuální trestnou činností či různými závislostmi a poruchami. To ovšem v žádném případě neznamená, že opatrovničtí soudci nebudou chránit ohrožené děti nebo že by jim v tom rozvodová novela bránila. Na uvedené ohrožující jevy by se měla zaměřit jiná – zvláštní novela.
+Sympozium chce upozornit, že dřívější novelou občanského zákoníku došlo k definování domácího násilí a zdůrazňuje, že projednávaná novela situaci dětí ohrožených domácím násilím žádným způsobem nezhoršuje.
+Teze 2 – Flexibilita a adaptabilita konceptu nejlepšího zájmu dítěte
+Koncept nejlepšího zájmu dítěte je flexibilní a adaptabilní. Měl by být přizpůsoben a definován individuálně s ohledem na specifickou situaci, v níž se dítě, jehož se věc týká, nachází, přičemž pozornost by měla být věnována jeho osobním poměrům, situaci a potřebám. V rámci individuálních rozhodnutí musí být nejlepší zájem dítěte hodnocen a stanoven ve světle specifických okolností konkrétního dítěte. Při posuzování nejlepšího zájmu dítěte nelze postupovat podle předem daného schém atu, zájem a potřeby konkrétního dítěte je třeba posuzovat v každém jednotlivém případě zvláší (viz závěry 6. rodinněprávního sympozia).Koncept nejlepšího zájmu dítěte je flexibilní a adaptabilní. Měl by být přizpůsoben a definován individuálně s ohledem na specifickou situaci, v níž se dítě, jehož se věc týká, nachází, přičemž pozornost by měla být věnována jeho osobním poměrům, situaci a potřebám. V rámci individuálních rozhodnutí musí být nejlepší zájem dítěte hodnocen a stanoven ve světle specifických okolností konkrétního dítěte. Při posuzování nejlepšího zájmu dítěte nelze postupovat podle předem daného schém atu, zájem a potřeby konkrétního dítěte je třeba posuzovat v každém jednotlivém případě zvláší (viz závěry 6. rodinněprávního sympozia).
+Koncept nejlepšího zájmu dítěte je flexibilní a adaptabilní. Měl by být přizpůsoben a definován individuálně s ohledem na specifickou situaci, v níž se dítě, jehož se věc týká, nachází, přičemž pozornost by měla být věnována jeho osobním poměrům, situaci a potřebám. V rámci individuálních rozhodnutí musí být nejlepší zájem dítěte hodnocen a stanoven ve světle specifických okolností konkrétního dítěte. Při posuzování nejlepšího zájmu dítěte nelze postupovat podle předem daného schém atu, zájem a potřeby konkrétního dítěte je třeba posuzovat v každém jednotlivém případě zvláší (viz závěry 6. rodinněprávního sympozia).
+Koncept nejlepšího zájmu dítěte je flexibilní a adaptabilní. Měl by být přizpůsoben a definován individuálně s ohledem na specifickou situaci, v níž se dítě, jehož se věc týká, nachází, přičemž pozornost by měla být věnována jeho osobním poměrům, situaci a potřebám. V rámci individuálních rozhodnutí musí být nejlepší zájem dítěte hodnocen a stanoven ve světle specifických okolností konkrétního dítěte. Při posuzování nejlepšího zájmu dítěte nelze postupovat podle předem daného schém atu, zájem a potřeby konkrétního dítěte je třeba posuzovat v každém jednotlivém případě zvláší (viz závěry 6. rodinněprávního sympozia).
+Právní věta nálezu Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025: Má-li soud za to, že poměry nezletilého dítěte se změnily natolik zásadně, že je třeba změnit rozložení péče každého z rodičů, musí zároveň závěr o tom, v jakém poměru bude každý z rodičů pečovat (zda v časově souměrném či časově vychýleném ve prospěch jednoho z rodičů), podepřít konkrétními důvody, proč je takové rozložení péče za specifických okolností věci vhodné a v nejlepším zájmu dítěte. Neučiní-li takto individualizované posouzení konkrétní rodinné situace a vyjde toliko z mechanicky a nepřiléhavě použitých obecných postulátů plynoucích z vývojové psychologie dítěte, dopustí se libovůle a poruší tím právo rodiče na péči a výchovu dítěte podle čl. 32 odst. 4 Listiny základních práv a svobod ve spojení s právem na soudní ochranu podle čl. 36 odst. 1 Listiny základních práv a svobod.
+Již v předchozích sympoziích byla zdůrazněna premisa, že věci péče soudu o nezletilé nemohou být rozhodovány podle předem daného schématu. Tato premisa není v rozporu s požadavkem, aby soudy při svém rozhodování vycházely z vědeckých důkazů (evidence-based přístup), které mohou být v obecné rovině nástrojem decision making procesu při hledání nejlepšího zájmu dítěte.
+1 Při rozhodování o omezení kontaktu mají vnitrostátní orgány povinnost zohlednit stěžovatelem tvrzenou existenci domácího násilí, které je relevantním a povinně posuzovaným argumentem (Bîzdîga proti Moldavsku, 2023, § 62).
+Teze 3 – Vodítka pro nalezení nejlepšího zájmu dítěte
+Vodítky pro nalezení nejlepšího zájmu dítěte pří úpravě péče jsou zejména potřeby dítěte, rodičovské kompetence a postoj dítěte.Vodítky pro nalezení nejlepšího zájmu dítěte pří úpravě péče jsou zejména potřeby dítěte, rodičovské kompetence a postoj dítěte.
+Vodítky pro nalezení nejlepšího zájmu dítěte pří úpravě péče jsou zejména potřeby dítěte, rodičovské kompetence a postoj dítěte.
+Vodítky pro nalezení nejlepšího zájmu dítěte pří úpravě péče jsou zejména potřeby dítěte, rodičovské kompetence a postoj dítěte.
+Podle článku 3 odst. 1 Úmluvy o právech dítěte musí být zájem dítěte předním hlediskem při jakékoli činnosti týkající se dětí, aí už uskutečňované veřejnými nebo soukromými zařízeními sociální péče, soudy, správními nebo zákonodárnými orgány.
+Ustálená judikatura Ústavního soudu v duchu souvisejících mezinárodních smluv vymezila obecná kritéria, která musí obecné soudy brát v úvahu při úpravě výchovných poměrů z hlediska nutnosti zohlednění nejlepšího zájmu dítěte, jakož i vždy zkoumat jejich naplnění. Jsou jimi: (1) existence pokrevního pouta mezi dítětem a o jeho svěření do péče usilující osobou; (2) míra zachování identity dítěte a jeho rodinných vazeb v případě jeho svěření do péče té které osoby; (3) schopnost osoby usilující o svěření dítěte do péče zajistit jeho vývoj i fyzické, vzdělávací, emocionální, materiální a jiné potřeby; (4) postoj dítěte.
+Výbor OSN pro práva dítěte v Obecném komentáři č. 14 ze dne 29. 5. 2013 uvádí celkem sedm prvků, které je třeba v případě rozhodování o úpravě v nejlepším zájmu dítěte vzít v řízení v potaz. Kromě již výše zmíněných čtyř kritérií jsou uvedena i tři další, a to (5) zranitelnost dítěte, (6) právo dítěte na zdraví a (7) právo dítěte na vzdělání.
+Shora uvedená kritéria vychází z potřeb dítěte (kritéria 1, 2, 5, 6 a 7), zohledňují schopnost rodičů tyto potřeby naplňovat (kritérium 3) a reflektují postoj dítěte (kritérium 4). Snad každý opatrovnický soudce se setkal se situací, kdy jeden z rodičů argumentoval tím, že dítě je tak nízkého věku, že to vylučuje střídavou péči nebo že má specifické zdravotní problémy, které vylučují střídavou péči; že druhý rodič je násilník a/nebo má problém s alkoholem či drogami a/nebo se neumí o dítě postarat, což vylučuje střídavou péči; že si dítě střídavou péči nepřeje. To, že nově zákon nedefinuje formy péče, neznamená, že zmizí spory rodičů o úpravu poměrů jejich dětí. Nově se však spor rodičů nebude zaměřovat na formu péče, ale na rozsah péče každého z nich. Níže bude odůvodněno, proč právě potřeby dítěte, rodičovské kompetence a přání dítěte představují zásadní vodítko při nalézání nejlepšího zájmu dítěte při rozhodování o péči.
+Sympozium zdůrazňuje, že v rámci projednávání případu konfliktních rodičů nesmí být dítě při realizaci participačních práv vystaveno konfliktu loajality. Je primární povinností soudu poskytnout dítěti informace, nikoliv od dítěte informace získávat; pokud se však dítě vyjádřit chce, tak mu musí být poskytnut dostatečný prostor (v podrobnostech lze odkázat na 5. rodinněprávní sympozium).
+Teze 4 – Dobrý vztah s oběma rodiči jako základní potřeba dítěte
+Základní potřebou dítěte je mít a rozvíjet vztahy s oběma rodiči. Je proto v zájmu dítěte, aby se do péče o něj ekvivalentně zapojili oba dostatečně kompetentní rodiče, a to s přihlédnutím ke konkrétní situaci dítěte související s jeho věkem, zdravotním stavem či dalšími okolnostmi na jeho straně (bydliště, školsk é zařízení, které navštěvuje…). Má-li jeden z rodičů narušené rodičovské kompetence, musí soud hledat míru zapojení takového rodiče do péče o dítě, popřípadě posoudit nutnost zásahu do jeho rodičovské odpovědnosti.Základní potřebou dítěte je mít a rozvíjet vztahy s oběma rodiči. Je proto v zájmu dítěte, aby se do péče o něj ekvivalentně zapojili oba dostatečně kompetentní rodiče, a to s přihlédnutím ke konkrétní situaci dítěte související s jeho věkem, zdravotním stavem či dalšími okolnostmi na jeho straně (bydliště, školsk é zařízení, které navštěvuje…). Má-li jeden z rodičů narušené rodičovské kompetence, musí soud hledat míru zapojení takového rodiče do péče o dítě, popřípadě posoudit nutnost zásahu do jeho rodičovské odpovědnosti.
+Základní potřebou dítěte je mít a rozvíjet vztahy s oběma rodiči. Je proto v zájmu dítěte, aby se do péče o něj ekvivalentně zapojili oba dostatečně kompetentní rodiče, a to s přihlédnutím ke konkrétní situaci dítěte související s jeho věkem, zdravotním stavem či dalšími okolnostmi na jeho straně (bydliště, školsk é zařízení, které navštěvuje…). Má-li jeden z rodičů narušené rodičovské kompetence, musí soud hledat míru zapojení takového rodiče do péče o dítě, popřípadě posoudit nutnost zásahu do jeho rodičovské odpovědnosti.
+Základní potřebou dítěte je mít a rozvíjet vztahy s oběma rodiči. Je proto v zájmu dítěte, aby se do péče o něj ekvivalentně zapojili oba dostatečně kompetentní rodiče, a to s přihlédnutím ke konkrétní situaci dítěte související s jeho věkem, zdravotním stavem či dalšími okolnostmi na jeho straně (bydliště, školsk é zařízení, které navštěvuje…). Má-li jeden z rodičů narušené rodičovské kompetence, musí soud hledat míru zapojení takového rodiče do péče o dítě, popřípadě posoudit nutnost zásahu do jeho rodičovské odpovědnosti.
+Tezi, že základní potřebou dítěte je mít a rozvíjet vztah s oběma rodiči, přijalo již 1. rodinněprávní sympozium.
+3. rodinněprávní sympozium ji rozšířilo o dodatek, že případné narušení vztahu k jednomu z rodičů je jedním z nejzávažnějších následků rozpadu rodiny. Zároveň přijalo tezi, že potřebu dítěte mít a rozvíjet vztah s oběma rodiči po rozpadu jejich svazku zpravidla naplní takové uspořádání poměrů dítěte, při kterém jsou do života dítěte ekvivalentně zapojeni oba rodiče. Péči, při které jsou do života dítěte ekvivalentně zapojeni oba rodiče, lze definovat tak, že se otec i matka ekvivalentním způsobem podílí na výchově svého dítěte a oba jsou dítěti ekvivalentním způsobem emočně i fyzicky dostupní. Ekvivalence přitom není míněna z časového hlediska (nejde o kvantitu stráveného času), nýbrž z již zmíněné emoční a fyzické dostupnosti a zapojení do výchovy a běžných činností dítěte (jde o kvalitu stráveného času).
+Shora uvedené teze 1. a 3. rodinněprávního sympozia zůstávají aktuální i po účinnosti rozvodové novely. Lze předpokládat, že předmětem sporů rodičů po 1. 1. 2026 bude rozsah soudem určené péče podle § 907 odst. 2 o. z., ve znění účinném od ledna 2026, popř. nutnost zásahu do rodičovské odpovědnosti.
+Jde-li o rozsah soudem určené péče, lze po modifikaci i nadále vycházet z nálezové judikatury Ústavního soudu vztahující se ke střídavé péči. Modifikace se přitom vztahuje „pouze“ k odnálepkování forem péče2. Ústavní soud dlouhodobě vycházel z práva dítěte a rodičů na ekvivalentní péči, ekvivalenci přitom (shodně jako rodinněprávní sympozia) nespatřoval v kvantitě, nýbrž v kvalitě, a to i kvalitě právní; vždy přitom bylo nutno vycházet z nejlepšího zájmu dítěte. Z nálezové judikatury Ústavního soudu je tak zřejmé, že rozšířený styk není kvalitativně totéž, co asymetrická (střídavá) péče, ač by rozsah byl totožný (viz např. nález sp. zn. I. ÚS 3065/21 ze dne 3. 5. 2022).
+Podle nálezu Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025: Dítě má právo zásadně na rovnocennou (rovnoměrnou) péči obou rodičů a práva obou rodičů na péči o dítě mají stejnou váhu [čl. 32 odst. 4 Listiny, čl. 8 Úmluvy ochraně lidských práv a základních svobod ("Úmluva"), čl. 7 odst. 1 Úmluvy o právech dítěte; rozsudek Evropského soudu pro lidská práva ve věci Dostál proti České republice ze dne 21. února 2006, stížnost č. 26739/04,
+§ 55]. Článek 8 Úmluvy nepřiznává žádnému z rodičů přednostní právo na výchovu dítěte (rozsudek Evropského soudu pro lidská práva Maršálek proti České republice ze dne 4. dubna 2006, stížnost č. 8153/04, § 68)… Naplňují-li oba rodiče všechna kritéria podobnou měrou a projevují-li oba rodiče skutečný a upřímný zájem pečovat o své dítě, vytváří aplikace čl. 10 odst. 2 Listiny a čl. 8 Úmluvy ve spojení s čl. 32 odst. 4 Listiny a čl. 3 a čl. 18 Úmluvy o právech dítěte presumpci ve prospěch střídavé péče a je třeba vycházet z předpokladu rovnosti. V praktické rovině by každé rozhodnutí obecného soudu mělo vést k tomu, aby byl postulát rovnoměrné rodičovské péče co nejvíce naplněn. Odlišné řešení vyžaduje pádné, náležitě objasněné a vysvětlené důvody, mající oporu v ochraně nejlepšího zájmu dítěte (srov. nález sp. zn. IV. ÚS 2611/20 ze dne 22. prosince 2020, bod 17, jakož i shrnutí v nálezu sp. zn. I. ÚS 3522/22 ze dne 30. března 2023, bod 26). Soudy mají povinnost zohlednit všechny relevantní skutečnosti odrážející jedinečnou situaci dítěte a následně je reflektovat v odůvodnění svého rozhodnutí. Nezvolí-li soud možnost střídavé péče jako jednu z rovnocenných forem péče, musí své rozhodnutí přesvědčivě odůvodnit individuálními skutkovými okolnostmi, které dostatečně osvětlí, proč by střídavá péče konkrétnímu dítěti nevyhovovala [viz např. nález sp. zn. III. ÚS 2298/15 ze dne 15. března 2016 (N 44/80 SbNU 543), bod 16]…
+Podle nálezu Ústavního soudu sp. zn. I. ÚS 2364/24 ze dne 5. 2. 2025: Ústavní soud zdůrazňuje, že ačkoli ve své judikatuře dlouhodobě označuje střídavou péči za výchozí model, z žádného nálezu nelze dovodit, že by tímto výchozím modelem měla být jeho symetrická varianta (tedy rozložená 50:50). Naopak Ústavní soud výslovně připustil, že střídavá péče může být rozložena asymetricky (nález ze dne 3. května 2022 sp. zn. I. ÚS 3065/21, body 59 až
+2 viz W proti ČR, rozhodnutí ze dne 3. dubna 2025, W proti České republice | Mezi—soudy,
+61). Judikatura Ústavního soudu se vymezovala zejména proti svěřování dítěte do péče jen jednoho z rodičů s tzv. širokým stykem druhého rodiče a právě v tomto kontextu akcentovala rovné právo rodičů podílet se na péči o děti. V žádném dosud vydaném rozhodnutí však nezaznělo, že by každý rodič musel mít dítě v péči po zcela shodnou dobu jako ten druhý. Ústavní soud vždy akcentoval individuální okolnosti a především nejlepší zájem dítěte. Představa, že dokonale symetrická střídavá péče (model 50:50 s intervalem střídání po jednom týdnu) je modelem preferovaným, nemá žádnou oporu v zákoně ani v ústavním pořádku; vychází z mylného přesvědčení některých rodičů, že každý z nich má
+„právo na ideální polovinu dítěte,“ což především nebere na zřetel, že hlavním účastníkem řízení ve věcech péče soudu o nezletilé je právě dítě, jehož nejlepší zájem stojí nade všemi ostatními zájmy.
+Sympozium má za to, že z (nejen shora uvedené) nálezové judikatury Ústavního soudu týkající se úpravy péče o nezletilé dítě lze po 1. 1. 2026 aplikovat v případech dvou dostatečně kompetentních rodičů následující postuláty:
+Dítě má právo zásadně na rovnocennou (rovnoměrnou) péči obou rodičů a práva obou rodičů na péči o dítě mají stejnou váhu.
+Naplňují-li oba rodiče všechna kritéria podobnou měrou a projevují-li oba rodiče skutečný a upřímný zájem pečovat o své dítě, vytváří aplikace čl. 10 odst. 2 Listiny a čl. 8 Úmluvy o právech dítěte ve spojení s čl. 32 odst. 4 Listiny a čl. 3 a čl. 18 Úmluvy o právech dítěte presumpci ve prospěch rovnoměrné péče a je třeba vycházet z předpokladu rovnosti. V praktické rovině by každé rozhodnutí obecného soudu mělo vést k tomu, aby byl postulát rovnoměrné rodičovské péče co nejvíce naplněn. Odlišné řešení vyžaduje pádné, náležitě objasněné a vysvětlené důvody, mající oporu v ochraně nejlepšího zájmu dítěte.
+Představa, že dokonale symetrická péče (model 50:50 s intervalem střídání po jednom týdnu) je modelem preferovaným, nemá žádnou oporu v zákoně ani v ústavním pořádku; vychází z mylného přesvědčení některých rodičů, že každý z nich má „právo na ideální polovinu dítěte,“ což především nebere na zřetel, že hlavním účastníkem řízení ve věcech péče soudu o nezletilé je právě dítě, jehož nejlepší zájem stojí nade všemi ostatními zájmy.
+Sympozium zdůrazňuje, že pojem rovnocenná péče má hodnotový význam a není totožný s pojmem rovnoměrná péče, který má kvantitativní význam; rovnoměrnost nerovná se 50:50.
+Rozvodová novela předpokládá, že v případě narušených kompetencí bude docházet k zásahům do rodičovské odpovědnosti výrazně častěji, než dosud; to platí v případech, kdy rodič o dítě dlouhodobě nejeví zájem.
+Tím, jak projednávat a rozhodovat případy rodičů s narušenými kompetencemi (neschopnost provést dítě rozpadem vztahu rodičů, domácí násilí a závislost na návykových látkách), se zabývalo 6. rodinněprávní sympozium. Vzhledem k poptávce ze strany justice i odborné veřejnosti se každému z těchto témat bude věnovat samostatné sympozium.
+Při projednávání případů úpravy péče relativně často zaznívá námitka jednoho z rodičů, že vzhledem ke specifickému zdravotnímu stavu dítěte (poruchy spektra, ADHD, smyslové nebo mentální postižení …) není možno, aby o něj ekvivalentním způsobem pečovali oba rodiče, nýbrž že je nutné dítěti dopřát stabilní prostředí. K tomu nutno podotknout, že z odborné literatury a vědeckých výzkumů vyplývají zásadní rizika, pokud o dítě s postižením pečuje pouze jeden rodič3 (úroveň stresu rodiče, zdravotní stav rodiče, socioekonomické dopady …). Střídání v péči o dítě se specifickými potřebami vyplývajícími z jeho zdravotního stavu ve dvou domácnostech je však obecně podmíněno tím, že oba rodiče mají náhled na zdravotní stav dítěte, spolupracují s odborníky a respektují jejich doporučení a že po rozpadu svazku rodičů bude pokračovat péče odborníka (lékař, psycholog …),
+3 Viz zahraniční odborná literatura
+který dosud s dítětem pracoval. Podrobněji se tomuto tématu bude věnovat další rodinněpravní sympozium, které bude zaměřené na projednávání a rozhodování věcí vysoce konfliktních rodičů.
+Teze 5 – Potřeby dítěte v čase
+Potřeby dítěte se mění v čase; platí, že čím je dítě mladší, tím se jeho potřeby mění rychleji.Umožňuje-li aktuálně zjištěný skutkový stav nastavit režim postupného rozšiřování péče, není nutné vyčkávat na změnu poměrů v budoucnu.Potřeby dítěte se mění v čase; platí, že čím je dítě mladší, tím se jeho potřeby mění rychleji.Umožňuje-li aktuálně zjištěný skutkový stav nastavit režim postupného rozšiřování péče, není nutné vyčkávat na změnu poměrů v budoucnu.
+Potřeby dítěte se mění v čase; platí, že čím je dítě mladší, tím se jeho potřeby mění rychleji.
+Umožňuje-li aktuálně zjištěný skutkový stav nastavit režim postupného rozšiřování péče, není nutné vyčkávat na změnu poměrů v budoucnu.
+Potřeby dítěte se mění v čase; platí, že čím je dítě mladší, tím se jeho potřeby mění rychleji.
+Umožňuje-li aktuálně zjištěný skutkový stav nastavit režim postupného rozšiřování péče, není nutné vyčkávat na změnu poměrů v budoucnu.
+V řízeních o úpravu péče bývá častým argumentem, že dítě v určitém věku potřebuje mít jednu primárně pečující osobu, a že není možné, aby se do péče ve větším rozsahu zapojoval druhý rodič. Ústavní soud se v nedávné době k teorii attachmentu vyjádřil následujícím způsobem:
+Podle nálezu Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025: Teorie vztahové vazby užívající pojem primární vztahové osoby váže vznik takové vazby na první měsíce života dítěte. Významnost a charakter této vazby se proměňují v závislosti na vývoji dítěte. Už v druhém roku věku dítěte se většina dětí váže na více než jednu osobu (Hašto, J. Vzťahová väzba. Ku koreňom lásky a úzkosti, Vydavateľstvo F, 2005, s. 79). Již od batolecího období je dítě schopno vzhledem k internalizaci primární vztahové osoby si její přítomnost vyvolat v případě, že není přítomna. Proto je koncept primární vztahové osoby užitečný do raného batolecího věku, poté vzrůstá důležitost dalších vazeb. V teorii vztahové vazby je problematické, že veškerý výzkum se od vzniku teorie (70. léta 20. století) věnoval především vztahu matky a dítěte než otce a dítěte. Přitom důležitost vazby otce a dítěte tkví v rozvoji prosociálního chování dítěte. Jak dívky, tak chlapci v předškolním a mladším školním věku vykazovaly při pozitivní vztahové vazbě k otci méně úzkosti a deprese. V důsledku rozchodu rodičů navíc spíše dochází k narušení vazby otce a dítěte než ve vztahu dítěte s matkou (Kraus, L. a Pope, K. The Importance of Attachment in Custody Evaluations: Toward The Best Interest of the Child in Galatzer-Levy, R. M., Kraus, L., Galatzer-Levy, J. The Scientific Basis of Child Custody Decision, 2nd edition, J. Wiley, 2009, s. 165-181). Nedávná studie teorie vztahové vazby nadto opětovně potvrdila názor, že téměř všechny děti si tvoří minimálně jeden vazební vztah a většina jich má několik; rozdíl je v kvalitě těchto vazeb. Vztahová vazba dětí s jejich pravidelnými pečovateli je stěžejní a měla by být podporována, nadto více pečujících osob a vazební síť představuje ve vývoji dítěte ochranný faktor (Forslund, T. et al., Attachment Goes to Court: Child Protection and Custody Issues, Attachment & Human Development, 24(1), 2021, s. 1-52). Větší množství vazebních osob pro dítě tak činí nemožným založit rozhodnutí o podobě péče pouze na tomto faktoru. Při rozhodování o formě péče by tak soud měl na povahu a sílu vztahové vazby pohlížet v kombinaci s dalšími faktory (Rohrbaugh, J. B., A Comprehensive Guide to Child Custody Evaluations: Mental Health and Legal Perspectives, Springer Science
++ Business Media, 2008, s. 46). Je vhodné dodat, že rozsah péče nekoreluje s jistotou dané vazby, která nepůsobí na budoucí život dítěte osamoceně; vliv má rovněž např. podpora od rodiče, domácí prostředí, navazování vztahů s vrstevníky a dalšími vztahovými osobami, "dostatečně dobrá" péče a její soustavné trvání, potřeba dítěte mít známého pečovatele nepředstavujícího riziko (Hynan, D. J. Child Custody Evaluation: New Theoretical Applications and Research, Charles C Thomas, 2014, s. 29, a cit. výše Forslund, 25-30).
+Nastavení ekvivalentního zapojení rodičů do života malého dítěte bylo jedním z témat 8. rodinněprávního sympozia, které doporučilo jako vhodný nástroj pro posouzení možností a četností přespávání dítěte ve věku do 3. let věku ve dvou domácnostech nástroj zpracovaný soudem v Oregonu (viz 2. příloha 3. rodinněprávního sympozia). Je důležité si uvědomit, že ve věku do 3 let se potřeby dítěte, a tomu odpovídající možnosti rodičů se do jeho života zapojit ekvivalentním způsobem, mění velmi dynamicky. Pro formování vazby mezi dítětem a rodičem přitom platí, že frekvence a pravidelnost jsou důležitější než délka kontaktu. Délka kontaktu by měla být přímo úměrná věku dítěte. Níže uvedené nálezy Ústavního soudu zohledňují dynamiku vývoje dítěte a zdůrazňují, že není efektivní (a vhodné) soudně upravovat poměry dítěte co pár měsíců, ale soudy by měly nastavit i budoucí rozsah péče, umožňuje-li to aktuálně zjištěný skutkový stav.
+Podle nálezu Ústavního soudu sp. zn. II. ÚS 212/25 ze dne 12. 3. 2025: Úloha opatrovnických soudů je nelehká a velmi zodpovědná. Mnohdy namísto rodičů musí nastavovat pravidla životního rytmu rodin na mnoho měsíců a let předem (minimálně sudý a lichý rok), nedaří-li se rodičům samotným dospět k takovému rodičovskému plánování, aby vyhovovalo jak dítěti, tak rodičům. U malého dítěte s rapidnějšími vývojovými skoky má rodič značný vliv na rozvoj dítěte v mnoha oblastech života (sociální role a kontrola, upevňování individuality, jazyk atd.). S ohledem na běh času pro dítě má potom negativní dopad na vytváření pevných vazeb rodičů a dětí jak délka soudního řízení, tak chybějící odpovídající vykonatelná soudní úprava styku. Nebrání-li rozhodnutí o podobě styku zvláštní okolnosti, součástí práva na soudní ochranu a zároveň práva na ochranu rodičovství je nastavení péče každého z rodičů tak, aby se mohli podílet rovnoměrně na péči a pečujících úkonech o dítě. V opačném případě bylo nezbytné soudně nastavovat na počátku života dítěte co pár měsíců novou úpravu pouze z důvodu věku. To není ani efektivní, ani žádoucí. Nelze opomenout ani zákonnou podmínku pro změnu rozhodnutí v § 909 občanského zákoníku, a to změnu poměrů, které je nutno rozumět jako změně podstatné v takových skutečnostech, které tvořily skutkový podklad pro předchozí rozhodnutí soudu (nález sp. zn. IV. ÚS 2002/22 ze dne 20. září 2022). Je těžko představitelné, že k takové podstatné změně by mělo docházet v krátkých časových úsecích kopírujících pouze jen psychosociální rozvoj – zejména malého – dítěte… soud povinen upravit poměry k dítěti komplexně, je-li to možné, a neodsouvat další úpravu do budoucna, přičemž návrhy rodičů není vázán… Krajský soud uvedeným požadavkům nedostál, po navykacím režimu nenastavil režim, na který si dítě mělo navyknout, a současně bez relevantního důvodu nenastavil prázdninový styk otce s dcerou, která o prvních do úvahy připadajících letních prázdninách bude ve věku 3 let, což je již věk, který sám o sobě rozhodně není překážkou pro prázdninový režim styku odlišný od režimu běžného. Soudy i o styku rozhodují podle stavu ke dni rozhodnutí, rozhodují však o úpravě styku pro dobu budoucí, proto musí mít vizi budoucího vývoje dítěte určitého věku a přihlížet k ní.
+Podle nálezu Ústavního soudu sp. zn. II ÚS 894/25 ze dne 23. 7. 2025: Pro Ústavní soud však není rozhodující samotný rozsah styku, jak jej upravil odvolací soud, ale skutečnost, že nestanovil žádný výhled jeho postupného rozšiřování – na rozdíl od obvodního soudu, který alespoň minimální výhled nastínil. Existuje přitom více způsobů, jak styk postupně rozšiřovat: například navýšení délky asistovaného styku, jeho častější frekvenci, přesun do přirozenějšího prostředí, přítomnost matky při kontaktu nebo jeho konání v místě jejího bydliště… Podle § 909 občanského zákoníku lze změnit rozhodnutí o poměrech k dítěti pouze při podstatné změně okolností, na nichž předchozí rozhodnutí spočívalo. Takovou změnu je nutno chápat jako zásadní posun ve skutkovém základu předchozího rozhodnutí (srov. nález sp. zn. IV. ÚS 2002/22 ze dne 20. 9. 2022). V této věci již aktuálně zjištěný skutkový stav umožňuje nastavit režim postupného rozšiřování styku, aniž by bylo nutné vyčkávat na změnu poměrů v budoucnu. Již v době rozhodování odvolacího soudu přitom muselo být zřejmé, že nastavený režim styku je minimalistickým extrémem, s nímž se nelze do budoucna zásadně spokojit.
+Teze 6 – Dostatečné a narušené kompetence rodičů
+Naprostá většina rodičů je schopná pečovat o své dítě (má dostatečné rodičovské kompetence) a není důvod, proč by do péče o dítě neměli být zapojeni ekvivalentním způsobem. Rodičovské kompetence jsou narušeny zejména v případech násilného jednání, závislosti na návykových látkách a v případě (některých) duševních poruch.Naprostá většina rodičů je schopná pečovat o své dítě (má dostatečné rodičovské kompetence) a není důvod, proč by do péče o dítě neměli být zapojeni ekvivalentním způsobem. Rodičovské kompetence jsou narušeny zejména v případech násilného jednání, závislosti na návykových látkách a v případě (některých) duševních poruch.
+Naprostá většina rodičů je schopná pečovat o své dítě (má dostatečné rodičovské kompetence) a není důvod, proč by do péče o dítě neměli být zapojeni ekvivalentním způsobem. Rodičovské kompetence jsou narušeny zejména v případech násilného jednání, závislosti na návykových látkách a v případě (některých) duševních poruch.
+Naprostá většina rodičů je schopná pečovat o své dítě (má dostatečné rodičovské kompetence) a není důvod, proč by do péče o dítě neměli být zapojeni ekvivalentním způsobem. Rodičovské kompetence jsou narušeny zejména v případech násilného jednání, závislosti na návykových látkách a v případě (některých) duševních poruch.
+Jak již bylo shora uvedeno, ekvivalentní zapojení obou rodičů do života dítě je podmíněno jejich plnými rodičovskými kompetencemi. Obecně je možno vycházet z tzv. „nulové hypotézy“, tedy že výchovné kompetence rodičů jsou pro výchovu daného dítěte dobré. Není proto důvodné posuzovat a popisovat osobnostní vlastnosti rodičů, jestliže o nich nejsou konkrétní pochyby; dítě potřebuje zažívat rodiče takového jaký je; výchovné kompetence je nutné posuzovat především na základě dosavadní historie a v kontextu modelu rodičovských kompetencí4.
+4 srovnej Doc. PhDr. et PhDr. Radek Ptáček, Ph.D., sborník Interdisciplinární spolupráce v nejlepším zájmu dítěte, Tribun EU, 2015, s. 67 - 77
+V případě, že by však reálné indicie ukazovaly na možnost vyvrácení této hypotézy, jsou soudy v rámci vyšetřovací zásady povinny rodičovské kompetence vyhodnotit a v případě jejich narušení tuto skutečnost promítnout do určeného rozsahu péče či zásahu do rodičovské odpovědnosti. K vyhodnocení rodičovských kompetencí je možno využít nástroj dostupný na www.prodite21.cz.
+Podle nálezu Ústavního soudu ve věci sp. zn. I. ÚS 1554/14 ze dne 30. 12. 2014: Než Ústavní soud přistoupí k rozboru důvodů, které mohou vyvrátit presumpci ve prospěch střídavé péče, musí nejprve blíže rozvést obsah jednotlivých čtyř základních objektivních kritérií zmíněných v bodě 27 tohoto nálezu. V této souvislosti Ústavní soud podotýká, že schopnost daného rodiče zajistit jeho vývoj a fyzické, vzdělávací, emocionální, materiální a jiné potřeby není obvykle naplněno stejnou měrou například tehdy, pokud byl jeden z rodičů v blízké minulosti odsouzen k výkonu trestu odnětí svobody, pokud se jeden z rodičů dopustil fyzického či psychického násilí na dotčeném dítěti či existuje prokazatelná "násilná historie" tohoto rodiče ve vztahu k jiným dětem, pokud se jeden z rodičů prokazatelně dopustil domácího násilí na druhém z rodičů, pokud je jeden z rodičů závislý na drogách, alkoholu či silných lécích snižujících jeho motorické a psychologické schopnosti, pokud jeden z rodičů vede nezřízený život, či pokud má jeden z rodičů diagnostikovány závažné psychické problémy (ani v těchto případech však obvykle nelze vyloučit styk takového rodiče s dítětem zcela; srov. rozsudek ESLP ve věci T. proti České republice ze dne 17. července 2014 č. 19315/11).
+Teze 7 – Pozitivní a negativní závazky státu na poli ochrany rodinného života
+Při úpravě poměrů nezletilého dítěte dvou kompetentních rodičů vystupuje do popředí negativní závazek státu na poli ochrany rodinného života; stát může do rodiny ingerovat, jen je-li to nezbytně nutné. Při úpravě poměrů nezletilého dítěte, má -li jeden nebo oba rodiče narušené rodičovské kompetence, vystupuje do popředí pozitivní závazek státu na poli ochrany rodinného života; stát by měl rodiče podpořit při posilování jeho rodičovských kompetencí.Při úpravě poměrů nezletilého dítěte dvou kompetentních rodičů vystupuje do popředí negativní závazek státu na poli ochrany rodinného života; stát může do rodiny ingerovat, jen je-li to nezbytně nutné. Při úpravě poměrů nezletilého dítěte, má -li jeden nebo oba rodiče narušené rodičovské kompetence, vystupuje do popředí pozitivní závazek státu na poli ochrany rodinného života; stát by měl rodiče podpořit při posilování jeho rodičovských kompetencí.
+Při úpravě poměrů nezletilého dítěte dvou kompetentních rodičů vystupuje do popředí negativní závazek státu na poli ochrany rodinného života; stát může do rodiny ingerovat, jen je-li to nezbytně nutné. Při úpravě poměrů nezletilého dítěte, má -li jeden nebo oba rodiče narušené rodičovské kompetence, vystupuje do popředí pozitivní závazek státu na poli ochrany rodinného života; stát by měl rodiče podpořit při posilování jeho rodičovských kompetencí.
+Při úpravě poměrů nezletilého dítěte dvou kompetentních rodičů vystupuje do popředí negativní závazek státu na poli ochrany rodinného života; stát může do rodiny ingerovat, jen je-li to nezbytně nutné. Při úpravě poměrů nezletilého dítěte, má -li jeden nebo oba rodiče narušené rodičovské kompetence, vystupuje do popředí pozitivní závazek státu na poli ochrany rodinného života; stát by měl rodiče podpořit při posilování jeho rodičovských kompetencí.
+Míra ingerence státu do rodinného života při úpravě péče o nezletilé dítě by měla vycházet z vyhodnocení rodičovských kompetencí. Již bylo uvedeno, že většina rodičů má dostatečné kompetence pro výchovu svých dětí; stát by v takových případech měl do rodiny ingerovat minimálně. Vyjde-li však v průběhu opatrovnického řízení najevo, že kompetence jednoho či obou rodičů jsou narušené, měl by soud takového rodiče aktivně podpořit, popř. zvážit přijetí výchovného opatření podle § 925 odst. 2 o. z. nebo § 13 odst. 1 zákona o sociálně-právní ochraně dětí.
+Podle nálezu Ústavního soudu sp. zn. III. ÚS 2298/15 ze dne 15. 3. 2016: Ústavní soud zde vychází z premisy, že jsou to primárně rodiče, kdo rozhoduje o osudu svých dětí, a tudíž i ingerence státu by měla nastoupit pouze v těch případech, kdy je to skutečně nezbytně nutné.
+Podle nálezu Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025: Při rozhodování soudu ve věcech péče o nezletilé naplňuje stát pozitivní závazky plynoucí z čl. 32 odst. 1 a 4 Listiny, neboť zasahuje do nejintimnější sféry jednotlivců – do jejich rodinného života. Ústavní soud proto v těchto věcech klade na obecné soudy zvýšené nároky týkající se nejen metodologie posouzení nejlepšího zájmu dítěte ve vztahu k rozhodnutí o modelu péče o dítě, ale též i kvality posouzení věci. Ústavní soud v tomto nálezu vychází z premisy, že soud má být zdrženlivý v zásahu do způsobu života rodiny – v duchu principu "méně státu, více rodiny". Stejný princip je zmíněn v nálezu sp. zn. II. ÚS 1504/25 ze dne 12. 8. 2025.
+Podle nálezu Ústavního soudu ve věci sp. zn. II. ÚS 3765/11 ze dne 13. 3. 2012: … zájmem společnosti je především vytvářet takové společenské, sociální a morální prostředí, aby ke konfliktu zájmů všech zúčastněných, tj. rodičů, nezletilých i jejich kolizních opatrovníků, nemuselo docházet.
+Pozitivní závazek státu při posilování rodičovských kompetencí se promítá do poskytování podpory rodičům při úpravě poměrů dítěte v souvislosti s ukončením jejich společného soužití, při zvládání závislosti na návykových látkách, při zvládání agresivního chování, při podpoře žádoucího rodičovství tak, aby dítě mohlo vyrůstat v láskyplné péči obou rodičů, kteří budou schopni naplňovat jeho potřeby. V rámci multiinstitucionální spolupráce je i soud povinen způsobem projednání případu k naplnění těchto pozitivních závazků státu na poli ochrany rodinného života přispět. Dalším pozitivním závazkem, kterému musí soud dostát, je závazek ochránit dítě před krutým, nelidským nebo ponižujícím zacházením.
+Teze 8 – Rodičovské obstrukce
+Nepravdivá nařčení z narušení rodičovských kompetencí a/nebo zavádějící informace o specifických potřebách dítěte směřují k vyloučení druhého rodiče ze života dítěte a soudy mají tuto skutečnost při úpravě poměrů dítěte zohlednit.Nepravdivá nařčení z narušení rodičovských kompetencí a/nebo zavádějící informace o specifických potřebách dítěte směřují k vyloučení druhého rodiče ze života dítěte a soudy mají tuto skutečnost při úpravě poměrů dítěte zohlednit.
+Nepravdivá nařčení z narušení rodičovských kompetencí a/nebo zavádějící informace o specifických potřebách dítěte směřují k vyloučení druhého rodiče ze života dítěte a soudy mají tuto skutečnost při úpravě poměrů dítěte zohlednit.
+Nepravdivá nařčení z narušení rodičovských kompetencí a/nebo zavádějící informace o specifických potřebách dítěte směřují k vyloučení druhého rodiče ze života dítěte a soudy mají tuto skutečnost při úpravě poměrů dítěte zohlednit.
+Rodičovské obstrukce představují soubor názorů a vzorců chování, které brání větší angažovanosti druhého rodiče v péči o děti. Rodič, jenž v souvislosti s rozvodem či rozchodem zažívá pocity nepřátelství, zranění a hněvu, často brání kontaktu druhého rodiče s dítětem (srovnej Oldřich Matoušek a kol., Děti a rodiče v rozvodu, Portál s.r.o., 2015, s. 40). Ze soudní praxe i z medializovaných případů lze vypozorovat různé projevy rodičovských obstrukcí. Nejčastěji se jedná o zpochybňování rodičovských kompetencí (např. neumí vařit, prát, málo obléká dítě …), nepravdivá nařčení z agresivního chování (vůči druhému rodiči či dětem) či sexuálního zneužívání dětí, nepředávání dítěte ke styku s odkazem na nepříznivý zdravotní stav, nařčení, že dětem se před či po styku s rodičem zhoršuje zdravotní stav apod. Protože rodičovské obstrukce ohrožují naplnění základní potřeby dítěte mít a rozvíjet vztah s oběma rodiči, musí být její projevy při úpravě poměrů dítěte zohledněny, a to buď v rozsahu péče obstruujícího rodiče, nebo v zásahu do jeho rodičovské odpovědnosti, odůvodňují-li to okolnosti případu. Zároveň soudy musí dostát pozitivnímu závazku státu na poli ochrany rodinného života a vyloučení rodiče ze života dítěte nepřipustit.
+Interpretace některých ustanovení rozvodové novely a praktická doporučení
+Občanský zákoník
+§ 858 o. z.
+Doporučuje se, aby součástí hromadných edukací soudů a edukačních materiálů soudů byla i edukace, že jakékoliv tělesné trestání, duševní strádání nebo jiná ponižující opatření jsou nepřijatelná.
+V okamžiku, kdy se soud dozví o tom, že rodiče používají tělesné trestání či jiné ponižující opatření, nemůže zůstat nečinný, edukuje rodiče, doporučí adekvátní odbornou pomoc, zapojí orgán sociálně právní ochrany dětí, případně vyhodnotí, zda použije jiná opatření (napomenutí, dohled, rodičovská odpovědnost) a tuto skutečnost zohlední při rozhodování o péči.
+§ 869 odst. 2 o. z.
+Bude se jednat zřejmě o zcela výjimečné případy, ve kterých bude připadat v úvahu částečné pozastavení výkonu rodičovské odpovědnosti v rozsahu přímého osobního styku (viz rozhodnutí NS 24 Cdo 3883/2022). Jde o případy, ve kterých by nyní soudce nevykonal rozhodnutí o péči či styku z důvodu na straně dítěte (viz například nález Ústavního soudu sp. zn. III. ÚS 3462/14). Před takovým rozhodnutím je nutno naplnit pozitivní závazek státu na poli ochrany rodinného života a v rámci interdisciplinární spolupráce vyvinout maximální snahu o napravení narušeného vztahu rodiče a dítěte.
+Proti rozhodnutí odvolacích soudů je v tomto případě přípustné dovolání (§ 30 z. ř. s).
+§ 872 o. z.
+Upravit osobní styk rodiče s nezletilým dítětem je možno pouze v případě zásahu do rodičovské odpovědnosti takového rodiče. Na úpravě styku bez zásahu do rodičovské odpovědnosti se rodiče dohodnout nemohou. Je-li třeba před úpravou péče nebo i poté, co je péče již upravena, rozhodnout o asistovaném kontaktu rodiče s dítětem, bude se jednat o asistovanou péči, takové rozhodnutí bude vydáváno formou prozatímního rozhodnutí. Před rozhodnutím o asistované péči soud kontaktuje organizaci, která bude asistovanou péči realizovat a domluví se s ní na podmínkách. Tato organizace není účastníkem řízení. Není přípustné, aby soud nechal rozsah asistované péče na úvaze organizace.
+Pokud soud chce v rámci úpravy podmínek péče podle § 907 odstavec 3 o. z. určit, které osoby nesmějí být při péči přítomny, uloží povinnost zajistit nepřítomnost těchto osob rodiči, v jehož péči má dítě být, nikoliv přímo těmto třetím osobám.
+§ 906 a § 907 o. z.
+Dohoda rodičů podle § 906 odst. 2 o. z. nemá žádnou zákonnou formu. Nežijí-li rodiče společně a dříve se dohodli na rozsahu péče o dítě či delší dobu panuje ohledně péče o dítě pokojný (nikým nerozporovaný) stav, a ani jeden z rodičů to nepožaduje, měla by soudní úprava poměrů dohodu rodičů či pokojný stav zohlednit, a to v rámci premisy „více rodiny, méně státu“. Tuto myšlenku lze
+ilustrovat na příkladu úpravy péče, bude-li jeden z rodičů procesně aktivní (bude se dostavovat k soudu) a druhý bude procesně neaktivní (k soudu se dostavovat nebude). Bude-li mít soud prokázanou dohodu rodičů či pokojný stav, zohlední tuto skutečnost v úpravě péče o dítě a zachová status quo.; rozhodovat přitom bude autoritativním výrokem, nikoliv výrokem o schválení dohody.
+Není možno autoritativně rozhodnout o rozsahu péče 100:0, nedojde-li k zásahu do rodičovské odpovědnosti. K sankčním zásahům do rodičovské odpovědnosti mají soudy přistupovat, jsou-li proto naplněny zákonné podmínky - § 870, § 871 o. z.; zpravidla by k tomu nemělo docházet při první úpravě péče o dítě.
+Příklady, jak může soud rozhodnout v konkrétních situacích:
+Rodiče se dohodnou, že dítě zůstává v jejich péči, aniž by se určoval rozsah této péče a ani jeden z nich nenavrhne, aby bylo rozhodnuto o výživném.
+Soud schválí dohodu rodičů o péči (§ 907 odst. 1 o. z.), ledaže by dohoda nebyla v souladu se zájmem dítěte; o výživném nerozhoduje (§ 919 odst. 2 o. z).
+Rodiče se dohodnou, že dítě zůstává v jejich péči, aniž by se určoval rozsah této péče a zároveň se dohodnou na výživném.
+Soud schválí dohodu rodičů o péči (§ 907 odst. 1 o. z.) a výživě (§ 919 odst. 4 o. z.), ledaže by dohoda nebyla v souladu se zájmem dítěte.
+Rodiče se dohodnou, že dítě zůstává v jejich péči, aniž by se určoval rozsah této péče, nedohodnou se na výživě a alespoň jeden z nich navrhne, aby soud o výživném rozhodl.
+Soud schválí dohodu rodičů o péči (§ 907 odst. 1 o. z.), ledaže by dohoda nebyla v souladu se zájmem dítěte a autoritativně rozhodne o výživném (§ 919 odst. 1, 4 o. z.).
+Rodiče se dohodnou na péči o dítě s určením rozsahu této péče a zároveň se dohodnou na výživném.
+Soud schválí dohodu rodičů o péči (§ 907 odst. 2 o. z.) a výživě (§ 919 odst. 3 o. z.), ledaže by dohoda nebyla v souladu se zájmem dítěte.
+Rodiče se dohodnou na péči o dítě s určením rozsahu této péče a nedohodnou se na výživě.
+Soud schválí dohodu rodičů o péči (§ 907 odst. 2 o. z.), ledaže by dohoda nebyla v souladu se zájmem dítěte a autoritativně rozhodne o výživném (§ 919 odst. 3 o. z.).
+Jeden z rodičů je procesně neaktivní (nevyjádřil se ve věci, neúčastní se jednání), druhý rodič tvrdí, že procesně neaktivní rodič nějakým způsobem o dítě pečuje (lhostejno v jakém rozsahu a s jakou pravidelností) s tím, že se na takovém uspořádání poměrů dítěte rodiče dohodli a/nebo se jedná o pokojný stav, který druhému rodiči vyhovuje a nenavrhuje rozhodnout o péči s určením rozsahu.
+Soud bude vycházet z dohody rodičů a/nebo pokojného stavu, rozhodne, že dítě zůstává v péči obou rodičů, aniž by určoval rozsah péče o dítě každého z nich (§ 907 odst. 1 o. z.) a rozhodne o výživném (§ 919 odst. 1, 3 o. z.).
+Jeden z rodičů je procesně neaktivní (nevyjádřil se ve věci, neúčastní se jednání), druhý rodič tvrdí, že procesně neaktivní rodič žádným způsobem o dítě nepečuje s tím, že se na takovém uspořádání poměrů dítěte rodiče dohodli a/nebo se jedná o pokojný stav, který druhému rodiči vyhovuje
+a nenavrhuje rozhodnout o péči s určením rozsahu.
+Soud bude vycházet z dohody rodičů a/nebo pokojného stavu, autoritativně rozhodne, že dítě zůstává v péči obou rodičů, aniž by určoval rozsah péče o dítě každého z nich (§ 907 odst. 1 o. z.) a rozhodne o výživném (§ 919 odst. 1, 3 o. z.).
+Jeden z rodičů je procesně neaktivní (nevyjádřil se ve věci, neúčastní se jednání), druhý rodič tvrdí, že procesně neaktivní rodič nějakým způsobem o dítě pečuje a navrhne rozhodnout o péči s určením rozsahu.
+Soud autoritativně rozhodne o péči, určí přitom rozsah péče každého z rodičů (§ 907 odst. 2 o. z.) a autoritativně rozhodne o výživném (§ 919 odst. 3 o. z.). Vyhovuje-li druhému rodiči míra zapojení neaktivního rodiče, soud tuto míru zohlední při určení rozsahu péče.
+- Příklad výroku:
+Manželství Kateřiny Strakové, rozené Vondráčkové, narozené 1. 10. 1992, a Romana Straky, narozeného 14. 12. 1990, uzavřené dne 15. 5. 2018 před Městským úřadem v Kroměříži, se rozvádí.
+V době po rozvodu manželství je matka povinna a oprávněna pečovat o nezletilého Františka a nezletilého Davida po celý kalendářní rok s výjimkou péče otce v rozsahu podle výroku III. tohoto rozsudku.
+Varianta a)
+V době po rozvodu manželství je otec povinen a oprávněn pečovat o nezletilého Františka Straku, narozeného dne 13. 11. 2018, a nezletilého Davida Straku, narozeného dne 12. 12. 2020, v rozsahu, který je povinen matce oznámit pro následující kalendářní rok nejpozději do
+30. 11. roku předcházejícího, nejvýše však v rozsahu jednoho víkendu v měsíci od pátku 17:00 do neděle 17:00, dvou týdnů o letních prázdninách od pátku 17:00 do pátku 17:00 a dvou navazujících dnů o vánočních prázdninách v období od 27. 12. do 31. 12, od 17:00 prvního dne do 17:00 druhého dne; neuplatní-li otec řádně a včas požadavek na režim péče podle tohoto výroku, platí režim péče podle výroku II.
+Nebo:
+Varianta b)
+V době po rozvodu manželství je otec povinen a oprávněn pečovat o nezletilého Františka a nezletilého Davida každou první sobotu v kalendářním měsíci od 9:00 do 18:00.
+Rodiče jsou oprávněni a povinni předávat a přebírat nezletilé v místě bydliště matky; rodič, který péči končí, je povinen nezletilé na předání připravit, druhému rodiči nezletilé děti řádně a včas předat a v potřebném rozsahu s druhým rodičem spolupracovat.
+Otec je povinen platit v době po rozvodu manželství rodičů k rukám matky výživné pro nezletilého Františka ve výši 4 000 Kč měsíčně a pro nezletilého Davida ve výši 3 000 Kč měsíčně, vždy do 15. dne příslušného kalendářního měsíce.
+Matce se neukládá povinnost platit výživné ani pro jednoho nezletilého.
+Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Soud s přihlédnutím ke všem okolnostem zváží, zda je na místě pokusit se o zapojení neaktivního rodiče do života dítěte stanovením minimálního rozsahu péče nebo je třeba přistoupit k zásahu do rodičovské odpovědnosti; a zároveň rozhodne o výživném.
+Při určování rozsahu péče je nutno zohlednit případnou skutečnost, že jeden z rodičů nebyl po delší dobu s dítětem v kontaktu.
+Varianta, kdy dítě blízké zletilosti nechce upravit rozsah péče jednoho z rodičů a tento rodič na určení rozsahu péče trvá. 
+Soud v rámci prvoúpravy péče dítěte rozhodne podle § 907 odstavec 2 o. z., určí rozsah péče obou rodičů a rozhodne o výživném. Soud v rámci projednání případu naplní pozitivní závazek státu na poli ochrany rodinného života a podpoří rodiče a dítě při posílení jejich vztahu.
+§ 909 o. z.
+Stále platí, že dohodou rodičů nemůže být měněn rozsudek soudu.
+§ 913 o. z.
+Zohlednění budoucích změn by mělo být v řádu týdnů, měsíců – typicky pokud soud rozhoduje o výživném v květnu a má za prokázané, že dítě v září nastoupí na střední školu. V případě vysoce konfliktních rodičů však není vyloučeno zohlednit delší časový horizont tak, aby rodiče nedostali možnost pokračovat v konfliktu.
+Co může být považováno za změnu poměrů by měl soud konkretizovat v odůvodnění rozsudku.
+Odst. 3 – pokud se stanovuje výživné před novou právní úpravou, použije se dosavadní právní úprava pro určení výživného (hmotněprávní).
+§ 919 odst. 3 o. z.
+Rozhodne-li soud o výrazně asymetrickém rozsahu péče (např. 26 nocí/ 4 noci) a bude mít za prokázané, že potřeby dítěte finančně zajišíuje převážně pečující rodič, takovému rodiči neurčí/nestanoví výživné.
+§ 921a o. z.
+Postupitelem pohledávky je dítě.
+§ 923 o. z.
+V případech zrušení nebo snížení výživného za minulou dobu se reálně sníží výživné dítěte do budoucna. Snížení výživného přitom nesmí ohrozit naplňování základních potřeb dítěte. Částka, o kterou se výživné sníží, by měla být celkově vyčíslená a měla by být rozpočítaná do měsíčních plateb výživného.
+Přechodná ustanovení o. z.
+Od 1. 1. 2026 prvoinstanční soudy i odvolací soudy rozhodují podle nové právní úpravy, a to s výjimkou případů kdy by určovaly výživné zpětně před 1. 1. 2026. Do 31. 12. 2025 se výživné určí podle tehdy platné úpravy.
+Jak postupovat v případě, že okresní soud má zahájeno řízení o styku (neběží řízení o péči a výživě) a věc do 31. 12. 2025 neskončí?
+Zahájí řízení o výživě a rozhodne o péči a výživě.
+Jak postupovat v případě, že krajský soud projednává odvolání proti výroku o styku (bylo rozhodnuto o péči a výživě, byí výroky nebyly napadeny odvoláním) a věc do 31. 12. 2025 neskončí?
+Přezkumu budou podléhat i výroky o péči a výživě, proto nově rozhodne o péči a výživě.
+Jak postupovat v případě, že byl upraven styk, pečující rodič chce zvýšit výživné a druhý z rodičů chce určit výživné pečujícímu rodiči?
+Změna styku na péči, a tedy možnost určit výživné i dosud pečujícímu rodiči, je vázaná na změnu poměrů. Pokud ke změně poměrů ve vztahu k péči nedošlo, soud „pouze“ rozhodne o výživném. Pokud ke změně ve vztahu k péči došlo, soud nově upraví péči a výživné.
+Zákon o zvláštních řízeních soudních
+§ 391 z. ř. s.
+Pokud se navrhovatel bez omluvy nedostaví k nařízenému jednání o rozvodu a spojeného řízení o péči a výživě pro dobu po rozvodu, soud řízení o rozvodu podle § 391 odst. 1, 2 z. ř. s. zastaví. Pokud se k takovému jednání nedostaví ani jeden z rodičů, soud zváží, zda kromě zastavení řízení o rozvod též podle § 16 z. ř. s. nezastavit řízení o péči a výživě pro dobu po rozvodu, a to pro odpadnutí důvodů.
+§ 398a z. ř. s.
+Jak označovat věc a účastníky ve spojeném řízení?
+V odůvodnění používat označení manžel/manželka, pokud je odůvodňován výrok o rozvodu a označení matka/otec, je-li odůvodňován výrok o péči a výživě.
+Vzor záhlaví:
+Okresní soud v ………. rozhodl soudkyníve věci
+nezletilých:František Straka, narozený dne 13. 5. 2018
+David Straka, narozený dne 12. 11. 2020
+oba bytem Sportovní 1104/25, 763 16 Fryšták-Horní Ves zastoupeni opatrovníkem statutárním městem Zlín
+sídlem náměstí Míru 12, 760 01 Zlín
+dětí rodičů:Kateřina Straková, narozená dne 1. 10. 1992
+bytem Otická 2025/44, 746 01 Opava - Předměstí zastoupená advokátkou JUDr. Jaroslavou Uhlířovou sídlem Pellicova 43, 602 00 Brno-město
+(manželka)
+Roman Straka, narozený dne 14. 12. 1990
+bytem Sportovní 1104/25, 763 16 Fryšták-Horní Ves zastoupený advokátem Mgr. Petrem Polákem
+sídlem třída Tomáše Bati 1212/4, 760 01 Zlín (manžel)
+o úpravu poměrů nezletilých dětí pro dobu po rozvodu manželství jejich rodičů a rozvod manželství
+Který výrok má být uveden jako první?
+Sympozium doporučuje jako první uvést výrok o rozvodu manželství, následně výroky o péči a výživě, důvodem je přehlednost rozsudku a praktičnost pro zápis rozhodných skutečností do matriky.
+§ 452 a násl. zř. ř. s. Předběžná opatření
+Navrhovatelem předběžného opatření je OSPOD, soud může nařídit předběžné opatření i bez návrhu, pokud je dítě umístěno do péče osoby dítěti příbuzné nebo blízké (§ 454 odst. 1 z. ř. s.).
+Předběžné opatření je možno nařídit nejen v případě, že se dítěte ocitne ve stavu nedostatku řádné péče, ale též je-li jeho normální vývoj nebo jiný důležitý zájem vážně ohrožen. Předběžným opatřením tak může být rozhodováno o předání dítěte do péče budoucích osvojitelů, o předpěstounské péči, o přemístění dítěte z jednoho ústavního zařízení do druhého.
+Předběžným opatřením může být rozhodováno (k návrhu OSPOD/ÚMPOD nebo ex offo např. k podnětu rodiče) též o zákazu vycestování do ciziny, jsou-li pro takový zákaz dány důvody. Při formulaci rozhodnutí je třeba za vhodné výchovné prostředí označit péči relevantního rodiče a uvést, že existuje zjevné konkrétní a bezprostřední riziko, že by dítě mohlo být protiprávně a bezprostředně přemístěno mimo hranice ČR.
+§ 465a a násl. z. ř. s. Prozatímní rozhodnutí
+Prozatímně upravit poměry dítěte (např. péči) je možno i v případech, že soud o předmětu prozatímní úpravy již dříve meritorně rozhodl.
+Pokud se rodiče dohodnou na zatímní úpravě poměrů dítěte pouze částečně, soud v prozatímním rozhodnutí tuto dohodu zohlední (§ 465a odst. 1 z. ř. s.).
+Jde-li o přehled řízení, ve kterých je možno vydat prozatímní rozhodnutí, lze zcela odkázat na důvodovou zprávu k novele a vypracovanou tabulku:
+Předmět řízení
+Zahájení řízení
+bez návrhu
+Aplikace prozatímního
+rozhodnutí
+Jméno a příjmení nezletilého dítěte
+ano
+ne
+Péče o nezletilé dítě
+svěření dítěte do péče jednoho z rodičů
+svěření dítěte do péče osoby příbuzné nebo blízké
+svěření dítěte do péče osoby, která
+není rodičem dítěte ani osobou dítěti příbuznou nebo blízkou
+ano
+ano ano ne
+Výživa nezletilého dítěte
+ano
+ano
+Styk s nezletilým dítětem
+rodič
+osoba příbuzná
+osoba společensky blízká
+ano
+ano
+Rodičovská odpovědnost
+pozastavení výkonu rodičovské odpovědnosti
+omezení rodičovské odpovědnosti
+zbavení rodičovské odpovědnosti
+ano
+ano ano ano
+(u všech variant přichází v úvahu dočasné pozastavení výkonu RO)
+Poručenství
+jmenování
+zproštění funkce
+odvolání
+ano
+ne
+Opatrovnictví nezletilého dítěte
+pro právní jednání
+pro správu jmění
+ano
+ne
+Předání nezletilého dítěte
+ano
+ne
+Navrácení nezletilého dítěte
+ano
+ano
+Věci pro nezletilé dítě významné, na nichž se rodiče nemohou dohodnout
+nikoli běžné léčebné a obdobné zákroky
+umístění místa bydliště
+volba vzdělání
+volba pracovního uplatnění dítěte
+ne
+ne ano ano ano
+Souhlas s nakládáním se jměním nezletilého
+ano
+ne
+dítěte
+Zastupování nezletilého dítěte
+ne
+ne
+Ústavní výchova nezletilého dítěte a jiných výchovných opatřeních
+ústavní výchova
+napomenutí, dohled či omezení
+povinnost využít odbornou poradenskou pomoc nebo uložit povinnost účastnit se prvního setkání se zapsaným mediátorem
+dočasně odejmout dítě z péče rodičů nebo jiné osoby odpovědné za
+výchovu dítěte
+ano
+ne
+Pěstounská péče
+svěření do předpěstounské péče
+svěření do pěstounské péče na přechodnou dobu
+svěření do pěstounské péče
+ano
+ano ne ne
+Určení data narození nezletilého dítěte
+ano
+ne
+Přiznání svéprávnosti nezletilého dítěte
+ne
+ne
+Přivolení souhlasu a odvolání souhlasu zákonného zástupce k samostatnému
+provozování obchodního závodu nebo jiné obdobné výdělečné činnosti
+ne
+ne
+Osvojení (speciální úprava § 427 a násl. ZŘS)
+přijetí prohlášení o udělení souhlasu k osvojení
+rozhodnutí o předání dítěte do péče před osvojením
+rozhodnutí o určení, zda je třeba souhlasu rodičů k osvojení
+rozhodnutí o návrhu rodičů, kteří dali souhlas s osvojením, na vydání dítěte
+rozhodnutí o osvojení
+rozhodnutí o utajení osvojení
+rozhodnutí o nařízení dohledu nad úspěšností osvojení
+předání dítěte do péče budoucího
+osvojitele
+ne
+(vyloučení použití obecného předběžného opatření)
+ne ne ne ne
+ne ne ne
+ano
+Povolení uzavřít manželství (speciální úprava
+§ 367 a násl. ZŘS)
+ne
+ne
+O návrhu na vydání prozatímního rozhodnutí musí soud rozhodnout bez zbytečného odkladu, tedy s největším urychlením.
+Prozatímní rozhodnutí má formu usnesení, které musí být vždy odůvodněno, a to i v případě, že návrhu je zcela vyhověno. K tomu srovnej nález Ústavního soudu ve věci sp. zn. IV. ÚS 1554/08: Ustanovení § 169 odst. 2 o. s. ř. je nutno vyložit v souladu s jeho smyslem a účelem. Smyslem zmíněného ustanovení je zbavit soud povinnosti odůvodnit rozhodnutí, které zřejmě nebude napadeno odvoláním, neboť s ním všichni účastníci
+souhlasí. Tento smysl však v případě usnesení, kterým se zcela vyhovuje návrhu na předběžné opatření, chybí.
+Není nutno vydávat prozatímní rozhodnutí v případě, že rodiče před soudem uzavřou zatímní dohodu, která je zachycena (v protokole nebo v záznamu); v takovém případě nejsou splněny podmínky pro vydání prozatímního rozhodnutí, ledaže je v nejlepším zájmu dítěte, aby jeho zatímní poměry byly upraveny vykonatelným rozhodnutím.
+Proti žádnému rozhodnutí o návrhu na vydání prozatímního rozhodnutí není odvolání přípustné (odmítnutí, zamítnutí, vydání).
+V případě, že je vydáno prozatímní rozhodnutí a je podán návrh na změnu nebo zrušení, tak o prvním takovém návrhu soud rozhodne. Proti tomuto rozhodnutí je odvolání přípustné (§ 465i odst. 3 z. ř. s.). V případě, že je návrh zamítnut nebo odmítnut, může tentýž navrhovatel z týchž důvodů podat další návrh až po uplynutí doby trvání doby prozatímního rozhodnutí. Pokud jej podá dříve, soud usnesením rozhodne, že k takovému návrhu nepřihlíží; proti tomuto rozhodnutí odvolání není přípustné a nemusí obsahovat odůvodnění (§ 465d odst. 2 z. ř. s.).
+Vydat prozatímní rozhodnutí je možné pouze pokud byla zjištěna stanoviska účastníků při jiném soudním roku, při jednání nebo pokud vyplývají z jejich písemných podání.
+Možnost nezletilého účastníka vyjádřit se ve smyslu § 465b odst. 2 z. ř. s. lze zajistit i tak, že v rámci interdisciplinární spolupráce soud dohodne s opatrovníkem (OSPOD) postup, že v případě neavizované dohody opatrovník vždy dítěti vysvětlí, že je možné, že soud bude rozhodovat prozatímním rozhodnutím a zjistí jeho názor v této věci a současně se ho dotáže, zda se sám chce jednání účastnit či zda může jeho názor soudu předestřít opatrovník.
+Pokud bylo rozhodnuto o předběžném opatření ve věci ochrany proti domácímu násilí a později byly poměry dítěte upraveny prozatímním rozhodnutím, měl by soud, který nařídil předběžné opatření ve věci ochrany proti domácímu násilí, svoje rozhodnutí změnit, pokud neobstojí vedle prozatímního rozhodnutí.
+Spolu s podáním návrhu na vydání prozatímního rozhodnutí není nutno skládat jistotu, a to ani v řízeních, která je možno zahájit jen na návrh.
+Pro odmítnutí návrhu pro zjevnou bezdůvodnost (§ 465d z. ř. s.) je možno při výkladu pojmu
+„zjevná bezdůvodnost“ analogicky použít judikaturu ve věcech osvobozování od soudních poplatků.
+Možnost odročit jiný soudní rok nebo jednání, při kterém má být rozhodnuto o prozatímním rozhodnutí, je zcela výjimečná (§465e odst. 3 z. ř. s.); soudy by obecně měly být vstřícné a při svolání jiného soudního roku by v rámci komunikace se zástupci měly zohlednit jejich dříve nařízená jednání. Důvod pro odročení jednání na straně účastníka nebo jeho zástupce musí být tak závažný, že mu brání i se jen písemně vyjádřit ve věci.
+Pro rozhodnutí o prozatímním rozhodnutí je rozhodující stav v době jeho vyhlášení nebo vydání, to platí i pro rozhodování odvolacích soudů (§ 465f z. ř. s.).
+§ 469 z. ř. s.
+Zastoupení nezletilého
+Pokud není v návrhu avizovaná dohoda, bude soud jmenovat dítěti opatrovníka; ve výjimečných případech, kdy z návrhu je zřejmé, že druhý rodič bude s dohodou souhlasit, vyzve soud druhého rodiče k vyjádření k návrhu, a to v krátké lhůtě.
+I u avizované dohody by soud měl učinit neformální dotaz OSPOD, zda nevedou dítě jako ohrožené, případně nemají jiné negativní poznatky o rodině. Kdo se na nevhodné chování rodičů nezeptá, ten se ho nedozví.
+Opatrovníka je možno jmenovat obecně pro řízení ve věcech péče soudu o nezletilé, není nutno jmenovat opatrovníka pro všechna konkrétní probíhající řízení podle § 466 z. ř. s.
+§ 471
+Participační práva dítěte
+Soud by měl v přizvání k jinému soudnímu roku nebo v předvolání k jednání poučit rodiče o povinnosti sdělit dítěti, že má právo, aby mu byl v řízení jmenován opatrovník a povinnosti poskytnout dítěti potřebné informace o řízení a zjistit jeho postoj. Splnění těchto povinností soud ověří při jiném soudním roku či jednání (nesporné tvrzení rodičů nebo alespoň tvrzení jednoho z nich).
+§ 502 odst. 5 z. ř. s.
+Lhůta pro rozhodnutí začíná běžet od podání prvního návrhu na výkon rozhodnutí, a to i v případech, že jsou podány návrhy další. Nová lhůta začne běžet až pro návrh podaný po rozhodnutí soudu o návrzích dřívějších.
+Zákon o soudních poplatcích
+Soudní poplatky za odvolání proti zpoplatněným řízením ve věcech péče soudu o nezletilé se sčítají. Sympozium konstatuje, že přes opačné stanovisko MSp není možno příslušná ustanovení zákona vyložit jiným způsobem. Lze doporučit, aby zákonodárce úpravu soudního poplatku za odvolání změnil tak, aby se poplatky za jednotlivá řízení nesčítaly.
+Pokud nebude zaplacen soudní poplatek za řízení o rozvod a byl zároveň podán návrh na úpravu péče a výživy pro dobu po rozvodu, zastaví se pro nezaplacení soudního poplatku pouze řízení o rozvodu. Věc o úpravě péče a výživy pro dobu po rozvodu lze projednat a rozhodnout, i pokud není podán návrh na rozvod nebo takové řízení bylo pro nezaplacení soudního poplatku zastaveno.
+Soudní poplatek za zrušení registrovaného partnerství se vybere podle položky 4a sazebníku. Lze doporučit, aby zákonodárce tuto skutečnost výslovně upravil.
+Jiné
+Lze doporučit, aby v rozvrhu práce bylo pravidlo, že pokud soudce projednal a rozhodl věc úpravy péče a výživy nezletilého dítěte pro dobu po rozvodu manželství, tak projedná a rozhodne i později podaný návrh na rozvod manželství.
+Použité zdroje
+Databáze lidskoprávní judikatury a tematické příručky Evropského soudu pro lidská práva
+https://mezisoudy.cz/
+Odborná literatura
+Doc. PhDr. et PhDr. Radek Ptáček, Ph.D., sborník Interdisciplinární spolupráce v nejlepším zájmu dítěte, Tribun EU, 2015, s. 67 – 77
+Liang, L., A., Berger, U., Brand, Ch.: Psychosocial factors associated with symptoms of depression, anxiety and stress among single mothers with young children: A population- based study. Journal of Affective Disorders. January 2019 (242), str. 255-264
+Scharte, M., Bolte, G.: Increased health risks of children with single mothers: the impact of socio-economic and environmental factors. European Journal of Public Health, June 2013 (23/3), str. 469–475
+Mullins, L., L., Wolfe-Christensen, C., Chaney, J., M., Elkin, D., T., Weiner, L., Hullmann, S., E., Fedele, D., A., Junghans, A.: The Relationship Between Single-Parent Status and Parenting Capacities in Mothers of Youth with Chronic Health Conditions: The Mediating Role of Income. Journal of Pediatric Psychology. April 2011 (36/3), str. 249–257
+Claussen, A.H., Holbrook, J.R., Hutchins, H.J. et al. All in the Family? A Systematic Review and Meta-analysis of Parenting and Family Environment as Risk Factors for Attention- Deficit/Hyperactivity Disorder (ADHD) in Children. Prevention Science. 2024 (25), str. 249–271
+Hjern, A., Weitoft, G., R., Lindblad, F.: Social adversity predicts ADHD-medication in school children – a national cohort study. Acta Pediatrica. 2010 (4), str. Dostupné z: https://doi.org/10.1111/j.1651-2227.2009.01638.x (ze dne 7.11. 2025)
+Právní normy
+Listina základních práv a svobod č. 2/1993 Sb.
+Občanský soudní řád č. 240/1993 Sb.
+Občanský zákoník č. 89/2012 Sb.
+Úmluva o právech dítěte č. 104/1991 Sb.
+Úmluva o ochraně lidských práv a základních svobod č. 209/1992 Sb.
+Zákon o sociálně-právní ochraně dětí 359/1999 Sb.
+Zákon o zvláštních řízeních soudních 292/2013 Sb.
+Rozhodnutí Ústavního soudu
+nález Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025
+nález Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025
+nález Ústavního soudu sp. zn. I. ÚS 2364/24 ze dne 5. 2. 2025
+nález Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025
+nález Ústavního soudu ve věci sp. zn. I. ÚS 1554/14 ze dne 30. 12. 2014
+nález Ústavního soudu sp. zn. III. ÚS 2298/15 ze dne 15. 3. 2016
+nález Ústavního soudu sp. zn. II. ÚS 2469/25 ze dne 30. 9. 2025
+nález Ústavního soudu sp. zn. II. ÚS 1504/25 ze dne 12. 8. 2025
+nález Ústavního soudu sp. zn. II. ÚS 3765/11 ze dne 13. 3. 2012
+nález Ústavního soudu sp. zn. IV. ÚS 1554/08 Judikatura Evropského soudu pro lidská práva
+Bîzdîga proti Moldavsku, 2023, § 62, Práva dítěte: Právo na styk | Mezi—soudy
+W proti ČR, rozhodnutí ze dne 3. dubna 2025:
+23. Soud připouští, skutečnost, že stávající úprava nebyla označena jako střídavá péče (byí asymetrická), může stěžovatel vnímat jako nedostatečné uznání své rovnocenné rodičovské role a že to může mít dopady v oblasti veřejného práva. Tato skutečnost však sama o sobě nepředstavuje porušení článku 8, zejména s ohledem na rozsah styku stěžovatele s dětmi a jeho schopnost plně vykonávat rodičovskou odpovědnost. (…). W proti České republice | Mezi—soudy

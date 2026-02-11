@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jak to říct dětem? Praktický průvodce pro rodiče v období rozvodu.">
+    <title>Jak to říct dětem | Dítě v rozvodu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#1E2B4D',
+                        secondary: '#EC407A',
+                        'secondary-dark': '#C2185B',
+                        'bg-alt': '#F8F9FA',
+                        'text-main': '#222222', // Darker black-ish text
+                        'text-light': '#546E7A',
+                        'text-muted': '#90A4AE',
+                    },
+                    fontFamily: {
+                        heading: ['Poppins', 'sans-serif'],
+                        body: ['Open Sans', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'soft': '0 10px 15px -3px rgba(30, 43, 77, 0.1), 0 4px 6px -2px rgba(30, 43, 77, 0.05)',
+                        'card': '0 4px 6px -1px rgba(30, 43, 77, 0.08), 0 2px 4px -1px rgba(30, 43, 77, 0.04)',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="font-body text-text-main bg-white antialiased flex flex-col min-h-screen">
+    <!-- Header -->
+    <header class="fixed top-0 left-0 right-0 h-20 bg-white/95 backdrop-blur-md shadow-sm z-50">
+        <div class="max-w-[1200px] mx-auto px-6 h-full flex items-center justify-between">
+            <a href="index.html" class="block">
+                <img src="images/logo.png" alt="Dítě v rozvodu" class="h-12 w-auto object-contain">
+            </a>
+            <nav class="hidden md:block">
+                <ul class="flex items-center gap-8">
+                    <li><a href="deti-potreby.html"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Děti
+                            a jejich potřeby</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Domluva
+                            s druhým rodičem</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">OSPOD
+                            a soud</a></li>
+                    <li><a href="#"
+                            class="font-heading text-sm font-medium text-text-main uppercase tracking-wider hover:text-secondary relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[2px] after:bg-secondary after:transition-all hover:after:w-full transition-colors">Kdo
+                            pomůže mně</a></li>
+                    <li><a href="kontakt.html"
+                            class="font-heading text-sm font-bold text-secondary uppercase tracking-wider relative py-2 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[2px] after:bg-secondary">Kontakt</a>
+                    </li>
+                </ul>
+            </nav>
+            <button id="mobile-menu-btn" class="flex flex-col gap-1 md:hidden p-2 z-50 relative" aria-label="Menu">
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+                <span class="w-6 h-[3px] bg-primary rounded-full transition-all duration-300"></span>
+            </button>
+            <div id="mobile-menu" class="fixed inset-0 bg-white/95 backdrop-blur-md z-40 hidden"></div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow pt-32 pb-20">
+        <!-- Article Header -->
+        <article class="max-w-[720px] mx-auto px-6">
+            <header class="mb-12 text-center">
+                <h1 class="text-3xl md:text-5xl font-bold text-primary font-heading mb-6 leading-tight">
+                    Jak to říct dětem
+                </h1>
+                <time class="text-sm text-text-muted" datetime="2025-09-29">29. September 2025</time>
+            </header>
+
+            <!-- Featured Image -->
+            <div class="mb-12">
+                <img src="images/1.png" alt="Jak to říct dětem"
+                    class="w-full h-auto rounded-xl object-contain bg-gray-50 border border-gray-100 max-h-[400px]">
+            </div>
+
+            <!-- Content -->
+            <div class="prose prose-lg prose-slate max-w-none text-text-main">
+                <p>
+                    Ve SPONDEA jsme s rodiči a jejich dětmi v náročných životních chvílích vedli tisíce rozhovorů. Víme,
+                    že rozchod je pro rodiče bolestný a často vyčerpávající. Ale pro děti je to možná ještě větší zátěž
+                    – nerozumí všem důvodům, nerozhodují o ničem, a přesto se jich všechno dotýká.
+                </p>
+                <p>
+                    Jako rodiče nesete společnou odpovědnost za to, jak vaše děti tuto změnu prožijí. Neexistuje
+                    dokonalý rozhovor, ale existuje způsob, jak jim o rozchodu říct pravdivě, klidně a s důrazem na to
+                    nejdůležitější – že mají stále mámu a tátu, kteří je milují a neopouštějí.
+                </p>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Pokud to jen trochu jde, mluvte s
+                    dětmi společně</h2>
+                <p>
+                    Když je to možné, domluvte se na základních větách a řekněte je dětem společně. Ukazujete tím, že i
+                    přes všechny neshody jste jednotní v tom, co je pro dítě důležité.
+                </p>
+                <div class="pl-6 border-l-4 border-gray-300 italic text-gray-700 my-6">
+                    <p class="mb-2">“Už se nám s tatínkem nedaří domluvit a rozhodli jsme se, že se rozvedeme. To
+                        znamená, že budeme bydlet každý jinde.”</p>
+                    <p>“Oba tě máme rádi a dál tu pro tebe budeme. Oba se o tebe budeme starat, i když nebudeme bydlet
+                        spolu.”</p>
+                </div>
+                <p>
+                    Z praxe víme, že děti si často celý život pamatují právě ten moment, kdy se o rozchodu dozvěděly.
+                    Pokud se vám podaří být v tu chvíli spolu, klidní a věcní, může to dětem výrazně ulevit.
+                </p>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Mluvte tak, aby vám děti rozuměly
+                </h2>
+                <p>
+                    Dětem, zvlášť těm menším, nic neříká slovo rozvod nebo “vztahové problémy”. Potřebují jednoduchá a
+                    konkrétní slova, pod kterými si dokážou něco představit.
+                </p>
+                <ul class="list-disc pl-6 space-y-2 mt-4 text-gray-700">
+                    <li>“Poslední dobou se doma hodně hádáme. Už si s tátou nerozumíme a rozhodli jsme se, že bude
+                        lepší, když každý budeme bydlet jinde.”</li>
+                    <li>“Nepovedlo se nám s maminkou udobřit a proto jdeme od sebe. Ale ty jsi naše dítě, a na tom se
+                        nic nemění a oba se o tebe budeme dál starat.”</li>
+                    <li>“Budeš se vídat se mnou i s tatínkem.”</li>
+                </ul>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Jasně řekněte, že za to děti nemohou
+                </h2>
+                <p>
+                    Děti si velmi často myslí, že rozchod způsobil nějaký jejich špatný krok. Možná něco řekly, udělaly
+                    nebo neudělaly, měly se lépe učit, méně zlobit… Teď se bojí, že kvůli nim se všechno rozpadlo.
+                </p>
+                <p class="font-bold mt-4 mb-2">Ujištění:</p>
+                <ul class="list-disc pl-6 space-y-2 text-gray-700">
+                    <li>“Tohle rozhodnutí jsme udělali my dva, dospělí. Je to naše zodpovědnost.”</li>
+                    <li>“Dospělým se tohle někdy stává, je to rozhodnutí mne a maminky.”</li>
+                    <li>“To, že se už s tatínkem neumíme dál domluvit, nijak nesouvisí s tebou.”</li>
+                </ul>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Ujistěte děti, že je oba dál
+                    milujete</h2>
+                <p>
+                    Děti často neřeknou nahlas, že se bojí, že přijdou o jednoho z vás. Ale myslí na to, a mají proč.
+                    Možná se jeden z vás už odstěhoval… Potřebují slyšet ujištění – znovu a znovu.
+                </p>
+                <div class="pl-6 border-l-4 border-gray-300 italic text-gray-700 my-6">
+                    <p class="mb-2">“I když už nebudeme bydlet spolu, máma i táta tě budou dál vídat a starat se o
+                        tebe.”</p>
+                    <p>“Jsi stejně důležitý pro nás oba, oba tě máme moc rádi.”</p>
+                </div>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Řekněte, co se bude měnit – a co ne
+                </h2>
+                <p>
+                    Děti vnímají rozchod jako obrovskou nejistotu, a oprávněně, protože spousta věcí okolo nich se teď
+                    mění. Pomáhá jim, když vědí, co zůstává stejné. I drobnosti mohou přinést pocit bezpečí.
+                </p>
+                <ul class="list-disc pl-6 space-y-2 mt-4 text-gray-700">
+                    <li>“Zůstaneš ve stejné škole. Ve svém pokoji. Máma bude bydlet jinde a budeš za ní jezdit o
+                        víkendech.”</li>
+                    <li>“Pořád budeš chodit na florbal. Některé dny tě tam bude vyzvedávat máma, někdy zase táta.”</li>
+                </ul>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Neslibujte něco, co nebude</h2>
+                <p>
+                    Ve snaze dítě uklidnit můžete nechtěně vytvářet falešné naděje. Děti pak čekají na něco, co se
+                    nestane – a o to víc pak ztrácejí důvěru ve vás i ve svět okolo.
+                </p>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
+                    <div>
+                        <p class="font-bold text-red-600 mb-2">Tohle raději ne:</p>
+                        <ul class="space-y-1 text-gray-700">
+                            <li>❌ “Možná se k sobě zase vrátíme.”</li>
+                            <li>❌ “Neboj, nic se nezmění.”</li>
+                            <li>❌ “Uvidíme, jak to dopadne.”</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <p class="font-bold text-green-600 mb-2">Lepší je pravdivě říct:</p>
+                        <ul class="space-y-1 text-gray-700">
+                            <li>✅ “Ještě nevíme, jak to všechno zařídíme. Ale dál tě budeme oba vídat a starat se o
+                                tebe.”</li>
+                            <li>✅ “Některé změny asi budou pro tebe i pro nás těžké.”</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Nepřenášejte na děti tíhu vlastních
+                    pocitů</h2>
+                <p>
+                    Dítě není ten, kdo vás má utěšovat. Nesvěřujte mu se svou bolestí, nehledejte u něj podporu. Nechte
+                    si pomoc od blízkých, přátel nebo odborníků – to vám moc doporučujeme. Ale dítě potřebuje oporu od
+                    vás.
+                </p>
+                <div class="mt-6 mb-6">
+                    <p class="font-bold text-red-600 mb-2">Co neříkat:</p>
+                    <ul class="space-y-1 text-gray-700 mb-4">
+                        <li>❌ “Jsi teď moje jediné štěstí.”</li>
+                        <li>❌ “Táta nám hrozně ublížil, ale budeme to spolu muset zvládnout.”</li>
+                        <li>❌ “Ty jsi jediné, co mi zůstalo.”</li>
+                    </ul>
+                    <p class="font-bold text-green-600 mb-2">Místo toho řekněte:</p>
+                    <ul class="space-y-1 text-gray-700">
+                        <li>✅ “I pro nás je to těžké, ale snažíme se, abychom to všichni zvládli co nejlépe.”</li>
+                        <li>✅ “Můžeš se na nás kdykoli obrátit. Oba jsme tu pro tebe.”</li>
+                        <li>✅ “Jestli si o tom potřebuješ promluvit, rádi tě vyslechneme.”</li>
+                    </ul>
+                </div>
+
+                <figure class="my-10">
+                    <img src="images/emoce_1.png" alt="Dítě prožívající emoce"
+                        class="rounded-xl shadow-lg w-full h-auto object-cover">
+                </figure>
+
+                <h2 class="text-2xl font-bold text-primary font-heading mt-12 mb-4">Z praxe: Co může dítě slyšet – a jak
+                    reaguje</h2>
+                <p>
+                    V jedné rodině, se kterou jsme pracovali, se osmiletá holčička dozvěděla o rozchodu rodičů tak, že
+                    máma v slzách řekla: “Táta nás opustil a už se nevrátí.” Holčička na to několik týdnů nepromluvila
+                    ani slovo. Teprve v bezpečném prostředí a s podporou se ukázalo, že má strach, že ji opustí i máma.
+                </p>
+                <p class="font-bold mt-4">
+                    To, jak rozchod dětem podáte, ovlivňuje jejich vnitřní pocit bezpečí – i důvěru k vám do budoucna.
+                </p>
+            </div>
+        </article>
+    </main>
+
+    <!-- Related Articles Belt -->
+    <section class="bg-gray-50 border-t border-gray-200 py-16">
+        <div class="max-w-[1200px] mx-auto px-6">
+            <h3 class="text-2xl font-bold text-primary font-heading mb-8 text-center uppercase tracking-widest text-sm">
+                Další témata</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Related Article 1 -->
+                <a href="#"
+                    class="group block bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all">
+                    <div class="h-40 overflow-hidden">
+                        <img src="images/2.png" alt="Právo"
+                            class="w-full h-full object-contain bg-pink-50/50 p-4 group-hover:scale-105 transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <span class="text-xs font-bold text-secondary uppercase tracking-wider mb-2 block">Právo</span>
+                        <h4
+                            class="font-heading font-bold text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                            OSPOD krok za krokem</h4>
+                    </div>
+                </a>
+
+                <!-- Related Article 2 -->
+                <a href="#"
+                    class="group block bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all">
+                    <div class="h-40 overflow-hidden">
+                        <img src="images/ne_1.png" alt="Dohoda"
+                            class="w-full h-full object-contain bg-green-50/50 p-4 group-hover:scale-105 transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <span class="text-xs font-bold text-secondary uppercase tracking-wider mb-2 block">Dohoda</span>
+                        <h4
+                            class="font-heading font-bold text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                            Domluva s druhým rodičem</h4>
+                    </div>
+                </a>
+
+                <!-- Related Article 3 -->
+                <a href="#"
+                    class="group block bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all">
+                    <div class="h-40 overflow-hidden">
+                        <img src="images/1.png" alt="Péče"
+                            class="w-full h-full object-contain bg-purple-50/50 p-4 group-hover:scale-105 transition-transform duration-500">
+                    </div>
+                    <div class="p-6">
+                        <span class="text-xs font-bold text-secondary uppercase tracking-wider mb-2 block">Péče</span>
+                        <h4
+                            class="font-heading font-bold text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                            Střídavá péče v praxi</h4>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-[#121A30] text-white pt-16 pb-6 border-t-4 border-secondary">
+        <div class="max-w-[1200px] mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1fr] gap-12 mb-16">
+                <div class="flex flex-col gap-4">
+                    <a href="index.html" class="block mb-4">
+                        <img src="images/logo.png" alt="Dítě v rozvodu"
+                            class="h-10 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity">
+                    </a>
+                    <p class="text-sm text-gray-400 leading-relaxed max-w-[300px]">Podpora pro rodiče, kteří chtějí
+                        projít rozvodem s ohledem na potřeby svých dětí.</p>
+                </div>
+                <div>
+                    <h4 class="font-heading font-bold text-secondary uppercase tracking-widest text-xs mb-6">Témata</h4>
+                    <ul class="space-y-3 text-sm text-gray-400">
+                        <li><a href="deti-potreby.html"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Děti
+                                a jejich potřeby</a></li>
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Domluva
+                                s druhým rodičem</a></li>
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">OSPOD
+                                a soud</a></li>
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Kdo
+                                pomůže mně</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-heading font-bold text-secondary uppercase tracking-widest text-xs mb-6">Pro vás
+                    </h4>
+                    <ul class="space-y-3 text-sm text-gray-400">
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Online
+                                kurz</a></li>
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Články
+                                a rady</a></li>
+                        <li><a href="#"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Konzultace</a>
+                        </li>
+                        <li><a href="kontakt.html"
+                                class="hover:text-secondary-light hover:translate-x-1 transition-all inline-block">Kontakt</a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-heading font-bold text-secondary uppercase tracking-widest text-xs mb-6">Kontakt
+                    </h4>
+                    <p class="text-sm text-gray-400 mb-4">info@ditevrozvodu.cz</p>
+                    <div class="flex items-center gap-3">
+                        <a href="#"
+                            class="w-10 h-10 bg-white/10 flex items-center justify-center rounded-full hover:bg-secondary hover:text-white transition-colors"
+                            aria-label="Facebook">FB</a>
+                        <a href="#"
+                            class="w-10 h-10 bg-white/10 flex items-center justify-center rounded-full hover:bg-secondary hover:text-white transition-colors"
+                            aria-label="Instagram">IG</a>
+                    </div>
+                </div>
+            </div>
+            <div
+                class="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500">
+                <p>&copy; 2026 dítěvrozvodu.cz. Všechna práva vyhrazena.</p>
+                <div class="flex gap-6">
+                    <a href="#" class="hover:text-white transition-colors">Ochrana osobních údajů</a>
+                    <a href="#" class="hover:text-white transition-colors">Obchodní podmínky</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
