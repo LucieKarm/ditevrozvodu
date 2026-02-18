@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #2b2d72;
+    --color-accent: #e55297;
+    --color-light-blue: #3bb6e6;
+    --font-lexend: "Lexend", sans-serif;
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        font-family: var(--font-lexend);
+        @apply bg-gray-50;
+    }
+}

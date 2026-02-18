@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dítě v rozvodu – Praktický průvodce rozvodem pro rodiče</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary': '#2b2d72',
+                        'accent': '#e55297',
+                        'light-blue': '#3bb6e6',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Lexend', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50">
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <a href="index.html" class="text-xl font-bold text-primary">Dítě v rozvodu</a>
+                <div class="hidden md:flex space-x-8">
+                    <a href="potreby-deti-new.html" class="text-gray-700 hover:text-primary">Potřeby dětí</a>
+                    <a href="domluva-s-rodicem.html" class="text-gray-700 hover:text-primary">Domluva s druhým
+                        rodičem</a>
+                    <a href="ospod-a-soud.html" class="text-gray-700 hover:text-primary">OSPOD a soud</a>
+                    <a href="jak-pomoct-sobe.html" class="text-gray-700 hover:text-primary">Jak pomoct sobě</a>
+                    <a href="kontakt.html" class="text-gray-700 hover:text-primary">Kontakt</a>
+                </div>
+                <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                    class="bg-accent text-white px-6 py-2 rounded-full font-semibold hover:bg-pink-600 transition">
+                    Naučte se mluvit s dětmi
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-accent to-primary text-white py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div>
+                    <h1 class="text-5xl font-bold mb-6 leading-tight">Rozvádíte se?<br>Vaše děti taky</h1>
+                    <p class="text-xl mb-4 opacity-90">Rozvod nebo rozchod patří mezi nejnáročnější situace, jakými
+                        můžeme během života projít.</p>
+                    <p class="text-lg mb-8 opacity-80">Na děti má rozpad rodiny vždy vliv. Jako rodiče ale máte možnost
+                        pomoct jim tento těžký čas dobře zvládnout.</p>
+                    <div class="flex flex-col sm:flex-row gap-4">
+                        <a href="#articles"
+                            class="bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition text-center">
+                            Začněte tady
+                        </a>
+                    </div>
+                    <p class="mt-6 text-sm opacity-75">✓ Více než 500 rodičů prošlo našimi kurzy</p>
+                </div>
+                <div class="flex justify-center">
+                    <img src="images/deti.png" alt="Děti" class="max-w-md w-full">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Article - Law Changes -->
+    <section class="bg-primary text-white py-12">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="inline-block bg-accent px-4 py-1 rounded-full text-sm font-semibold mb-4">NOVÉ OD LEDNA 2026
+            </div>
+            <h2 class="text-3xl font-bold mb-4">Co se změnilo v zákonech o rozvodu</h2>
+            <p class="text-lg mb-6 opacity-90">Od 1. ledna 2026 platí nová pravidla. Už neexistuje "výlučná" nebo
+                "střídavá" péče. Zjistěte, co to pro vás znamená.</p>
+            <a href="#"
+                class="inline-block border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-primary transition">
+                Přečíst článek →
+            </a>
+        </div>
+    </section>
+
+    <!-- Value Propositions -->
+    <section class="py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-2">CO VÁM POMŮŽEME</p>
+                <h2 class="text-4xl font-bold text-primary mb-4">Provedeme vás změnami ve vaší rodině</h2>
+                <p class="text-lg text-gray-600 max-w-3xl mx-auto">Zjistěte, jak mluvit s dětmi o rozvodu, jak je
+                    ochránit před konflikty a jak jim poskytnout stabilitu v této náročné době.</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Card 1 -->
+                <div
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    <div class="p-6">
+                        <img src="images/1_A.png" alt="Máte strach" class="w-full h-48 object-contain mb-4">
+                    </div>
+                    <div class="bg-primary text-white p-6 flex-grow">
+                        <h3 class="text-xl font-bold mb-3">Máte strach to dětem říct?</h3>
+                        <p class="text-sm opacity-90">Ať je jim pět nebo patnáct, většinou poznají, že se něco děje.
+                            Když
+                            jim to neřeknete, vymyslí si svou vlastní verzi.</p>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    <div class="p-6">
+                        <img src="images/2_A.png" alt="Ochrana před konflikty" class="w-full h-48 object-contain mb-4">
+                    </div>
+                    <div class="bg-primary text-white p-6 flex-grow">
+                        <h3 class="text-xl font-bold mb-3">Nevíte, jak je ochránit před konflikty?</h3>
+                        <p class="text-sm opacity-90">Nejvíc dětem ubližuje dlouhodobý konflikt mezi rodiči, ne samotný
+                            rozvod. Ukážeme vám konkrétní kroky.</p>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    <div class="p-6">
+                        <img src="images/3_A.png" alt="Jak neubližit" class="w-full h-48 object-contain mb-4">
+                    </div>
+                    <div class="bg-primary text-white p-6 flex-grow">
+                        <h3 class="text-xl font-bold mb-3">Jak jim neubližit víc, než je nutné?</h3>
+                        <p class="text-sm opacity-90">Rozvod je těžký pro všechny. Ale můžete dětem poskytnout stabilitu
+                            a
+                            jistotu, kterou v této době potřebují.</p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    <div class="p-6">
+                        <img src="images/yourself.png" alt="Nevíte co je správné"
+                            class="w-full h-48 object-contain mb-4">
+                    </div>
+                    <div class="bg-primary text-white p-6 flex-grow">
+                        <h3 class="text-xl font-bold mb-3">Cítíte se v tom sami a nevíte, co je správné?</h3>
+                        <p class="text-sm opacity-90">Nejste na to sami. Najdete u nás jasné odpovědi a praktické
+                            návody.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Articles Preview -->
+    <section id="articles" class="bg-white py-20">
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-2">PRAKTICKÉ ČLÁNKY</p>
+                <h2 class="text-4xl font-bold text-primary mb-4">Začněte tady</h2>
+                <p class="text-lg text-gray-600">Praktické články, které vám pomohou zorientovat se v nové situaci
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <a href="clanek-proc-potrebuji-oba-rodice.html" class="block group">
+                    <article
+                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Potřeby dětí</div>
+                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Proč
+                            děti potřebují oba rodiče</h3>
+                        <p class="text-gray-600 text-sm mb-4 flex-grow">Zjistěte, proč je důležité, aby děti měly vztah
+                            s
+                            oběma rodiči, a jak to ovlivňuje jejich vývoj.</p>
+                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
+                    </article>
+                </a>
+
+                <a href="#" class="block group">
+                    <article
+                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Domluva</div>
+                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Druhý
+                            rodič nikam nezmizí</h3>
+                        <p class="text-gray-600 text-sm mb-4 flex-grow">Realita, kterou nelze změnit: budete se muset
+                            domlouvat ještě minimálně 10-15 let.</p>
+                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
+                    </article>
+                </a>
+
+                <a href="#" class="block group">
+                    <article
+                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">OSPOD a soud</div>
+                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Co se
+                            změnilo od ledna 2026</h3>
+                        <p class="text-gray-600 text-sm mb-4 flex-grow">Nové zákony přinesly zásadní změny. Zjistěte, co
+                            je
+                            jinak a jak to ovlivní vaši situaci.</p>
+                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
+                    </article>
+                </a>
+
+                <a href="#" class="block group">
+                    <article
+                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Jak pomoct sobě
+                        </div>
+                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Jste
+                            vzorem pro děti</h3>
+                        <p class="text-gray-600 text-sm mb-4 flex-grow">Pokud se postaráte o sebe, ukážete dětem, že i v
+                            krizi se dá najít síla.</p>
+                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
+                    </article>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course CTA -->
+    <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
+            <p class="text-xl mb-8">V našem online kurzu <strong>"Jak mluvit s dětmi o rozpadu rodiny"</strong> se
+                naučíte:</p>
+            <ul class="text-left max-w-2xl mx-auto mb-8 space-y-3">
+                <li class="flex items-start">
+                    <span class="text-light-blue mr-3 text-2xl">✓</span>
+                    <span>Jak komunikovat s dětmi o rozvodu</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-light-blue mr-3 text-2xl">✓</span>
+                    <span>Jak reagovat na jejich emoce</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-light-blue mr-3 text-2xl">✓</span>
+                    <span>Jak se domluvit s druhým rodičem na péči</span>
+                </li>
+                <li class="flex items-start">
+                    <span class="text-light-blue mr-3 text-2xl">✓</span>
+                    <span>Jak poskytnout dětem stabilitu a jistotu</span>
+                </li>
+            </ul>
+            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition">
+                Zjistit více o kurzu
+            </a>
+
+            <div class="mt-12 bg-white/10 backdrop-blur rounded-2xl p-8 max-w-2xl mx-auto">
+                <p class="text-lg italic mb-4">"Kurz mi pomohl pochopit, jak moje děti vnímají rozvod. Naučila jsem
+                    se s
+                    nimi mluvit otevřeně, aniž bych jim ublížila."</p>
+                <cite class="text-sm opacity-75">— Jana, matka dvou dětí</cite>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter -->
+    <section class="py-16 bg-gray-100">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-3xl font-bold text-primary mb-4">Dostávejte tipy přímo do emailu</h2>
+            <p class="text-gray-600 mb-8">Přihlaste se k newsletteru a získejte praktické rady, jak pomoci dětem i
+                sobě.
+            </p>
+            <form class="flex flex-col sm:flex-row gap-4 max-w-xl mx-auto">
+                <input type="email" placeholder="Váš email" required
+                    class="flex-1 px-6 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent">
+                <button type="submit"
+                    class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition">
+                    Přihlásit se
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="text-xl font-bold mb-4">Dítě v rozvodu</h4>
+                    <p class="opacity-75">Praktický průvodce rozvodem pro rodiče</p>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Témata</h4>
+                    <ul class="space-y-2 opacity-75">
+                        <li><a href="#" class="hover:text-light-blue">Potřeby dětí</a></li>
+                        <li><a href="#" class="hover:text-light-blue">Domluva</a></li>
+                        <li><a href="#" class="hover:text-light-blue">OSPOD a soud</a></li>
+                        <li><a href="#" class="hover:text-light-blue">Jak pomoct sobě</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="font-bold mb-4">Kontakt</h4>
+                    <p class="opacity-75">SPONDEA, o.p.s.<br>Brno</p>
+                </div>
+            </div>
+            <div class="border-t border-white/20 pt-8 text-center opacity-75 text-sm">
+                <p>&copy; 2026 SPONDEA. Všechna práva vyhrazena.</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>

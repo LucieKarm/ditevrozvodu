@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('blog', ({ data }) => {
+  return data.category === 'OSPOD a soud';
+});
+---
+
+<BaseLayout title="OSPOD a soud – Dítě v rozvodu">
+    <!-- Topic Hero -->
+    <header class="bg-gradient-to-r from-primary to-light-blue text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <p class="text-sm uppercase tracking-wider mb-4 opacity-90">OSPOD A SOUD</p>
+            <h1 class="text-4xl md:text-6xl font-bold mb-6">OSPOD a soud</h1>
+            <p class="text-xl md:text-2xl opacity-90 max-w-3xl mx-auto mb-8">
+                Právní procesy nemusí být strašákem. Vysvětlíme vám roli institucí a jak probíhá rozhodování o dětech
+                srozumitelně a s klidem.
+            </p>
+            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                class="inline-block bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition">
+                Naučte se mluvit s dětmi
+            </a>
+        </div>
+    </header>
+
+    <!-- Intro Text -->
+    <section class="py-12 bg-white">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="text-xl text-gray-700 leading-relaxed text-center">
+                Soudní řízení a jednání s úřady jsou pro mnoho rodičů tou nejnáročnější částí. Pomůžeme vám zorientovat
+                se v tom, co vás čeká a jak nejlépe zastoupit zájmy vašich dětí.
+            </p>
+        </div>
+    </section>
+
+    <!-- Content Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {articles.map((article) => (
+                    <ArticleCard 
+                        title={article.data.title}
+                        description={article.data.description}
+                        category={article.data.category}
+                        image={article.data.image}
+                        slug={article.slug}
+                    />
+                ))}
+            </div>
+        </div>
+    </section>
+</BaseLayout>

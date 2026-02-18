@@ -1,0 +1,112 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const blogEntries = await getCollection('blog');
+  return blogEntries.map(entry => ({
+    params: { slug: entry.slug }, props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<BaseLayout title={`${entry.data.title} | Dítě v rozvodu`} description={entry.data.description}>
+    <!-- Article Header -->
+    <header class="bg-white">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 pb-6">
+            <div class="mb-6">
+                <span
+                    class="inline-block bg-accent/10 text-accent px-4 py-1 rounded-full text-sm font-semibold uppercase tracking-wider">
+                    {entry.data.category}
+                </span>
+                <span class="text-gray-500 text-sm ml-3">~6 minut čtení</span>
+            </div>
+            <h1 class="text-4xl md:text-5xl font-bold text-primary mb-6 leading-tight">
+                {entry.data.title}
+            </h1>
+            <div class="bg-gradient-to-r from-primary/5 to-accent/5 border-l-4 border-accent rounded-lg p-6">
+                <p class="text-xl text-gray-800 leading-relaxed font-semibold">
+                    {entry.data.description}
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Article Content -->
+    <section class="bg-white pb-16">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 article-content text-lg text-gray-700">
+            <Content />
+        </div>
+    </section>
+
+    <!-- Support Section -->
+    <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
+            <p class="text-xl mb-8">V našem online kurzu <strong>"Jak mluvit s dětmi o rozpadu rodiny"</strong> se
+                naučíte:</p>
+            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition">
+                Zjistit více o kurzu
+            </a>
+        </div>
+    </section>
+</BaseLayout>
+
+<style is:global>
+    /* Article content styling to match the original */
+    .article-content h2 {
+        font-size: 1.875rem;
+        font-weight: 700;
+        color: var(--color-primary);
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .article-content p {
+        margin-bottom: 1.25rem;
+        line-height: 1.8;
+    }
+
+    .article-content ul {
+        margin-bottom: 1.5rem;
+        padding-left: 0;
+    }
+
+    .article-content li {
+        margin-bottom: 0.75rem;
+        line-height: 1.7;
+        padding-left: 1.75rem;
+        position: relative;
+        list-style: none;
+    }
+
+    .article-content ul li:before {
+        content: "●";
+        color: var(--color-accent);
+        font-size: 1.2em;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    .article-content strong {
+        font-weight: 700;
+        color: var(--color-primary);
+    }
+
+    .article-content blockquote {
+        background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-primary) 100%);
+        color: white;
+        padding: 1.5rem 1.75rem;
+        border-radius: 1rem;
+        margin: 2rem 0;
+        font-size: 1.125rem;
+        font-weight: 500;
+        line-height: 1.6;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+</style>

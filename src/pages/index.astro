@@ -1,61 +1,15 @@
-<!DOCTYPE html>
-<html lang="cs">
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dítě v rozvodu – Praktický průvodce rozvodem pro rodiče</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        'primary': '#2b2d72',
-                        'accent': '#e55297',
-                        'light-blue': '#3bb6e6',
-                    }
-                }
-            }
-        }
-    </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
+const latestArticles = await getCollection('blog', ({ data }) => {
+  return data.published === true;
+});
+// Sort by date or just take the first 4 for now
+const featuredArticles = latestArticles.slice(0, 4);
+---
 
-        body {
-            font-family: 'Lexend', sans-serif;
-        }
-    </style>
-</head>
-
-<body class="bg-gray-50">
-
-    <!-- Navigation -->
-    <nav class="bg-white shadow-sm sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between items-center h-16">
-                <div class="text-xl font-bold text-primary">Dítě v rozvodu</div>
-                <div class="hidden md:flex space-x-8">
-                    <a href="potreby-deti-new.html" class="text-gray-700 hover:text-primary">Potřeby dětí</a>
-                    <a href="domluva-s-rodicem.html" class="text-gray-700 hover:text-primary">Domluva s druhým
-                        rodičem</a>
-                    <a href="#" class="text-gray-700 hover:text-primary">OSPOD a soud</a>
-                    <a href="#" class="text-gray-700 hover:text-primary">Jak pomoct sobě</a>
-                    <a href="#" class="text-gray-700 hover:text-primary">Kontakt</a>
-                </div>
-                <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
-                    class="bg-accent text-white px-6 py-2 rounded-full font-semibold hover:bg-pink-600 transition">
-                    Naučte se mluvit s dětmi
-                </a>
-            </div>
-        </div>
-    </nav>
-
+<BaseLayout>
     <!-- Hero Section -->
     <section class="bg-gradient-to-r from-accent to-primary text-white py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -75,7 +29,7 @@
                     <p class="mt-6 text-sm opacity-75">✓ Více než 500 rodičů prošlo našimi kurzy</p>
                 </div>
                 <div class="flex justify-center">
-                    <img src="images/deti.png" alt="Děti" class="max-w-md w-full">
+                    <img src="/images/deti.png" alt="Děti" class="max-w-md w-full">
                 </div>
             </div>
         </div>
@@ -89,7 +43,7 @@
             <h2 class="text-3xl font-bold mb-4">Co se změnilo v zákonech o rozvodu</h2>
             <p class="text-lg mb-6 opacity-90">Od 1. ledna 2026 platí nová pravidla. Už neexistuje "výlučná" nebo
                 "střídavá" péče. Zjistěte, co to pro vás znamená.</p>
-            <a href="#"
+            <a href="/clanek-soudni-rizeni"
                 class="inline-block border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-primary transition">
                 Přečíst článek →
             </a>
@@ -111,7 +65,7 @@
                 <div
                     class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
                     <div class="p-6">
-                        <img src="images/1_A.png" alt="Máte strach" class="w-full h-48 object-contain mb-4">
+                        <img src="/images/1_A.png" alt="Máte strach" class="w-full h-48 object-contain mb-4">
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
                         <h3 class="text-xl font-bold mb-3">Máte strach to dětem říct?</h3>
@@ -125,7 +79,7 @@
                 <div
                     class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
                     <div class="p-6">
-                        <img src="images/2_A.png" alt="Ochrana před konflikty" class="w-full h-48 object-contain mb-4">
+                        <img src="/images/2_A.png" alt="Ochrana před konflikty" class="w-full h-48 object-contain mb-4">
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
                         <h3 class="text-xl font-bold mb-3">Nevíte, jak je ochránit před konflikty?</h3>
@@ -138,7 +92,7 @@
                 <div
                     class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
                     <div class="p-6">
-                        <img src="images/3_A.png" alt="Jak neubližit" class="w-full h-48 object-contain mb-4">
+                        <img src="/images/3_A.png" alt="Jak neubližit" class="w-full h-48 object-contain mb-4">
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
                         <h3 class="text-xl font-bold mb-3">Jak jim neubližit víc, než je nutné?</h3>
@@ -152,7 +106,7 @@
                 <div
                     class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
                     <div class="p-6">
-                        <img src="images/yourself.png" alt="Nevíte co je správné"
+                        <img src="/images/yourself.png" alt="Nevíte co je správné"
                             class="w-full h-48 object-contain mb-4">
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
@@ -177,56 +131,21 @@
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <a href="clanek-proc-potrebuji-oba-rodice.html" class="block group">
-                    <article
-                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
-                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Potřeby dětí</div>
-                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Proč
-                            děti potřebují oba rodiče</h3>
-                        <p class="text-gray-600 text-sm mb-4 flex-grow">Zjistěte, proč je důležité, aby děti měly vztah
-                            s
-                            oběma rodiči, a jak to ovlivňuje jejich vývoj.</p>
-                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
-                    </article>
-                </a>
-
-                <a href="#" class="block group">
-                    <article
-                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
-                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Domluva</div>
-                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Druhý
-                            rodič nikam nezmizí</h3>
-                        <p class="text-gray-600 text-sm mb-4 flex-grow">Realita, kterou nelze změnit: budete se muset
-                            domlouvat ještě minimálně 10-15 let.</p>
-                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
-                    </article>
-                </a>
-
-                <a href="#" class="block group">
-                    <article
-                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
-                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">OSPOD a soud</div>
-                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Co se
-                            změnilo od ledna 2026</h3>
-                        <p class="text-gray-600 text-sm mb-4 flex-grow">Nové zákony přinesly zásadní změny. Zjistěte, co
-                            je
-                            jinak a jak to ovlivní vaši situaci.</p>
-                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
-                    </article>
-                </a>
-
-                <a href="#" class="block group">
-                    <article
-                        class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
-                        <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">Jak pomoct sobě
-                        </div>
-                        <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">Jste
-                            vzorem pro děti</h3>
-                        <p class="text-gray-600 text-sm mb-4 flex-grow">Pokud se postaráte o sebe, ukážete dětem, že i v
-                            krizi se dá najít síla.</p>
-                        <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
-                    </article>
-                </a>
+                {featuredArticles.map((article) => (
+                    <a href={`/clanek-${article.slug}`} class="block group">
+                        <article
+                            class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                            <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">{article.data.category}</div>
+                            <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">
+                                {article.data.title}
+                            </h3>
+                            <p class="text-gray-600 text-sm mb-4 flex-grow">
+                                {article.data.description}
+                            </p>
+                            <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
+                        </article>
+                    </a>
+                ))}
             </div>
         </div>
     </section>
@@ -286,35 +205,4 @@
             </form>
         </div>
     </section>
-
-    <!-- Footer -->
-    <footer class="bg-primary text-white py-12">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="grid md:grid-cols-3 gap-8 mb-8">
-                <div>
-                    <h4 class="text-xl font-bold mb-4">Dítě v rozvodu</h4>
-                    <p class="opacity-75">Praktický průvodce rozvodem pro rodiče</p>
-                </div>
-                <div>
-                    <h4 class="font-bold mb-4">Témata</h4>
-                    <ul class="space-y-2 opacity-75">
-                        <li><a href="#" class="hover:text-light-blue">Potřeby dětí</a></li>
-                        <li><a href="#" class="hover:text-light-blue">Domluva</a></li>
-                        <li><a href="#" class="hover:text-light-blue">OSPOD a soud</a></li>
-                        <li><a href="#" class="hover:text-light-blue">Jak pomoct sobě</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 class="font-bold mb-4">Kontakt</h4>
-                    <p class="opacity-75">SPONDEA, o.p.s.<br>Brno</p>
-                </div>
-            </div>
-            <div class="border-t border-white/20 pt-8 text-center opacity-75 text-sm">
-                <p>&copy; 2026 SPONDEA. Všechna práva vyhrazena.</p>
-            </div>
-        </div>
-    </footer>
-
-</body>
-
-</html>
+</BaseLayout>
