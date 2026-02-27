@@ -6,7 +6,7 @@ image: "/images/2_A.png"
 published: true
 ---
 
-## Proč děti chtějí, abyste byli spolu
+## Proč děti chtějí, abyste byli zase spolu
 
 Pro děti je rodina jejich celý svět. Když se tento svět rozpadá, je přirozené, že se ho snaží zachránit. **Touha po úplné rodině není manipulace – je to projev jejich potřeby bezpečí.**
 
@@ -38,7 +38,7 @@ Zkuste se na chvíli vžít do role svého dítěte. Jak byste se cítili, kdyby
 
 Podobně bolestivá je falešná naděje. Věta *„Možná se jednou vrátíme k sobě"* – i pokud v to třeba sami doufáte – dítěti neuleví. Naopak, udržuje ho v napětí a čekání, a to není moc fér.
 
-Možná máte v takovou chvíli chuť říct, jak to skutečně bylo. *„Táta nás opustil"* nebo *„Máma se rozhodla odejít"* – jsou ale věty, které dítě staví do nemožné pozice, kdy ho nutíte si mezi vámi vybrat. A tohle si žádné dítě nezaslouží.
+Možná máte v takovou chvíli chuť říct, jak to skutečně bylo. *„Táta nás opustil"* nebo *„Máma se rozhodla odejít"* jsou ale věty, které dítě staví do nemožné pozice, kdy ho nutíte si mezi vámi vybrat. A tohle si žádné dítě nezaslouží.
 
 ### Jak mluvit s dětmi různého věku
 
