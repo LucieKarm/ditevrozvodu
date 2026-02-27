@@ -11,7 +11,7 @@ Dlouho jste se definovali jako součást páru. Teď jste „jen“ vy. To můž
 
 Dovolte si truchlit za to, co skončilo, ale nezapomeňte se dívat dopředu. Nová identita se nerodí přes noc, je to proces malých krůčků.
 
-> 💡 **Myšlenka:** Vaše hodnota jako člověka a rodiče není definována úspěchem či neúspěchem vašeho vztahu.
+> **Myšlenka:** Vaše hodnota jako člověka a rodiče není definována úspěchem či neúspěchem vašeho vztahu.
 
 ## Budování nového domova
 

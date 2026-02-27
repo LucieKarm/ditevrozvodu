@@ -11,7 +11,7 @@ Každé dítě, které je schopno formulovat své vlastní názory, má právo j
 
 Cílem není, aby dítě neslo odpovědnost za rozhodnutí, ale aby soud věděl, jak dítě situaci vnímá a co si přeje.
 
-> 💡 **Důležité:** Přání dítěte je pro soud důležitým podkladem, ale není jediným faktorem. Soud musí posoudit, zda je přání dítěte v souladu s jeho skutečným nejlepším zájmem.
+> **Důležité:** Přání dítěte je pro soud důležitým podkladem, ale není jediným faktorem. Soud musí posoudit, zda je přání dítěte v souladu s jeho skutečným nejlepším zájmem.
 
 ## Názor vs. Nejlepší zájem
 

@@ -11,7 +11,7 @@ Možná vám chodí útočné zprávy, nebo se při předávání dětí setkáv
 
 **Nejúčinnější obranou je nereagovat.** Pokud zpráva neobsahuje věcnou otázku týkající se dětí, vůbec na ni neodpovídejte. Pokud otázku obsahuje, odpovězte jen na ni (metodou BIFF) a zbytek ignorujte.
 
-> 💡 **Pamatujte:** Nemusíte se obhajovat. Nemusíte vysvětlovat své kroky. Jediné, co musíte, je zajistit bezpečí a pohodu svých dětí.
+> **Pamatujte:** Nemusíte se obhajovat. Nemusíte vysvětlovat své kroky. Jediné, co musíte, je zajistit bezpečí a pohodu svých dětí.
 
 ## Co dělat při porušování dohod
 

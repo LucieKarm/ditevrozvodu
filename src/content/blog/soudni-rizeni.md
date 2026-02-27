@@ -11,7 +11,7 @@ Soudní řízení o dětech začíná podáním **návrhu na úpravu poměrů k 
 
 V návrhu uvádíte, jak si představujete péči (střídavá, společná, do péče jednoho z rodičů) a jaké má být výživné.
 
-> 💡 **Tip:** Pokud se jako rodiče na všem dohodnete předem (tzv. dohoda rodičů), je soudní proces mnohem rychlejší a pro všechny strany méně zatěžující. Soud dohodu obvykle jen schválí, pokud je v zájmu dítěte.
+> **Tip:** Pokud se jako rodiče na všem dohodnete předem (tzv. dohoda rodičů), je soudní proces mnohem rychlejší a pro všechny strany méně zatěžující. Soud dohodu obvykle jen schválí, pokud je v zájmu dítěte.
 
 ## Jak probíhá jednání v síni
 

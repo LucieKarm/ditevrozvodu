@@ -17,7 +17,7 @@ Pro děti je rodina jejich celý svět. Když se tento svět rozpadá, je přiro
 * **Láska k oběma rodičům** – nemohou si vybrat, koho mají raději
 * **Fantazie o nápravě** – věří, že mohou situaci napravit
 
-> 💡 **Klíčové:** Když děti říkají "Chci, abyste byli spolu", ve skutečnosti říkají "Chci se cítit v bezpečí a chci mít oba rodiče."
+> **Klíčové:** Když děti říkají "Chci, abyste byli spolu", ve skutečnosti říkají "Chci se cítit v bezpečí a chci mít oba rodiče."
 
 ## Jak reagovat na jejich přání
 
@@ -47,7 +47,7 @@ Děti potřebují jasnost. Nejistota je pro ně horší než špatná zpráva.
 * **Buďte jednotní** – oba rodiče by měli říkat totéž
 * **Nedávejte falešnou naději** – pokud se nevracíte, řekněte to
 
-> ✓ **Pamatujte:** Jasnost není krutost. Je to dar, který dětem umožní přijmout realitu a přizpůsobit se jí.
+> **Pamatujte:** Jasnost není krutost. Je to dar, který dětem umožní přijmout realitu a přizpůsobit se jí.
 
 ### Podle věku dítěte
 
@@ -95,4 +95,4 @@ Někdy děti potřebují víc než to, co jim můžete dát vy.
 
 **Dětský psycholog nebo rodinný terapeut** může dětem pomoci zpracovat rozvod a přijmout novou realitu.
 
-> ✓ **Důležité:** Vyhledání pomoci není selhání. Je to projev toho, že berete potřeby svých dětí vážně.
+> **Důležité:** Vyhledání pomoci není selhání. Je to projev toho, že berete potřeby svých dětí vážně.

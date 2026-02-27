@@ -14,7 +14,7 @@ Když se rodiče rozvádějí, existuje mnoho věcí, které mohou děti negativ
 
 Ztráta kontaktu s mámou nebo tátou má na děti dlouhodobější a závažnější dopady než jakákoli jiná změna spojená s rozvodem.
 
-> 💡 **Klíčové:** Děti si nevybraly, že se vám narodí. Nevybraly si rozvod. Nemají moc situaci změnit. Proto je fér, aby rozvod jejich život zasáhl co nejméně.
+> **Klíčové:** Děti si nevybraly, že se vám narodí. Nevybraly si rozvod. Nemají moc situaci změnit. Proto je fér, aby rozvod jejich život zasáhl co nejméně.
 
 ## Proč je to tak vážné?
 
@@ -109,7 +109,7 @@ I po rozvodu budete muset s druhým rodičem řešit:
 * Výchovné záležitosti
 * Finanční otázky
 
-> ✓ Čím lépe se zvládnete domlouvat, tím lépe bude vašim dětem. Druhý rodič nikam nezmizí – budete se muset domlouvat ještě mnoho let.
+> Čím lépe se zvládnete domlouvat, tím lépe bude vašim dětem. Druhý rodič nikam nezmizí – budete se muset domlouvat ještě mnoho let.
 
 ## Co můžete udělat
 

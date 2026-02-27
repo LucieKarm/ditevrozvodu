@@ -11,7 +11,7 @@ Psycholog nebo terapeut vám poskytne bezpečný prostor pro ventilaci emocí, k
 
 Můžete využít i specializované krizové intervence, které se zaměřují na akutní zvládnutí šoku a náročných situací.
 
-> 💡 **Tip:** Hledejte odborníky, kteří se specializují na rodinnou problematiku a náhradní rodinnou péči, mají s rozvody nejvíce zkušeností.
+> **Tip:** Hledejte odborníky, kteří se specializují na rodinnou problematiku a náhradní rodinnou péči, mají s rozvody nejvíce zkušeností.
 
 ## Krizové linky (okamžitá pomoc)
 

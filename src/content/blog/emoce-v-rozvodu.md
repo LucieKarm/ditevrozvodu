@@ -14,7 +14,7 @@ Rozvod je formou ztráty, podobně jako úmrtí blízkého člověka. Je proto p
 * **Smutek a deprese:** Pocit beznaděje a prázdnoty.
 * **Přijetí:** Postupné smíření se s novou realitou.
 
-> 💡 **Pamatujte:** Tyto fáze nejdou po sobě v hezké lince. Mohou se střídat, vracet se a přicházet ve vlnách. Je to v pořádku.
+> **Pamatujte:** Tyto fáze nejdou po sobě v hezké lince. Mohou se střídat, vracet se a přicházet ve vlnách. Je to v pořádku.
 
 ## Praktická první pomoc pro vaši psychiku
 

@@ -17,7 +17,7 @@ Děti jsou jako malé radary. **Vnímají napětí, změny nálad, neřečené v
 * **Mlčení mezi rodiči** – když spolu přestanete mluvit
 * **Tajemství** – když se najednou šeptá za zavřenými dveřmi
 
-> 💡 **Klíčové:** Když děti neví, co se děje, jejich fantazie je často horší než realita. Vyplňují si mezery vlastními představami – a ty bývají děsivé.
+> **Klíčové:** Když děti neví, co se děje, jejich fantazie je často horší než realita. Vyplňují si mezery vlastními představami – a ty bývají děsivé.
 
 ## Proč je mlčení nebezpečné
 
@@ -54,7 +54,7 @@ Upřímnost neznamená říct všechno. Znamená to říct pravdu přizpůsobeno
 * **Hranice** – nejsou to vaši přátelé nebo terapeuti, nesdílejte intimní detaily
 * **Zapojení do plánování** – "Co si myslíš o tom, jak bychom to mohli zařídit?"
 
-> ✓ **Pamatujte:** Věkově přiměřená upřímnost buduje důvěru. Mlčení buduje úzkost.
+> **Pamatujte:** Věkově přiměřená upřímnost buduje důvěru. Mlčení buduje úzkost.
 
 ## Co říct a co neříkat
 
@@ -96,7 +96,7 @@ Některé děti své emoce neventilují slovy. To je v pořádku.
 * **Psaní** – starší děti můžou psát deník
 * **Fyzická aktivita** – sport pomáhá uvolnit napětí
 
-> ✓ **Důležité:** Respektujte tempo dítěte. Někteří potřebují čas na zpracování, než budou připraveni mluvit.
+> **Důležité:** Respektujte tempo dítěte. Někteří potřebují čas na zpracování, než budou připraveni mluvit.
 
 ## Kdy vyhledat profesionální pomoc
 

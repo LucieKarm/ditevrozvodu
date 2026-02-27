@@ -1,44 +1,82 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
 
 export async function getStaticPaths() {
-  const blogEntries = await getCollection('blog');
-  return blogEntries.map(entry => ({
-    params: { slug: entry.slug }, props: { entry },
-  }));
+    const blogEntries = await getCollection("blog");
+    return blogEntries.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry },
+    }));
 }
 
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+// Fetch other articles for the related section (from other categories, exclude current)
+const allArticles = await getCollection("blog");
+const otherArticles = allArticles
+    .filter(
+        (a) => a.slug !== entry.slug && a.data.category !== entry.data.category
+    )
+    .sort(() => Math.random() - 0.5)
+    .slice(0, 3);
 ---
 
-<BaseLayout title={`${entry.data.title} | Dítě v rozvodu`} description={entry.data.description}>
+<BaseLayout
+    title={`${entry.data.title} | Dítě v rozvodu`}
+    description={entry.data.description}
+>
     <!-- Article Header -->
     <header class="bg-white">
-        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 pb-6">
-            <div class="mb-6">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10 pb-0">
+            <div class="mb-4">
                 <span
-                    class="inline-block bg-accent/10 text-accent px-4 py-1 rounded-full text-sm font-semibold uppercase tracking-wider">
+                    class="inline-block bg-accent/10 text-accent px-4 py-1 rounded-full text-sm font-semibold uppercase tracking-wider"
+                >
                     {entry.data.category}
                 </span>
                 <span class="text-gray-500 text-sm ml-3">~6 minut čtení</span>
             </div>
-            <h1 class="text-4xl md:text-5xl font-bold text-primary mb-6 leading-tight">
+            <h1
+                class="text-4xl md:text-5xl font-bold text-primary mb-4 leading-tight"
+            >
                 {entry.data.title}
             </h1>
-            <div class="bg-gradient-to-r from-primary/5 to-accent/5 border-l-4 border-accent rounded-lg p-6">
-                <p class="text-xl text-gray-800 leading-relaxed font-semibold">
-                    {entry.data.description}
-                </p>
-            </div>
+            <p class="text-xl text-gray-700 leading-relaxed">
+                {entry.data.description}
+            </p>
         </div>
     </header>
 
     <!-- Article Content -->
-    <section class="bg-white pb-16">
-        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 article-content text-lg text-gray-700">
+    <section class="bg-white pb-16 pt-6">
+        <div
+            class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 article-content text-lg text-gray-700"
+        >
             <Content />
+        </div>
+    </section>
+
+    <!-- Related Articles -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl font-bold text-primary mb-8">Další články</h2>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {
+                    otherArticles.map((article) => (
+                        <ArticleCard
+                            title={article.data.title}
+                            description={article.data.description}
+                            category={article.data.category}
+                            image={article.data.image}
+                            slug={article.slug}
+                            showCategory={true}
+                        />
+                    ))
+                }
+            </div>
         </div>
     </section>
 
@@ -46,10 +84,15 @@ const { Content } = await entry.render();
     <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 class="text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
-            <p class="text-xl mb-8">V našem online kurzu <strong>"Jak mluvit s dětmi o rozpadu rodiny"</strong> se
-                naučíte:</p>
-            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
-                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition">
+            <p class="text-xl mb-8">
+                V našem online kurzu <strong
+                    >"Jak mluvit s dětmi o rozpadu rodiny"</strong
+                > se naučíte:
+            </p>
+            <a
+                href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition"
+            >
                 Zjistit více o kurzu
             </a>
         </div>
@@ -57,13 +100,25 @@ const { Content } = await entry.render();
 </BaseLayout>
 
 <style is:global>
-    /* Article content styling to match the original */
+    /* Article content styling */
     .article-content h2 {
         font-size: 1.875rem;
         font-weight: 700;
         color: var(--color-primary);
         margin-top: 2rem;
         margin-bottom: 1rem;
+    }
+
+    .article-content > h2:first-child {
+        margin-top: 0;
+    }
+
+    .article-content h3 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: var(--color-primary);
+        margin-top: 1.75rem;
+        margin-bottom: 0.75rem;
     }
 
     .article-content p {
@@ -87,10 +142,10 @@ const { Content } = await entry.render();
     .article-content ul li:before {
         content: "●";
         color: var(--color-accent);
-        font-size: 1.2em;
+        font-size: 0.6em;
         position: absolute;
         left: 0;
-        top: 0;
+        top: 0.45em;
     }
 
     .article-content strong {
@@ -99,14 +154,29 @@ const { Content } = await entry.render();
     }
 
     .article-content blockquote {
-        background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-primary) 100%);
-        color: white;
-        padding: 1.5rem 1.75rem;
-        border-radius: 1rem;
+        background: var(--color-accent);
+        background: linear-gradient(
+            135deg,
+            color-mix(in srgb, var(--color-accent) 15%, white) 0%,
+            color-mix(in srgb, var(--color-primary) 10%, white) 100%
+        );
+        border-left: 4px solid var(--color-accent);
+        color: var(--color-primary);
+        padding: 1.25rem 1.5rem;
+        border-radius: 0.5rem;
         margin: 2rem 0;
-        font-size: 1.125rem;
+        font-size: 1.05rem;
         font-weight: 500;
         line-height: 1.6;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .article-content blockquote p {
+        margin-bottom: 0;
+        color: var(--color-primary);
+    }
+
+    .article-content blockquote strong {
+        color: var(--color-accent);
+        font-weight: 700;
     }
 </style>

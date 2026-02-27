@@ -11,7 +11,7 @@ U soudu zastupuje OSPOD roli tzv. **kolizního opatrovníka**. Protože rodiče 
 
 Pracovník OSPOD nemá za úkol najít viníka rozpadu rodiny, ale posoudit, jaké uspořádání péče bude pro dítě nejlepší.
 
-> 💡 **Pamatujte:** OSPOD není nepřítel. Je to profesionál, který má zajistit, aby vaše dítě prošlo rozvodem s co nejmenší újmou.
+> **Pamatujte:** OSPOD není nepřítel. Je to profesionál, který má zajistit, aby vaše dítě prošlo rozvodem s co nejmenší újmou.
 
 ## Jak probíhá šetření v rodině
 
