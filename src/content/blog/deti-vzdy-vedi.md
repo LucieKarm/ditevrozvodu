@@ -1,6 +1,6 @@
 ---
-title: "Děti vždycky vědí, že se něco děje"
-description: "I když si myslíte, že děti nic netuší, vnímají víc, než si připouštíte. Proč je důležité nenechat je v tom samotné?"
+title: "Děti vědí, že se něco děje"
+description: "Když s dětmi budete mluvit, máte šanci zbavit je strachu."
 category: "Potřeby dětí"
 image: "/images/3_A.png"
 published: true

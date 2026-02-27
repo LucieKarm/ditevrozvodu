@@ -1,12 +1,12 @@
 ---
-title: "Děti mohou chtít, abyste byli spolu"
+title: "Děti nás chtějí dát dohromady"
 description: "Je přirozené, že děti touží po úplné rodině. Jak reagovat na jejich přání, abyste se vrátili k sobě?"
 category: "Potřeby dětí"
 image: "/images/2_A.png"
 published: true
 ---
 
-## Proč děti chtějí, abyste byli zase spolu
+## Proč děti chtějí, se k sobě vrátili
 
 Pro děti je rodina jejich celý svět. Když se tento svět rozpadá, je přirozené, že se ho snaží zachránit. **Touha po úplné rodině není manipulace – je to projev jejich potřeby bezpečí.**
 
