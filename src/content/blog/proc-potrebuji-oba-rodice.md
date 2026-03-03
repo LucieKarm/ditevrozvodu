@@ -3,7 +3,7 @@ title: "Proč děti potřebují oba rodiče"
 description: "Nejhorší, co se může stát, je že děti přijdou o jednoho z vás. Pochopte, proč je vztah k oběma rodičům pro děti klíčový."
 category: "Potřeby dětí"
 image: "/images/1.png"
-published: true
+published: false
 ---
 
 ## Nejhorší scénář
