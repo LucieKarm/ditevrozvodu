@@ -26,6 +26,9 @@ Proto je tak důležité dětem přiznat, že se něco děje. Říct jim aspoň 
 
 ## Jak na to: konzultace s Michaelou
 
+![Michaela Častulíková](/images/michaela.jpg)
+**Michaela Častulíková**, sociální pracovnice a krizová interventka SPONDEA
+
 Se sociální pracovnicí a krizovou interventkou Michaelou, která má mnohaleté zkušenosti s prací s dětmi i dospělými v náročných životních situacích ve SPONDEA, jsme si sedly a prošly konkrétní situaci. Představte si rodinu: máma a táta, dcera (8) a syn (5). S nápadem na odloučení přišla máma. Táta je zaskočený, oba ale chtějí spolupracovat a udělat všechno "správně" s ohledem na děti. Za tři týdny se táta stěhuje. O čem bychom s těmito rodiči mluvily?
 
 ### Začněte sami u sebe

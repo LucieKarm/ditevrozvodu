@@ -179,4 +179,21 @@ const otherArticles = allArticles
         color: var(--color-accent);
         font-weight: 700;
     }
+
+    .article-content img {
+        width: 100%;
+        max-height: 400px;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 0.5rem;
+        display: block;
+        margin: 0 0 0.5rem 0;
+    }
+
+    .article-content img + p {
+        font-size: 0.85rem;
+        color: #6b7280;
+        font-style: italic;
+        margin-bottom: 1.5rem;
+    }
 </style>
