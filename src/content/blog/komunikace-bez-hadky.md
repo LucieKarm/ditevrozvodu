@@ -1,7 +1,7 @@
 ---
 title: "Jak komunikovat bez hádky"
 description: "Praktické techniky pro komunikaci s bývalým partnerem. Naučte se metodu BIFF a jak oddělit emoce od faktů pro dobro vašich dětí."
-category: "Domluva s rodičem"
+category: "Domluva s druhým rodičem"
 image: "/images/1.png"
 ---
 

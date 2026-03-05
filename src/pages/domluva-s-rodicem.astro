@@ -5,7 +5,9 @@ import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
 
 const articles = await getCollection("blog", ({ data }) => {
-    return data.category === "Domluva s rodičem" && data.published === true;
+    return (
+        data.category === "Domluva s druhým rodičem" && data.published === true
+    );
 });
 
 const sortedArticles = sortBlogNewestFirst(articles);
@@ -19,9 +21,9 @@ const sortedArticles = sortBlogNewestFirst(articles);
                 Domluva s druhým rodičem
             </h1>
             <p class="text-xl md:text-2xl opacity-90 max-w-3xl mx-auto mb-8">
-                Vaše partnerská cesta končí, ale ta rodičovská bude trvat
-                ještě mnoho let. Společná domluva a nastavení funkčních pravidel jsou klíčem k
-                tomu, aby děti prožily toto období s pocitem bezpečí.
+                Vaše partnerská cesta končí, ale ta rodičovská bude trvat ještě
+                mnoho let. Společná domluva a nastavení funkčních pravidel jsou
+                klíčem k tomu, aby děti prožily toto období s pocitem bezpečí.
             </p>
             <a
                 href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"

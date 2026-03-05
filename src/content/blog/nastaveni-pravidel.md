@@ -1,7 +1,7 @@
 ---
 title: "Nastavení jasných pravidel"
 description: "Jak vytvořit funkční rodičovský plán. Získejte checklist pro nastavení pravidel, která dětem poskytnou pocit bezpečí a stability."
-category: "Domluva s rodičem"
+category: "Domluva s druhým rodičem"
 image: "/images/ne_1.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Řešení náročných situací"
 description: "Co dělat, když domluva s druhým rodičem vázne. Praktické rady pro řešení konfliktů, manipulací a kdy vyhledat pomoc mediátora."
-category: "Domluva s rodičem"
+category: "Domluva s druhým rodičem"
 image: "/images/6.png"
 ---
 
