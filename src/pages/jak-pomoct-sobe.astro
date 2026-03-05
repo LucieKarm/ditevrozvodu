@@ -2,10 +2,13 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
+import { sortBlogNewestFirst } from "../utils/blogSort";
 
 const articles = await getCollection("blog", ({ data }) => {
-    return data.category === "Jak pomoct sobě";
+    return data.category === "Jak pomoct sobě" && data.published === true;
 });
+
+const sortedArticles = sortBlogNewestFirst(articles);
 ---
 
 <BaseLayout title="Jak pomoct sobě – Dítě v rozvodu">
@@ -32,7 +35,7 @@ const articles = await getCollection("blog", ({ data }) => {
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {
-                    articles.map((article) => (
+                    sortedArticles.map((article) => (
                         <ArticleCard
                             title={article.data.title}
                             description={article.data.description}

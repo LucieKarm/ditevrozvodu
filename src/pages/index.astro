@@ -1,11 +1,13 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { sortBlogNewestFirst } from "../utils/blogSort";
 
-const latestArticles = await getCollection('blog', ({ data }) => {
+const publishedArticles = await getCollection('blog', ({ data }) => {
   return data.published === true;
 });
-// Sort by date or just take the first 4 for now
+
+const latestArticles = sortBlogNewestFirst(publishedArticles);
 const featuredArticles = latestArticles.slice(0, 4);
 ---
 
