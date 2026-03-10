@@ -1,10 +1,10 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
 
-const publishedArticles = await getCollection('blog', ({ data }) => {
-  return data.published === true;
+const publishedArticles = await getCollection("blog", ({ data }) => {
+    return data.published === true;
 });
 
 const latestArticles = sortBlogNewestFirst(publishedArticles);
@@ -17,21 +17,35 @@ const featuredArticles = latestArticles.slice(0, 4);
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid md:grid-cols-2 gap-12 items-center">
                 <div>
-                    <h1 class="text-5xl font-bold mb-6 leading-tight">Rozvádíte se?<br>Vaše děti taky</h1>
-                    <p class="text-xl mb-4 opacity-90">Rozvod nebo rozchod patří mezi nejnáročnější situace, jakými
-                        můžeme během života projít.</p>
-                    <p class="text-lg mb-8 opacity-80">Na děti má rozpad rodiny vždy vliv. Jako rodiče ale máte možnost
-                        pomoct jim tento těžký čas co nejlépe zvládnout.</p>
+                    <h1 class="text-5xl font-bold mb-6 leading-tight">
+                        Rozvádíte se?<br />Vaše děti taky
+                    </h1>
+                    <p class="text-xl mb-4 opacity-90">
+                        Rozvod nebo rozchod patří mezi nejnáročnější situace,
+                        jakými můžeme během života projít.
+                    </p>
+                    <p class="text-lg mb-8 opacity-80">
+                        Na děti má rozpad rodiny vždy vliv. Jako rodiče ale máte
+                        možnost pomoct jim tento těžký čas co nejlépe zvládnout.
+                    </p>
                     <div class="flex flex-col sm:flex-row gap-4">
-                        <a href="#articles"
-                            class="bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition text-center">
+                        <a
+                            href="#articles"
+                            class="bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition text-center"
+                        >
                             Začněte tady
                         </a>
                     </div>
-                    <p class="mt-6 text-sm opacity-75">✓ Více než 500 rodičů prošlo našimi kurzy</p>
+                    <p class="mt-6 text-sm opacity-75">
+                        ✓ Více než 500 rodičů prošlo našimi kurzy
+                    </p>
                 </div>
                 <div class="flex justify-center">
-                    <img src="/images/deti.png" alt="Děti" class="max-w-md w-full">
+                    <img
+                        src="/images/deti.png"
+                        alt="Děti"
+                        class="max-w-md w-full"
+                    />
                 </div>
             </div>
         </div>
@@ -40,13 +54,22 @@ const featuredArticles = latestArticles.slice(0, 4);
     <!-- Featured Article - Law Changes -->
     <section class="bg-primary text-white py-12">
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <div class="inline-block bg-accent px-4 py-1 rounded-full text-sm font-semibold mb-4">NOVÉ OD LEDNA 2026
+            <div
+                class="inline-block bg-accent px-4 py-1 rounded-full text-sm font-semibold mb-4"
+            >
+                NOVÉ OD LEDNA 2026
             </div>
-            <h2 class="text-3xl font-bold mb-4">Co se změnilo v zákonech o rozvodu</h2>
-            <p class="text-lg mb-6 opacity-90">Od 1. ledna 2026 platí nová pravidla. Už neexistuje "výlučná" nebo
-                "střídavá" péče. Zjistěte, co to pro vás znamená.</p>
-            <a href="/clanek-soudni-rizeni"
-                class="inline-block border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-primary transition">
+            <h2 class="text-3xl font-bold mb-4">
+                Co se změnilo v zákonech o rozvodu
+            </h2>
+            <p class="text-lg mb-6 opacity-90">
+                Od 1. ledna 2026 platí nová pravidla. Už neexistuje "výlučná"
+                nebo "střídavá" péče. Zjistěte, co to pro vás znamená.
+            </p>
+            <a
+                href="/clanek-rozvodova-novela"
+                class="inline-block border-2 border-white text-white px-8 py-3 rounded-full font-semibold hover:bg-white hover:text-primary transition"
+            >
                 Přečíst článek →
             </a>
         </div>
@@ -56,64 +79,109 @@ const featuredArticles = latestArticles.slice(0, 4);
     <section class="py-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-2">CO VÁM POMŮŽE</p>
-                <h2 class="text-4xl font-bold text-primary mb-4">Provedeme vás změnami ve vaší rodině</h2>
-                <p class="text-lg text-gray-600 max-w-3xl mx-auto">Zjistěte, jak mluvit s dětmi o rozvodu, jak je
-                    ochránit před konflikty a jak jim poskytnout stabilitu v této náročné době.</p>
+                <p
+                    class="text-sm uppercase tracking-wider text-accent font-semibold mb-2"
+                >
+                    CO VÁM POMŮŽE
+                </p>
+                <h2 class="text-4xl font-bold text-primary mb-4">
+                    Provedeme vás změnami ve vaší rodině
+                </h2>
+                <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                    Zjistěte, jak mluvit s dětmi o rozvodu, jak je ochránit před
+                    konflikty a jak jim poskytnout stabilitu v této náročné
+                    době.
+                </p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Card 1 -->
                 <div
-                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full"
+                >
                     <div class="p-6">
-                        <img src="/images/1_A.png" alt="Máte strach" class="w-full h-48 object-contain mb-4">
+                        <img
+                            src="/images/1_A.png"
+                            alt="Máte strach"
+                            class="w-full h-48 object-contain mb-4"
+                        />
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
-                        <h3 class="text-xl font-bold mb-3">Máte strach to dětem říct?</h3>
-                        <p class="text-sm opacity-90">Že se něco děje, děti poznají. Ať je jim pět, nebo patnáct.
-                            Když
-                            jim to neřeknete vy, vymyslí si svou vlastní verzi.</p>
+                        <h3 class="text-xl font-bold mb-3">
+                            Máte strach to dětem říct?
+                        </h3>
+                        <p class="text-sm opacity-90">
+                            Že se něco děje, děti poznají. Ať je jim pět, nebo
+                            patnáct. Když jim to neřeknete vy, vymyslí si svou
+                            vlastní verzi.
+                        </p>
                     </div>
                 </div>
 
                 <!-- Card 2 -->
                 <div
-                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full"
+                >
                     <div class="p-6">
-                        <img src="/images/2_A.png" alt="Ochrana před konflikty" class="w-full h-48 object-contain mb-4">
+                        <img
+                            src="/images/2_A.png"
+                            alt="Ochrana před konflikty"
+                            class="w-full h-48 object-contain mb-4"
+                        />
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
-                        <h3 class="text-xl font-bold mb-3">Nevíte, jak je ochránit před konflikty?</h3>
-                        <p class="text-sm opacity-90">Nejvíc dětem ubližuje dlouhodobý konflikt mezi rodiči, ne samotný
-                            rozvod. Ukážeme vám, jak sílu konfliktů zmenšit .</p>
+                        <h3 class="text-xl font-bold mb-3">
+                            Nevíte, jak je ochránit před konflikty?
+                        </h3>
+                        <p class="text-sm opacity-90">
+                            Nejvíc dětem ubližuje dlouhodobý konflikt mezi
+                            rodiči, ne samotný rozvod. Ukážeme vám, jak sílu
+                            konfliktů zmenšit .
+                        </p>
                     </div>
                 </div>
 
                 <!-- Card 3 -->
                 <div
-                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full"
+                >
                     <div class="p-6">
-                        <img src="/images/3_A.png" alt="Jak neubližit" class="w-full h-48 object-contain mb-4">
+                        <img
+                            src="/images/3_A.png"
+                            alt="Jak neubližit"
+                            class="w-full h-48 object-contain mb-4"
+                        />
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
-                        <h3 class="text-xl font-bold mb-3">Jak jim neubližit víc, než je nutné?</h3>
-                        <p class="text-sm opacity-90">Rozvod je těžký pro všechny a je to normální. Přesto ale můžete dětem poskytnout bezpečí.
-                            a
-                            jistotu.</p>
+                        <h3 class="text-xl font-bold mb-3">
+                            Jak jim neubližit víc, než je nutné?
+                        </h3>
+                        <p class="text-sm opacity-90">
+                            Rozvod je těžký pro všechny a je to normální. Přesto
+                            ale můžete dětem poskytnout bezpečí. a jistotu.
+                        </p>
                     </div>
                 </div>
 
                 <!-- Card 4 -->
                 <div
-                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full">
+                    class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-xl transition flex flex-col h-full"
+                >
                     <div class="p-6">
-                        <img src="/images/yourself.png" alt="Nevíte co je správné"
-                            class="w-full h-48 object-contain mb-4">
+                        <img
+                            src="/images/yourself.png"
+                            alt="Nevíte co je správné"
+                            class="w-full h-48 object-contain mb-4"
+                        />
                     </div>
                     <div class="bg-primary text-white p-6 flex-grow">
-                        <h3 class="text-xl font-bold mb-3">Cítíte se v tom sami a nevíte, co je správné?</h3>
-                        <p class="text-sm opacity-90">Můžete vyhledat pomoct a zjistit, jaké cesty jsou správné.</p>
+                        <h3 class="text-xl font-bold mb-3">
+                            Cítíte se v tom sami a nevíte, co je správné?
+                        </h3>
+                        <p class="text-sm opacity-90">
+                            Můžete vyhledat pomoct a zjistit, jaké cesty jsou
+                            správné.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -122,31 +190,43 @@ const featuredArticles = latestArticles.slice(0, 4);
 
     <!-- Articles Preview -->
     <section id="articles" class="bg-white py-20">
-
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
-                <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-2">PRAKTICKÉ ČLÁNKY</p>
-                <h2 class="text-4xl font-bold text-primary mb-4">Kvalitní informace přinesou větší jistotu</h2>
-                <p class="text-lg text-gray-600">Praktické články, které vám pomohou zorientovat se v nové situaci
+                <p
+                    class="text-sm uppercase tracking-wider text-accent font-semibold mb-2"
+                >
+                    PRAKTICKÉ ČLÁNKY
+                </p>
+                <h2 class="text-4xl font-bold text-primary mb-4">
+                    Kvalitní informace přinesou větší jistotu
+                </h2>
+                <p class="text-lg text-gray-600">
+                    Praktické články, které vám pomohou zorientovat se v nové
+                    situaci
                 </p>
             </div>
 
             <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-                {featuredArticles.map((article) => (
-                    <a href={`/clanek-${article.slug}`} class="block group">
-                        <article
-                            class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
-                            <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">{article.data.category}</div>
-                            <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">
-                                {article.data.title}
-                            </h3>
-                            <p class="text-gray-600 text-sm mb-4 flex-grow">
-                                {article.data.description}
-                            </p>
-                            <span class="text-accent font-semibold group-hover:underline">Číst více →</span>
-                        </article>
-                    </a>
-                ))}
+                {
+                    featuredArticles.map((article) => (
+                        <a href={`/clanek-${article.slug}`} class="block group">
+                            <article class="border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition flex flex-col h-full">
+                                <div class="text-xs uppercase tracking-wider text-accent font-semibold mb-3">
+                                    {article.data.category}
+                                </div>
+                                <h3 class="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors">
+                                    {article.data.title}
+                                </h3>
+                                <p class="text-gray-600 text-sm mb-4 flex-grow">
+                                    {article.data.description}
+                                </p>
+                                <span class="text-accent font-semibold group-hover:underline">
+                                    Číst více →
+                                </span>
+                            </article>
+                        </a>
+                    ))
+                }
             </div>
         </div>
     </section>
@@ -155,8 +235,11 @@ const featuredArticles = latestArticles.slice(0, 4);
     <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 class="text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
-            <p class="text-xl mb-8">V našem online kurzu <strong>"Jak mluvit s dětmi o rozpadu rodiny"</strong> se
-                naučíte:</p>
+            <p class="text-xl mb-8">
+                V našem online kurzu <strong
+                    >"Jak mluvit s dětmi o rozpadu rodiny"</strong
+                > se naučíte:
+            </p>
             <ul class="text-left max-w-2xl mx-auto mb-8 space-y-3">
                 <li class="flex items-start">
                     <span class="text-light-blue mr-3 text-2xl">✓</span>
@@ -175,15 +258,21 @@ const featuredArticles = latestArticles.slice(0, 4);
                     <span>Jak poskytnout dětem stabilitu a jistotu</span>
                 </li>
             </ul>
-            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
-                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition">
+            <a
+                href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition"
+            >
                 Zjistit více o kurzu
             </a>
 
-            <div class="mt-12 bg-white/10 backdrop-blur rounded-2xl p-8 max-w-2xl mx-auto">
-                <p class="text-lg italic mb-4">"Kurz mi pomohl pochopit, jak moje děti vnímají rozvod. Naučila jsem
-                    se s
-                    nimi mluvit otevřeně, aniž bych jim ublížila."</p>
+            <div
+                class="mt-12 bg-white/10 backdrop-blur rounded-2xl p-8 max-w-2xl mx-auto"
+            >
+                <p class="text-lg italic mb-4">
+                    "Kurz mi pomohl pochopit, jak moje děti vnímají rozvod.
+                    Naučila jsem se s nimi mluvit otevřeně, aniž bych jim
+                    ublížila."
+                </p>
                 <cite class="text-sm opacity-75">— Jana, matka dvou dětí</cite>
             </div>
         </div>
@@ -192,14 +281,24 @@ const featuredArticles = latestArticles.slice(0, 4);
     <!-- Newsletter -->
     <section class="py-16 bg-gray-100">
         <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-3xl font-bold text-primary mb-4">Dostávejte tipy přímo do e-mailu</h2>
-            <p class="text-gray-600 mb-8">Čas od času vám pošleme pár tipů, aby se vám během rozvodu lépe fungovalo.
+            <h2 class="text-3xl font-bold text-primary mb-4">
+                Dostávejte tipy přímo do e-mailu
+            </h2>
+            <p class="text-gray-600 mb-8">
+                Čas od času vám pošleme pár tipů, aby se vám během rozvodu lépe
+                fungovalo.
             </p>
             <form class="flex flex-col sm:flex-row gap-4 max-w-xl mx-auto">
-                <input type="email" placeholder="Váš email" required
-                    class="flex-1 px-6 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent">
-                <button type="submit"
-                    class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition">
+                <input
+                    type="email"
+                    placeholder="Váš email"
+                    required
+                    class="flex-1 px-6 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent"
+                />
+                <button
+                    type="submit"
+                    class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition"
+                >
                     Přihlásit se
                 </button>
             </form>
