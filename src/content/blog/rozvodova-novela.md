@@ -2,7 +2,7 @@
 title: "Změny v rodinném právu od ledna 2026"
 description: "Od 1. ledna 2026 platí takzvaná rozvodová novela, která zásadně mění způsob, jakým soudy rozhodují o dětech při rozvodu. Co to pro vás jako rodiče znamená?"
 category: "OSPOD a soud"
-image: "/images/deti.png"
+image: "/images/rozvodova-novela.png"
 published: true
 ---
 
@@ -69,7 +69,7 @@ Soudci a soudkyně se výslovně zabývali situacemi, kdy jeden rodič falešně
 
 Soudci a soudkyně zdůraznili, že potřeby dítěte se mění s věkem. Proto mohou soudy **rovnou nastavit režim, který se postupně rozšiřuje** – například začít s kratšími pobytovými bloky u druhého rodiče a postupně je prodlužovat, jak dítě roste. Nemusíte čekat na další soudní řízení.
 
-## Co to znamená pro vás, pokud se rozcházíte
+## Co to znamená pro vás
 
 **Snažte se dohodnout.** Nový zákon dává prostor dohodě rodičů víc než kdy dřív. Pokud se dohodnete, soud vám nebude komplikovat život.
 
@@ -80,13 +80,3 @@ Soudci a soudkyně zdůraznili, že potřeby dítěte se mění s věkem. Proto 
 **Buďte konkrétní.** Připravte si rodičovský plán, ve kterém popíšete, jak si představujete péči. Soud ocení, když přijdete připravení.
 
 **Využijte odbornou pomoc.** Pokud se nedokážete domluvit sami, existuje mediace, manželská a rodinná poradna, OSPOD a další služby.
-
-## Shrnutí nejdůležitějších změn
-
-| Co se mění | Jak to bylo | Jak to bude od 1. 1. 2026 |
-|---|---|---|
-| Formy péče | Výlučná, střídavá, společná | Jen „rozsah péče" každého rodiče |
-| Kritéria rozhodování | Podrobný výčet v zákoně, hledání „lepšího rodiče" | Nejlepší zájem dítěte, rovnocennost rodičů |
-| Zapojení obou rodičů | Záviselo na formě péče | Rovnocenné zapojení jako výchozí bod |
-| Nepravdivá obvinění | Nebyla explicitně řešena | Soudy je výslovně zohledňují |
-| Nastavení péče do budoucna | Nová žádost při každé změně | Soud může nastavit postupné rozšiřování rovnou |

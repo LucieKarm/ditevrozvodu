@@ -2,7 +2,7 @@
 title: "Proč a jak sestavit rodičovský plán"
 description: "S rozchodem přichází spousta změn v organizaci a logistice fungování vaší rodiny. Rodičovský plán pokrývá nejdůležitější oblasti, na kterých se musíte domluvit."
 category: "Domluva s druhým rodičem"
-image: "/images/deti.png"
+image: "/images/rodicovsky-plan.png"
 published: true
 ---
 

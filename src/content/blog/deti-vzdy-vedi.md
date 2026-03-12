@@ -2,7 +2,7 @@
 title: "Děti vědí, že se něco děje"
 description: "Má vůbec smysl dětem něco říkat, když sami ještě nevíte, jak to dopadne? Ano. Protože ony už dávno vědí, že není všechno v pořádku."
 category: "Potřeby dětí"
-image: "/images/3_A.png"
+image: "/images/deti-vzdy-vedi.png"
 published: true
 ---
 

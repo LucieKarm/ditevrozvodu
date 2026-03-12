@@ -2,7 +2,7 @@
 title: "Na koho se obrátit pro odbornou pomoc?"
 description: "Rozvod je často příliš těžký na to, abyste ho zvládali sami. Existuje celá síť odborné pomoci, díky níž touto náročnou životní etapou projdete s menšími šrámy."
 category: "Jak pomoct sobě"
-image: "/images/yourself.png"
+image: "/images/moznosti-odborne-pomoci.png"
 published: true
 ---
 

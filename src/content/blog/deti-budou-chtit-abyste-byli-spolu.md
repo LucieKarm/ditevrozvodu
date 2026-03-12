@@ -2,7 +2,7 @@
 title: "Děti nás chtějí dát dohromady"
 description: "Je přirozené, že děti touží po úplné rodině. Jak reagovat na jejich přání, abyste se vrátili k sobě?"
 category: "Potřeby dětí"
-image: "/images/2_A.png"
+image: "/images/deti-budou-chtit-abyste-byli-spolu.png"
 published: true
 ---
 

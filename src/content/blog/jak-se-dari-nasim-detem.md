@@ -2,7 +2,7 @@
 title: "Jak se teď daří našim dětem?"
 description: "Otázky, které vám pomohou zastavit se a poctivě se podívat na to, jak děti prožívají změny ve vaší rodině. Není to test, je to cesta k porozumění."
 category: "Potřeby dětí"
-image: "/images/1.png"
+image: "/images/jak-se-dari-nasim-detem.png"
 published: true
 ---
 

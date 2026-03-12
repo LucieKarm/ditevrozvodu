@@ -2,7 +2,7 @@
 title: "Konflikt ubližuje víc než rozvod"
 description: "Rozvod je pro děti hluboce náročný zážitek. Ale větší škody než rozvod samotný způsobuje konflikt mezi rodiči."
 category: "Potřeby dětí"
-image: "/images/4.png"
+image: "/images/konflikt-ublizuje-vic-nez-rozvod.png"
 published: true
 ---
 
