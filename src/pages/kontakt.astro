@@ -39,8 +39,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 </div>
 
                 <!-- Right: Form -->
-                <div class="bg-white p-8 rounded-xl shadow-md">
-                    <form name="contact" method="POST" action="/success" netlify netlify-honeypot="bot-field" class="space-y-6">
+                <div class="bg-white p-8 rounded-xl shadow-md relative">
+                    <form id="contact-form" name="contact" method="POST" netlify netlify-honeypot="bot-field" class="space-y-6">
                         <input type="hidden" name="form-name" value="contact" />
                         <p class="hidden">
                             <label>Don't fill this out if you're human: <input name="bot-field" /></label>
@@ -74,6 +74,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                             Odeslat zprávu
                         </button>
                     </form>
+
+                    <!-- Success Modal -->
+                    <div id="success-modal" class="hidden fixed inset-0 z-[60] flex items-center justify-center p-4">
+                        <div class="absolute inset-0 bg-primary/40 backdrop-blur-sm"></div>
+                        <div class="bg-white rounded-2xl p-8 shadow-2xl relative z-10 max-w-sm w-full text-center">
+                            <div class="w-16 h-16 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                </svg>
+                            </div>
+                            <h3 class="text-2xl font-bold text-primary mb-2">Děkujeme za zprávu</h3>
+                            <p class="text-gray-600 mb-6">Ozveme se vám zpět co nejdříve.</p>
+                            <button id="close-modal" class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition w-full">
+                                Zavřít
+                            </button>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -81,6 +98,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <!-- About SPONDEA Section -->
     <section class="py-16 bg-white">
+        <!-- ... (previous content remains the same) ... -->
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-4xl font-bold text-primary text-center mb-12">Kdo jsme</h2>
 
@@ -91,7 +109,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                         <h3 class="text-3xl font-bold text-primary mb-4">SPONDEA</h3>
                         <p class="text-lg mb-4">
                             Jsme nezisková organizace s téměř <strong class="text-accent">29 lety zkušeností</strong> v
-                            oblasti pomoci rodinám a dětem v náročných životních situacích.
+                            oblasti pomoci rodfamily a dětem v náročných životních situacích.
                         </p>
                         <p class="text-gray-700 mb-4">
                             Od roku 1997 poskytujeme odbornou psychologickou, terapeutickou a sociální podporu rodinám
@@ -127,4 +145,30 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             </div>
         </div>
     </section>
+
+    <script>
+        const form = document.getElementById('contact-form') as HTMLFormElement;
+        const modal = document.getElementById('success-modal');
+        const closeBtn = document.getElementById('close-modal');
+
+        form?.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+            
+            fetch("/", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: new URLSearchParams(formData as any).toString(),
+            })
+            .then(() => {
+                modal?.classList.remove('hidden');
+                form.reset();
+            })
+            .catch((error) => alert('Omlouváme se, něco se nepovedlo. Zkuste to prosím znovu.'));
+        });
+
+        closeBtn?.addEventListener('click', () => {
+            window.location.href = '/';
+        });
+    </script>
 </BaseLayout>
