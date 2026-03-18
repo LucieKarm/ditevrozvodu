@@ -48,7 +48,7 @@ Potkejte se kdekoli mezi lidmi, třeba na hřišti, v parku, v dětském koutku 
 
 > **Náš tip:** Informace o dítěti ("nestihli jsme úkoly z matiky, ráno trochu pokašlával, ale podle mě na plavání může") si s druhým rodičem nevyměňujte přímo před dítětem, pokud si nejste jistí hladkou domluvou. Můžete například napsat krátké srhnutí do chatu nebo e-mailem. 
 
-## Praktické tipy z naší praxe
+## Doporučení z naší praxe
 
 Za léta práce s rodinami jsme viděli, co funguje. Tady je pár osvědčených tipů:
 

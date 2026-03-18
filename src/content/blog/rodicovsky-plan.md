@@ -12,15 +12,15 @@ Rodičovský plán je dohoda o tom, jak budete jako rodiče fungovat po rozchodu
 
 Zní to suše, ale ve skutečnosti je to jeden z nejužitečnějších nástrojů, které máte k dispozici. **Jasná pravidla předcházejí konfliktům.** A méně konfliktů znamená klidnější děti.
 
-Rodičovský plán není právně závazný dokument. Můžete ho kdykoliv upravit, doplnit nebo přepsat. Jeho smyslem není vás svázat, ale dát vám i dětem předvídatelnost a jistotu.
+Rodičovský plán není právně závazný dokument. Můžete ho kdykoliv upravit, doplnit nebo přepsat. Jeho smyslem není vás svázat, ale **dát vám i dětem předvídatelnost a jistotu**.
 
 ## Proč ho mít
 
 Když se rozejdete, najednou musíte řešit stovky praktických otázek, na které jste předtím nemuseli myslet, protože jste žili pod jednou střechou. Kdo vyzvedne děti ve středu? Co když je dítě nemocné a je u jednoho z vás? Jak si budete předávat informace ze školy? Co Vánoce?
 
-Bez dohody se z každé takové otázky může stát konflikt. A podle našich zkušeností taky často stává. A místo toho, aby rozvod znamenal novou etapu vašeho života, stává se z něj nekonečný boj o jednu každou maličkost.
+Bez dohody se z každé takové otázky může stát konflikt. A podle našich zkušeností taky často stává. **Místo toho, aby rozvod znamenal novou etapu vašeho života, stává se z něj nekonečný boj o jednu každou maličkost.**
 
-Rodičovský plán vám dává rámec, ve kterém se můžete pohybovat. Konkrétní vzniklou situaci ("Nestihnu se vrátit ze služebky, přestože ten den vyzvedávám ze školy.") můžete kdykoliv řešit jinak, pokud se tak s druhým rodičem domluvíte. Ale když zrovna nemáte čas nebo sílu se dohadovat, můžete se spolehnout na to, co máte napsané v plánu.
+Rodičovský plán vám dává rámec, ve kterém se můžete pohybovat. Konkrétní vzniklou situaci ("Nestihnu se vrátit ze služebky, přestože ten den vyzvedávám ze školy.") můžete kdykoliv řešit jinak, pokud se tak s druhým rodičem domluvíte. Ale když zrovna nemáte čas nebo sílu se dohadovat, **můžete se spolehnout na to, co máte napsané v plánu**.
 
 A ještě jeden praktický důvod: **rodičovský plán vám může ušetřit hodně peněz.** Pokud ho máte, vaši právníci mají výchozí bod, od kterého pracují. Pokud ho nemáte, budou si posílat návrhy a protinávrhy tam a zpět – a vy budete platit každou hodinu jejich práce.
 
@@ -28,9 +28,9 @@ A ještě jeden praktický důvod: **rodičovský plán vám může ušetřit ho
 
 Dobrý rodičovský plán pokrývá hlavní oblasti života dítěte:
 
-**Bydlení a střídání.** Kde bude dítě žít? V jakém rytmu se bude přesouvat mezi domovy? Bude to jiné o prázdninách? Co svátky, narozeniny, prodloužené víkendy?
+**Bydlení a střídání.** Kde bude dítě žít? V jakém rytmu se bude přesouvat mezi domovy? Bude to jiné o prázdninách? Kdo vybírá příměšťáky Co svátky, narozeniny, prodloužené víkendy?
 
-**Předávání.** Kdo bude dítě převážet? Kde se budete potkávat? Co když se někdo zpozdí? Jaké věci si má dítě s sebou vzít?
+**Předávání.** Kdo bude dítě převážet kam? Kde se budete potkávat? Co když se někdo zpozdí? Jaké věci si má dítě s sebou vzít?
 
 **Kontakt s druhým rodičem.** Kdy a jak může dítě volat rodiči, u kterého právě není? Bude mít vlastní telefon?
 
@@ -40,15 +40,15 @@ Dobrý rodičovský plán pokrývá hlavní oblasti života dítěte:
 
 **Kroužky a volný čas.** Jak budete vybírat mimoškolní aktivity? Jste ochotní odejít ve "svém" čase z práce ve dvě odpoledne, aby dítě stihlo kroužek?
 
-**Finance.** Co jsou běžné a mimořádné výdaje? Jak se budete na nich podílet? Kdo uplatňuje daňové slevy?
+**Finance.** Co jsou běžné a mimořádné výdaje? Jak se budete na nich podílet? Kdo uplatňuje daňové slevy? Máte vůbec představu, kolik vaše dítě měsíčně "stojí"?
 
 **Cestování.** Jak se budete informovat o cestách do zahraničí? V jakém předstihu?
 
 ## Jak začít
 
-Nemusíte sednout a vystřihnout dokonalý dokument na první dobrou. Začněte jednoduchým seznamem otázek, které potřebujete vyřešit, a jako inspiraci si vyberte kterýkoli z rodičovských plánů, které tu najdete. Každý si nejdřív můžete připravit svou verzi a pak je porovnat.
+Nemusíte sednout a vystřihnout dokonalý dokument na první dobrou. Začněte jednoduchým seznamem otázek, které potřebujete vyřešit, a jako inspiraci si vyberte kterýkoli z rodičovských plánů, které najdete níže. Každý si nejdřív můžete připravit svou verzi a pak je porovnat.
 
-Pokud zjistíte, že se sami nedokážete domluvit, existuje pomoc. Na mediaci vám pomohou najít řešení, které bude přijatelné pro oba. Psycholožka nebo sociální pracovnice v manželské a rodinné poradně vás může provést jednotlivými oblastmi plánu. A pracovnice OSPOD vám může doporučit služby ve vašem okolí.
+**Pokud zjistíte, že se sami nedokážete domluvit, existuje pomoc.** Na mediaci vám pomohou najít řešení, které bude přijatelné pro oba. Psycholožka nebo sociální pracovnice v manželské a rodinné poradně vás může provést jednotlivými oblastmi plánu. A pracovnice OSPOD vám může doporučit služby ve vašem okolí.
 
 ## Na co myslet
 
@@ -56,7 +56,7 @@ Pokud zjistíte, že se sami nedokážete domluvit, existuje pomoc. Na mediaci v
 
 **Buďte konkrétní.** „Budeme se střídat" není dohoda. „Děti budou u táty od středy od 16:30 do pátku, vyzvednutí ve škole. Každý druhý víkend od pátečního vyzvednutí ze školy do neděle 18:00, předání v místě bydliště matky" – to je dohoda. Čím konkrétnější budete, tím méně prostoru zbývá pro nedorozumění.
 
-**Musí to fungovat i pro vás.** Rodičovský plán má sloužit dětem, ale žít podle něj budete i vy. Pokud budete mít pocit, že je to pro vás příliš velká zátěž, bude obtížné ho dodržovat. Hledejte řešení, se kterým budete oba jakž takž v pohodě.
+**Musí to fungovat i pro vás.** Rodičovský plán je sice o dětech, ale žít podle něj budete i vy. Pokud budete mít pocit, že je to pro vás příliš velká zátěž, bude obtížné ho dodržovat. Hledejte řešení, se kterým budete oba jakž takž v pohodě.
 
 **Dítě není prostředník.** Domluvte se, že nebudete přes děti posílat vzkazy, zjišťovat informace o druhém rodiči nebo měnit dohody. Komunikujte přímo mezi sebou.
 
