@@ -46,7 +46,7 @@ Potkejte se kdekoli mezi lidmi, třeba na hřišti, v parku, v dětském koutku 
 - Můžete se s dítětem v klidu rozloučit a odejít, zatímco druhý rodič zůstane a pokračuje ve společném času.
 - Případné zpoždění jednoho z rodičů není tak stresující – dítě si může chvilku pohrát a vy si dáte kávu u stánku. Čekání je snazší, než když doma naštvaně sledujete hodiny a přemýšlíte, jestli má cenu nechat teď dítě rozkramařit stavebnici.
 
-> **Náš tip:** Informace o dítěti ("nestihli jsme úkoly z matiky, ráno trochu pokašlával, ale podle mě na plavání může") si s druhým rodičem nevyměňujte přímo před dítětem, pokud si nejste jistí hladkou domluvou. Můžete například napsat krátké srhnutí do chatu nebo e-mailem. 
+> **Náš tip:** Informace o dítěti („nestihli jsme úkoly z matiky, ráno trochu pokašlával, ale podle mě na plavání může“) si s druhým rodičem nevyměňujte přímo před dítětem, pokud si nejste jistí hladkou domluvou. Můžete například napsat krátké srhnutí do chatu nebo e-mailem. 
 
 ## Doporučení z naší praxe
 
@@ -54,7 +54,7 @@ Za léta práce s rodinami jsme viděli, co funguje. Tady je pár osvědčených
 
 ### Připravte hezkou cestovní tašku
 
-Pořiďte dítěti tašku nebo batůžek, který si bude přenášet mezi domovy. Ať je „jejich" a ať v ní mají všechno, co potřebuj k druhému rodiči. Taška pak může čekat v šatně, menším dětem ji přenášíte vy dospělí, větší děti to zvládnou samy. Pro druhého rodiče je snazší vždycky najít modrou tašku se sovičkou než hledat náhodnou igelitku a zase to trošku usnadní předávání.
+Pořiďte dítěti tašku nebo batůžek, který si bude přenášet mezi domovy. Ať je „jejich“ a ať v ní mají všechno, co potřebuj k druhému rodiči. Taška pak může čekat v šatně, menším dětem ji přenášíte vy dospělí, větší děti to zvládnou samy. Pro druhého rodiče je snazší vždycky najít modrou tašku se sovičkou než hledat náhodnou igelitku a zase to trošku usnadní předávání.
 
 ### Dítě informujte, ale nevyjednávejte
 
@@ -66,7 +66,7 @@ Možná máte sami strach z loučení, protože čekáte, že bude náročné. M
 
 ### Podpořte druhého rodiče, třeba udělá to stejné pro vás
 
-Předávání dítěte může být zpočátku náročné pro všechny a víme, jak je těžké odcházet od plačícího dítěte. Taky ale víme, že pár minut po odchodu jednoho z rodičů se dítě většinou uklidní. Zkuste poslat druhému rodiči fotku "už dobrý" spokojeného dítěte na prolézačce nebo se zmmrzlinou. Uleví se mu a třeba příště takovou fotku pošle i vám.
+Předávání dítěte může být zpočátku náročné pro všechny a víme, jak je těžké odcházet od plačícího dítěte. Taky ale víme, že pár minut po odchodu jednoho z rodičů se dítě většinou uklidní. Zkuste poslat druhému rodiči fotku „už dobrý“ spokojeného dítěte na prolézačce nebo se zmrzlinou. Uleví se mu a třeba příště takovou fotku pošle i vám.
 
 ### Přijměte pocity dětí
 
@@ -88,7 +88,7 @@ Nikdy před dítětem nekomentujte, jak druhý rodič sbalil věci nebo jak dít
 
 Pokud je něco skutečně potřeba řešit – třeba opakovaně chybějící léky nebo nevhodné oblečení na počasí – vyřešte to přímo s druhým rodičem, v klidu, bez dítěte. Ne při předávání, ne přes dítě.
 
-> **Varovné signály:** Dítě se před předáváním schovává, pláče, má bolesti břicha nebo odmítá odejít. Tyto reakce mohou být normální v prvních týdnech, ale pokud přetrvávají, stojí za to se zamyslet, jestli není potřeba něco změnit – v načasování, v místě nebo v tom, jak předávání probíhá. Velmi pravděpodobně není "problém" v dítěti, ale v tom, jak předávání probíhá. 
+> **Varovné signály:** Dítě se před předáváním schovává, pláče, má bolesti břicha nebo odmítá odejít. Tyto reakce mohou být normální v prvních týdnech, ale pokud přetrvávají, stojí za to se zamyslet, jestli není potřeba něco změnit – v načasování, v místě nebo v tom, jak předávání probíhá. Velmi pravděpodobně není „problém“ v dítěti, ale v tom, jak předávání probíhá. 
 
 ## Na závěr
 

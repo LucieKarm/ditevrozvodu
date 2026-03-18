@@ -17,19 +17,19 @@ Zákon se jmenuje rozvodová novela (zákon č. 268/2025 Sb.) a stojí na dvou z
 
 ## Co se mění v praxi
 
-### Žádné „formy péče" – jen rozsah
+### Žádné „formy péče“ – jen rozsah
 
 Dosud soudy rozhodovaly o tom, jakou **formu péče** zvolí – výlučnou péči jednoho rodiče, střídavou péči nebo společnou péči. Každá forma měla svá zákonná kritéria a z rozhodování se snadno stával boj o nálepku.
 
-Slovo **„střídavka"** se stalo symbolem tohoto konfliktu. Pro řadu otců znamenala střídavá péče vysněné vítězství – důkaz, že jsou rovnocenní rodiče. Pro mnoho matek to naopak znělo jako hrozba, jako kdyby jim někdo bral dítě. A okolí to jen přiživovalo: *„On chce střídavku? A tobě to nevadí? Co jsi za matku?"*
+Slovo **„střídavka“** se stalo symbolem tohoto konfliktu. Pro řadu otců znamenala střídavá péče vysněné vítězství – důkaz, že jsou rovnocenní rodiče. Pro mnoho matek to naopak znělo jako hrozba, jako kdyby jim někdo bral dítě. A okolí to jen přiživovalo: *„On chce střídavku? A tobě to nevadí? Co jsi za matku?“*
 
 Přitom se rodiče mohli dohodnout na čemkoliv i předtím – na jakémkoliv rozložení času, na jakémkoliv rytmu střídání. Ale nálepky „výlučná" a „střídavá" věci jen komplikovaly. Místo toho, aby rodiče přemýšleli, co bude jejich dětem fungovat, bojovali o to, jak se bude jejich uspořádání jmenovat.
 
-**Od ledna 2026 formy péče mizí.** Soud nebude rozhodovat o tom, jestli dítě bude ve „střídavé" nebo „výlučné" péči. Místo toho určí **rozsah péče každého z rodičů** – kolik času a v jakém režimu bude dítě s kým. Důležité je, jak to bude reálně fungovat, ne jak se to jmenuje.
+**Od ledna 2026 formy péče mizí.** Soud nebude rozhodovat o tom, jestli dítě bude ve „střídavé“ nebo „výlučné“ péči. Místo toho určí **rozsah péče každého z rodičů** – kolik času a v jakém režimu bude dítě s kým. Důležité je, jak to bude reálně fungovat, ne jak se to jmenuje.
 
 ### Dítě má právo na oba rodiče
 
-Novela vychází z toho, že **základní potřebou dítěte je mít vztah s oběma rodiči**. Pokud jsou oba rodiče schopní se o dítě postarat (mají takzvané „dostatečné rodičovské kompetence"), měli by se do jeho života zapojit rovnocenným způsobem.
+Novela vychází z toho, že **základní potřebou dítěte je mít vztah s oběma rodiči**. Pokud jsou oba rodiče schopní se o dítě postarat (mají takzvané „dostatečné rodičovské kompetence“), měli by se do jeho života zapojit rovnocenným způsobem.
 
 To neznamená automaticky 50:50. Rovnocennost neznamená přesné rozdělení času na polovinu. Jde o to, aby oba rodiče byli dítěti **emočně i fyzicky dostupní** a aby se oba podíleli na jeho výchově. Ústavní soud opakovaně zdůraznil, že model 50:50 není žádným způsobem preferován ani vyžadován zákonem.
 
@@ -37,7 +37,7 @@ Znamená to ale, že soudci, soudkyně a sociální pracovnice a pracovníci bud
 
 ### Méně státu, více rodiny
 
-Pokud jste oba kompetentní rodiče, soud by měl do vašeho života zasahovat co nejméně. Platí princip **„méně státu, více rodiny"**. Pokud se dohodnete, soud vaši dohodu schválí, pokud je v zájmu dítěte.
+Pokud jste oba kompetentní rodiče, soud by měl do vašeho života zasahovat co nejméně. Platí princip **„méně státu, více rodiny“**. Pokud se dohodnete, soud vaši dohodu schválí, pokud je v zájmu dítěte.
 
 Kompetentní znamená, že se umíte o dítě postarat a neohrožujete jeho vývoj. Nikoho ale nezajímá, jestli u jednoho rodiče děti koukají víc na televizi nebo jedí víc sladkého. Nikdo nechce soudit tyhle žabomyší spory. Rozvod není soutěž o to, kdo je lepší rodič.
 
@@ -73,7 +73,7 @@ Soudci a soudkyně zdůraznili, že potřeby dítěte se mění s věkem. Proto 
 
 **Snažte se dohodnout.** Nový zákon dává prostor dohodě rodičů víc než kdy dřív. Pokud se dohodnete, soud vám nebude komplikovat život.
 
-**Nemyslete „kdo bude dítě mít" – myslete „jak se o dítě postaráme oba."** Nejde o to, kdo vyhraje. Jde o to, jak budete oba fungovat jako rodiče.
+**Nemyslete „kdo bude dítě mít“ – myslete „jak se o dítě postaráme oba.“** Nejde o to, kdo vyhraje. Jde o to, jak budete oba fungovat jako rodiče.
 
 **Nepravdivá obvinění se nevyplatí.** Soudy je budou brát vážně – a pokud se ukáže, že jsou nepravdivá, zohlední to při rozhodování.
 
