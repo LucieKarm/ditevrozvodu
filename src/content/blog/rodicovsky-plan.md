@@ -20,7 +20,7 @@ Když se rozejdete, najednou musíte řešit stovky praktických otázek, na kte
 
 Bez dohody se z každé takové otázky může stát konflikt. A podle našich zkušeností taky často stává. **Místo toho, aby rozvod znamenal novou etapu vašeho života, stává se z něj nekonečný boj o jednu každou maličkost.**
 
-Rodičovský plán vám dává rámec, ve kterém se můžete pohybovat. Konkrétní vzniklou situaci ("Nestihnu se vrátit ze služebky, přestože ten den vyzvedávám ze školy.") můžete kdykoliv řešit jinak, pokud se tak s druhým rodičem domluvíte. Ale když zrovna nemáte čas nebo sílu se dohadovat, **můžete se spolehnout na to, co máte napsané v plánu**.
+Rodičovský plán vám dává rámec, ve kterém se můžete pohybovat. Konkrétní vzniklou situaci („Nestihnu se vrátit ze služebky, přestože ten den vyzvedávám ze školy.“) můžete kdykoliv řešit jinak, pokud se tak s druhým rodičem domluvíte. Ale když zrovna nemáte čas nebo sílu se dohadovat, **můžete se spolehnout na to, co máte napsané v plánu**.
 
 A ještě jeden praktický důvod: **rodičovský plán vám může ušetřit hodně peněz.** Pokud ho máte, vaši právníci mají výchozí bod, od kterého pracují. Pokud ho nemáte, budou si posílat návrhy a protinávrhy tam a zpět – a vy budete platit každou hodinu jejich práce.
 
@@ -38,9 +38,9 @@ Dobrý rodičovský plán pokrývá hlavní oblasti života dítěte:
 
 **Zdraví.** Kdo z vás bude chodit na jaká vyšetření, kde budete mít uloženou zdravotnickou dokumentaci? Jak se budete domlouvat o nepovinném očkování nebo mimořádné zdravotní péči? Jak si budete předávat informace o nemoci dítěte? A co léky, rovnátka, brýle, rehabilitace – kdo to bude platit a jak se domluvíte?
 
-**Kroužky a volný čas.** Jak budete vybírat mimoškolní aktivity? Jste ochotní odejít ve "svém" čase z práce ve dvě odpoledne, aby dítě stihlo kroužek?
+**Kroužky a volný čas.** Jak budete vybírat mimoškolní aktivity? Jste ochotní odejít ve „svém“ čase z práce ve dvě odpoledne, aby dítě stihlo kroužek?
 
-**Finance.** Co jsou běžné a mimořádné výdaje? Jak se budete na nich podílet? Kdo uplatňuje daňové slevy? Máte vůbec představu, kolik vaše dítě měsíčně "stojí"?
+**Finance.** Co jsou běžné a mimořádné výdaje? Jak se budete na nich podílet? Kdo uplatňuje daňové slevy? Máte vůbec představu, kolik vaše dítě měsíčně „stojí“?
 
 **Cestování.** Jak se budete informovat o cestách do zahraničí? V jakém předstihu?
 
@@ -54,7 +54,7 @@ Nemusíte sednout a vystřihnout dokonalý dokument na první dobrou. Začněte 
 
 **Plán se bude měnit.** Dítěti je teď pět, za rok mu bude šest a začne chodit do školy. Za tři roky se toho spousta změní, protože už bude třeba moct chodit samo. Za dalších pár let bude z dítěte teenager s úplně jinými potřebami. A možná se mezitím leccos změní i u vás dospělých. Rodičovský plán není vytesaný do kamene, počítejte s tím, že se časem změní, aby vyhovoval aktuálním potřebám vašich dětí.
 
-**Buďte konkrétní.** „Budeme se střídat" není dohoda. „Děti budou u táty od středy od 16:30 do pátku, vyzvednutí ve škole. Každý druhý víkend od pátečního vyzvednutí ze školy do neděle 18:00, předání v místě bydliště matky" – to je dohoda. Čím konkrétnější budete, tím méně prostoru zbývá pro nedorozumění.
+**Buďte konkrétní.** „Budeme se střídat“ není dohoda. „Děti budou u táty od středy od 16:30 do pátku, vyzvednutí ve škole. Každý druhý víkend od pátečního vyzvednutí ze školy do neděle 18:00, předání v místě bydliště matky“ – to je dohoda. Čím konkrétnější budete, tím méně prostoru zbývá pro nedorozumění.
 
 **Musí to fungovat i pro vás.** Rodičovský plán je sice o dětech, ale žít podle něj budete i vy. Pokud budete mít pocit, že je to pro vás příliš velká zátěž, bude obtížné ho dodržovat. Hledejte řešení, se kterým budete oba jakž takž v pohodě.
 

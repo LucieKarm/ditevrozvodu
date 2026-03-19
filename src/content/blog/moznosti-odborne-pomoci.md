@@ -23,7 +23,7 @@ Pokud svůj spor s druhým rodičem povedete přes své právníky, z vašeho ro
 - **Jak vysilující?** To brzy uvidíte na svém zdraví nebo pracovním výkonu a na chování svých dětí.
 - **Jak drahá?** Místo patnácti tisíc klidně osmdesát, a horní hranice neexistuje. 
 
-> **Náš tip:** Hledejte člověka, který je v rodinném právu zkušený. Nedoporučujeme spolehnout se na "kamarádku právničku", která se rozvodové problematice nevěnuje každý den. Mohla by pak postupovat například neinformovaně nebo útočně, a to výsledné domluvě, vašim nervům ani peněžence nijak nepomůže.
+> **Náš tip:** Hledejte člověka, který je v rodinném právu zkušený. Nedoporučujeme spolehnout se na „kamarádku právničku“, která se rozvodové problematice nevěnuje každý den. Mohla by pak postupovat například neinformovaně nebo útočně, a to výsledné domluvě, vašim nervům ani peněžence nijak nepomůže.
 
 ## 2. Manželská a rodinná poradna
 Tyto poradny se zaměřují na vztahovou rovinu a komunikaci mezi rodiči. Pro řadu lidí je to překvapení, ale manželská a rodinná poradna **nemá v popisu práce váš vztah zachraňovat**, ale mohou vás provést i rozvodem. V poradně pracují sociální pracovnice a psycholožky a jejich pomoc bývá **bezplatná**. Můžete se na ně obrátit společně s druhým rodičem nebo klidně každý zvlášť. 
@@ -31,7 +31,7 @@ Tyto poradny se zaměřují na vztahovou rovinu a komunikaci mezi rodiči. Pro �
 Naše zkušenosti z Brna bohužel ukazují na **obrovský přetlak klientů a klientek**, takže běžná čekací lhůta na konzultaci je čtyři měsíce, někdy i déle. Ale možná že ve vašem městě je to jinak a během pár týdnů dostanete termín.
 
 ## 3. Mediace
-Mediátoři a mediátorky jsou vzdělaní a trénovaní v tom, aby vám jako neutrální třetí strana **pomohli dojít k řešení, se kterým budete oba souhlasit**. Nebudou vám říkat, co máte dělat, ale společně si stanovíte zakázku ("např. Chceme se domluvit, jak budeme pečovat o děti."), k níž se budete snažit společně dojít.
+Mediátoři a mediátorky jsou vzdělaní a trénovaní v tom, aby vám jako neutrální třetí strana **pomohli dojít k řešení, se kterým budete oba souhlasit**. Nebudou vám říkat, co máte dělat, ale společně si stanovíte zakázku („např. Chceme se domluvit, jak budeme pečovat o děti.“), k níž se budete snažit společně dojít.
 
 Výhoda mediace spočívá v tom, že vám s druhým rodičem **pomůžou spolu mluvit**. Samozřejmě to stále vyžaduje dobrou vůli a ochotu od obou z vás. Ale mediátoři zajistí, abyste oba měli prostor se vyjádřit, budou vás vracet k tématu, nenechají vás zabřednout do starých křivd. Jednání by mělo být konstruktivní a **odcházet byste měli se splněnou zakázkou**. 
 
@@ -66,7 +66,7 @@ Krizovou pomoc můžete vyhledat například v těchto organizacích:
 ## 6. Individuální psychoterapie
 Terapeut nebo terapeutka vám poskytne bezpečné místo pro zpracování vašich vlastních emocí. **Z naší praxe velmi doporučujeme psychoterapii během rozvodu využít.** Rozvod je těžký, bude se odehrávat spousta náročných situací, budete se potýkat s pocity smutku, hněvu, viny nebo selhání. Je důležité mít někoho, s kým si o tom můžete mluvit a kdo vám pomůže se s tím vyrovnat.
 
-Řada lidí si říká, že na tom "nejsou tak špatně", že "nejsou blázni" nebo že musí napřed řešit XY. Ale rozvod se **podepíše velmi pravděpodobně na vašem spánku, pracovní výkonnosti, schopnosti regulovat svoje emoce vůči dětem, často i na zdraví**. 
+Řada lidí si říká, že na tom „nejsou tak špatně“, že „nejsou blázni“ nebo že musí napřed řešit XY. Ale rozvod se **podepíše velmi pravděpodobně na vašem spánku, pracovní výkonnosti, schopnosti regulovat svoje emoce vůči dětem, často i na zdraví**. 
 
 Psychoterapie je pro mnoho lidí jejich jediný čas, kdy se s někým nestranným, zkušeným a soucitným mohou věnovat tomu, jak jim je. Věnovat se sobě samým. Přemýšlet, proč zrovna tohle tolik bolí. Možná si i uvědomit, kde je možné ubrat. Přijít na to, jak na sebe být hodnější. Psychoterapie vám opravdu může pomoct příští měsíce zvládat snáz a **být tak konstruktivnější ve vyjednávání s druhým rodičem i mít větší kapacitu pro děti jako rodič**.  
 

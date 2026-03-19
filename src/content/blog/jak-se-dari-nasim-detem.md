@@ -22,7 +22,7 @@ Rozvod přináší spoustu zcela konkrétních změn a pro děti jsou právě zm
 
 > **Varovné signály:** Časté bolení bříška nebo hlavy, které nemá lékařské vysvětlení. Horší usínání nebo neklidný spánek. Ztráta zájmu o věci, které děti dříve bavily. Neochota odcházet z domu nebo naopak neochota se vracet: tohle bývá v prvních týdnech a měsících po rozchodu běžné a většinou odezní, až si dítě na nové uspořádání zvykne. Pokud ale přetrvává, stojí za to se zamyslet, proč to tak stále je.
 
-> **Důležité:** Snažte se dětem usnadnit přechod mezi domovy, přivyknou tomu. Podporujte jejich čas s druhým rodičem, i když on nebo ona nedělá totéž pro vás. Tím totiž nepodporujete "jen" druhého rodiče, ale především své dítě. 
+> **Důležité:** Snažte se dětem usnadnit přechod mezi domovy, přivyknou tomu. Podporujte jejich čas s druhým rodičem, i když on nebo ona nedělá totéž pro vás. Tím totiž nepodporujete „jen“ druhého rodiče, ale především své dítě. 
 
 ## Škola, kroužky, přátelé
 
@@ -38,13 +38,13 @@ Zejména starší děti velkou část svého života tráví mimo domov. Škola,
 
 ## Emoce a chování
 
-"Pozorovat emoce", to se snadno řekne, ale hůř udělá. Děti své emoce často neříkají slovy, ale chováním. A někdy je ta řeč hlasitá, jindy může být zákeřně tichá.
+„Pozorovat emoce“, to se snadno řekne, ale hůř udělá. Děti své emoce často neříkají slovy, ale chováním. A někdy je ta řeč hlasitá, jindy může být zákeřně tichá.
 
 * Jak děti reagují na změny v rodině? Mluví o nich, nebo se tématu vyhýbají?
 * Když o rozchodu mluví, jaká slova používají? Co přesně říkají?
 * Vidíte u nich změny v náladách, v chování, v tom, jak se cítí po tělesné stránce?
 
-Pláč, vztek, vzdor: to jsou reakce, kterých si všimnete snadno. Ale náročné prožívání se může projevit i opačně. Dítě, které bylo vždy živé a najednou je nápadně hodné a klidné, nemusí být v pohodě. Může se snažit „nepřidělávat starosti". Může cítit, že vy sami máte dost svých problémů, a rozhodne se vás nezatěžovat. To je na malá ramena obrovská zodpovědnost.
+Pláč, vztek, vzdor: to jsou reakce, kterých si všimnete snadno. Ale náročné prožívání se může projevit i opačně. Dítě, které bylo vždy živé a najednou je nápadně hodné a klidné, nemusí být v pohodě. Může se snažit „nepřidělávat starosti“. Může cítit, že vy sami máte dost svých problémů, a rozhodne se vás nezatěžovat. To je na malá ramena obrovská zodpovědnost.
 
 > **Varovné signály:** Častější pláč, výbuchy vzteku, hádání se o maličkosti. Náhlé zklidnění u dříve živého dítěte. Lhaní nebo vymýšlení si. Agresivita vůči sourozencům nebo kamarádům. Stažení se do sebe. Vývojový regres: pomočování, šišlání, neschopnost se najednou obléknout, jíst lžící atd.
 
@@ -63,7 +63,7 @@ Každá rodina je jiná a každé dítě prožívá rozvod po svém. Něco, co j
 
 > **Varovné signály:** Děti vstupují do hádek nebo se snaží dělat prostředníky mezi vámi. Pečlivě si nasazují sluchátka, jakmile vám zazvoní telefon. Stahují se z kontaktu s jedním rodičem. Extrémně k jednomu z vás přilnou nebo se od jednoho z vás zcela odtáhnou. Říkají každému z vás to, co si myslí, že chcete slyšet. Když jim jeden rodič něco zakáže, jdou za druhým, který to dovolí: naučily se mezi vámi manévrovat, protože to je pro ně způsob, jak v téhle situaci přežít.
 
-> **Důležité:** Možná si říkáte, že máte například právo omezit kontakt dětí s rodinou druhého rodiče, aby babičku nebo dědečka viděly jen „ve vašem čase". Zkuste se zastavit a upřímně se zeptat: děláte to kvůli dětem, nebo kvůli sobě? Podpora dětí znamená i zachování vztahů, které pro ně byly důležité předtím.
+> **Důležité:** Možná si říkáte, že máte například právo omezit kontakt dětí s rodinou druhého rodiče, aby babičku nebo dědečka viděly jen „ve vašem čase“. Zkuste se zastavit a upřímně se zeptat: děláte to kvůli dětem, nebo kvůli sobě? Podpora dětí znamená i zachování vztahů, které pro ně byly důležité předtím.
 
 ## Jak s dětmi o rozvodu mluvíte
 

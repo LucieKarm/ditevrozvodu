@@ -28,7 +28,7 @@ Jak to funguje v praxi? Jeden rodič dítě ráno přivede a rozloučí se s ní
 
 - **Pro děti je to snadné.** Každé ráno se ve školce nebo škole někdo loučí s rodiči a každé odpoledne někdo přichází. Často také ráno vede do školy táta, ale vyzvedává máma, nebo naopakVaše dítě dělá totéž co ostatní – nic zvláštního, žádné drama.
 
-- **Jednodušší je to i pro vás.** Přestanete být tím, kdo „předává" nebo „přebírá". Jste prostě jen rodič, který ráno přivádí a odpoledne vyzvedává. To byste přece dělali tak jako tak.
+- **Jednodušší je to i pro vás.** Přestanete být tím, kdo „předává“ nebo „přebírá“. Jste prostě jen rodič, který ráno přivádí a odpoledne vyzvedává. To byste přece dělali tak jako tak.
 
 - **Přechod je pro dítě plynulý.** Dítě mezi rodiči nepřejde z ruky do ruky jako balík. Stráví den ve známém prostředí, mezi kamarády a kamarádkami a vyučujícími, a pak pokračuje domů s druhým rodičem. Změna není tak prudká.
 
@@ -58,11 +58,11 @@ Pořiďte dítěti tašku nebo batůžek, který si bude přenášet mezi domovy
 
 ### Dítě informujte, ale nevyjednávejte
 
-Řekněte dítěti s předstihem, co bude následovat. *„V pátek po škole tě vyzvedne táta a bude víkend u něj. Já tě vyzvednu zase v pondělí."* Používejte klidný, věcný tón. Nemusíte nic vysvětlovat ani obhajovat. Když dítě protestuje, neobviňujte druhého rodiče a neomlouvejte se – prostě klidně zopakujte: *„Takhle jsme se my dospělí domluvili."* Dítě si zvykne, nebojte se.
+Řekněte dítěti s předstihem, co bude následovat. *„V pátek po škole tě vyzvedne táta a bude víkend u něj. Já tě vyzvednu zase v pondělí.“* Používejte klidný, věcný tón. Nemusíte nic vysvětlovat ani obhajovat. Když dítě protestuje, neobviňujte druhého rodiče a neomlouvejte se – prostě klidně zopakujte: *„Takhle jsme se my dospělí domluvili.“* Dítě si zvykne, nebojte se.
 
 ### Jednejte klidně, i když vám do zpěvu není
 
-Možná máte sami strach z loučení, protože čekáte, že bude náročné. Možná vás děsí vidina příštích dní bez dítěte. To všechno je normální a pochopitelné. Ale nedělejte to dětem těžší tím, že budete před nimi plakat nebo jim říkat, jak hrozně se vám bude stýskat. Zkuste se usmát, zamávat a říct: *„Užijte si to!"* Dětem to ulehčíte a plakat pak můžete v klidu sami.
+Možná máte sami strach z loučení, protože čekáte, že bude náročné. Možná vás děsí vidina příštích dní bez dítěte. To všechno je normální a pochopitelné. Ale nedělejte to dětem těžší tím, že budete před nimi plakat nebo jim říkat, jak hrozně se vám bude stýskat. Zkuste se usmát, zamávat a říct: *„Užijte si to!“* Dětem to ulehčíte a plakat pak můžete v klidu sami.
 
 ### Podpořte druhého rodiče, třeba udělá to stejné pro vás
 
@@ -70,11 +70,11 @@ Předávání dítěte může být zpočátku náročné pro všechny a víme, j
 
 ### Přijměte pocity dětí
 
-Když dítě řekne *„Bude se mi stýskat"*, neříkejte *„To bude dobrý"* nebo *„Přestaň, vždyť jedete na výlet."* Místo toho zkuste: *"To chápu, mám to podobně a taky se mi bude stýskat. Ale je to jen pár dní a budeme se pak na sebe ohromně těšit."* Tím dáváte dítěti najevo, že rozumíte tomu, že to má nyní těžké. Zároveň ho ujišťujete, že se zase brzy uvidíte.
+Když dítě řekne *„Bude se mi stýskat“*, neříkejte *„To bude dobrý“* nebo *„Přestaň, vždyť jedete na výlet.“* Místo toho zkuste: *„To chápu, mám to podobně a taky se mi bude stýskat. Ale je to jen pár dní a budeme se pak na sebe ohromně těšit.“* Tím dáváte dítěti najevo, že rozumíte tomu, že to má nyní těžké. Zároveň ho ujišťujete, že se zase brzy uvidíte.
 
 ### Vyprávějte dětem o tom, co bude u druhého rodiče prima
 
-Pokud víte, že druhý rodič chystá s dětmi nějakou společnou akci, zkuste říct: *„V sobotu prý jdete ZOO, třeba budeš mít štěstí a uvidíš žirafu!"* Pomáháte tím dítěti těšit se a současně ukazujete, že druhého rodiče respektujete.
+Pokud víte, že druhý rodič chystá s dětmi nějakou společnou akci, zkuste říct: *„V sobotu prý jdete do ZOO, třeba budeš mít štěstí a uvidíš žirafu!“* Pomáháte tím dítěti těšit se a současně ukazujete, že druhého rodiče respektujete.
 
 ### Nechte děti s sebou nosit něco svého
 
@@ -84,7 +84,7 @@ Děti rády přenášejí mezi domovy něco, co je jejich – oblíbenou hračku
 
 ## Čemu se vyhnout
 
-Nikdy před dítětem nekomentujte, jak druhý rodič sbalil věci nebo jak dítě oblékl. I poznámka, která vám připadá nevinná – *„Zase nemáš čepici?"* nebo *„To ti dal táta tyhle boty?"* – může být pro dítě ponižující. 
+Nikdy před dítětem nekomentujte, jak druhý rodič sbalil věci nebo jak dítě oblékl. I poznámka, která vám připadá nevinná – *„Zase nemáš čepici?“* nebo *„To ti dal táta tyhle boty?“* – může být pro dítě ponižující. 
 
 Pokud je něco skutečně potřeba řešit – třeba opakovaně chybějící léky nebo nevhodné oblečení na počasí – vyřešte to přímo s druhým rodičem, v klidu, bez dítěte. Ne při předávání, ne přes dítě.
 

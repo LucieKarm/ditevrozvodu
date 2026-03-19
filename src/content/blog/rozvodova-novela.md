@@ -23,7 +23,7 @@ Dosud soudy rozhodovaly o tom, jakou **formu péče** zvolí – výlučnou pé�
 
 Slovo **„střídavka“** se stalo symbolem tohoto konfliktu. Pro řadu otců znamenala střídavá péče vysněné vítězství – důkaz, že jsou rovnocenní rodiče. Pro mnoho matek to naopak znělo jako hrozba, jako kdyby jim někdo bral dítě. A okolí to jen přiživovalo: *„On chce střídavku? A tobě to nevadí? Co jsi za matku?“*
 
-Přitom se rodiče mohli dohodnout na čemkoliv i předtím – na jakémkoliv rozložení času, na jakémkoliv rytmu střídání. Ale nálepky „výlučná" a „střídavá" věci jen komplikovaly. Místo toho, aby rodiče přemýšleli, co bude jejich dětem fungovat, bojovali o to, jak se bude jejich uspořádání jmenovat.
+Přitom se rodiče mohli dohodnout na čemkoliv i předtím – na jakémkoliv rozložení času, na jakémkoliv rytmu střídání. Ale nálepky „výlučná“ a „střídavá“ věci jen komplikovaly. Místo toho, aby rodiče přemýšleli, co bude jejich dětem fungovat, bojovali o to, jak se bude jejich uspořádání jmenovat.
 
 **Od ledna 2026 formy péče mizí.** Soud nebude rozhodovat o tom, jestli dítě bude ve „střídavé“ nebo „výlučné“ péči. Místo toho určí **rozsah péče každého z rodičů** – kolik času a v jakém režimu bude dítě s kým. Důležité je, jak to bude reálně fungovat, ne jak se to jmenuje.
 

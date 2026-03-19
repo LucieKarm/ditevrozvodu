@@ -14,9 +14,9 @@ Pro děti je rodina jejich celý svět. Když se tento svět rozpadá, je přiro
 
 Děti potřebují, aby věci kolem nich byly předvídatelné. Ráno vstanu, máma udělá snídani, táta mě odveze do školy – tenhle řád pro ně znamená jistotu. Rozvod řád naruší, a děti hledají cestu, jak ho obnovit. Chtějí, aby se všechno vrátilo zpátky.
 
-Někdy se děti dokonce snaží přejímat zodpovědnost za vás dospělé. Vidí, že jste smutní, a přemýšlí po svém: *„Kdybyste se nerozváděli, nebyli byste přece smutní. Tak já to nějak zařídím."* Mohou se snažit chovat mimořádně "hodně" nebo třeba vymýšlet situace, abyste byli spolu s druhým rodičem v jedné místnosti.
+Někdy se děti dokonce snaží přejímat zodpovědnost za vás dospělé. Vidí, že jste smutní, a přemýšlí po svém: *„Kdybyste se nerozváděli, nebyli byste přece smutní. Tak já to nějak zařídím.“* Mohou se snažit chovat mimořádně „hodně“ nebo třeba vymýšlet situace, abyste byli spolu s druhým rodičem v jedné místnosti.
 
-> **Klíčové:** Když děti říkají „chci, abyste byli spolu", myslí tím „chci se cítit v bezpečí a chci mít oba rodiče."
+> **Klíčové:** Když děti říkají „chci, abyste byli spolu“, myslí tím „chci se cítit v bezpečí a chci mít oba rodiče.“
 
 ## Jak na to reagovat
 
@@ -24,21 +24,21 @@ Je důležité dětem naslouchat, opakovaně, a někdy i pořád dokola. Tohle p
 
 Nemusíte pokaždé najít dokonalá slova. Zkuste být v takovou chvíli opravdu s nimi a mluvit upřímně. Můžete říct třeba:
 
-*„Je mi líto, že ti tohle přání neumíme splnit."*
+*„Je mi líto, že ti tohle přání neumíme splnit.“*
 
-*„Mám tě moc ráda a táta tě taky moc má rád. To se nikdy nezmění."*
+*„Mám tě moc ráda a táta tě taky moc má rád. To se nikdy nezmění.“*
 
-*„Už jsme se s maminkou rozhodli, že budeme žít odděleně. Oba tě máme pořád stejně rádi."*
+*„Už jsme se s maminkou rozhodli, že budeme žít odděleně. Oba tě máme pořád stejně rádi.“*
 
-*„Stále máš maminku a tatínka, jen budeme bydlet zvlášť."*
+*„Stále máš maminku a tatínka, jen budeme bydlet zvlášť.“*
 
 ### Čemu se raději vyhnout
 
-**Zkuste se na chvíli vžít do svého dítěte.** Jak byste se cítili, kdyby vám někdo na vaše upřímné přání odpověděl: *„Přestaň o tom mluvit"*? Nebo: *„Musíš to prostě přijmout"*? Pravděpodobně byste se uzavřeli a přestali sdílet, co vás trápí. Přesně to se stává i dětem.
+**Zkuste se na chvíli vžít do svého dítěte.** Jak byste se cítili, kdyby vám někdo na vaše upřímné přání odpověděl: *„Přestaň o tom mluvit“*? Nebo: *„Musíš to prostě přijmout“*? Pravděpodobně byste se uzavřeli a přestali sdílet, co vás trápí. Přesně to se stává i dětem.
 
-**Podobně bolestivá je falešná naděje.** Věta *„Možná se jednou vrátíme k sobě"* – i pokud v to třeba sami doufáte – dítěti neuleví. Naopak, udržuje ho v napětí a čekání, a to není moc fér.
+**Podobně bolestivá je falešná naděje.** Věta *„Možná se jednou vrátíme k sobě“* – i pokud v to třeba sami doufáte – dítěti neuleví. Naopak, udržuje ho v napětí a čekání, a to není moc fér.
 
-Možná máte v takovou chvíli chuť říct, jak to skutečně bylo. *„Táta nás opustil"* nebo *„Máma se rozhodla odejít"* jsou ale věty, které **dítě staví do nemožné pozice**, kdy ho nutíte si mezi vámi vybrat. A tohle si žádné dítě nezaslouží.
+Možná máte v takovou chvíli chuť říct, jak to skutečně bylo. *„Táta nás opustil“* nebo *„Máma se rozhodla odejít“* jsou ale věty, které **dítě staví do nemožné pozice**, kdy ho nutíte si mezi vámi vybrat. A tohle si žádné dítě nezaslouží.
 
 ### Jak mluvit s dětmi různého věku
 
