@@ -48,6 +48,18 @@ Malé děti v předškolním věku potřebují jednoduché a konkrétní vysvět
 
 Teenageři chtějí upřímnou konverzaci na rovinu. Respektujte jejich pocity, i když mohou být intenzivní nebo vůči vám nespravedlivé. **Ale pozor – děti nejsou vaši kamarádi ani terapeuti.** Zachovejte rodičovské hranice, i když vás zralost vašich dětí může svádět k důvěrnějšímu sdílení.
 
+## Tohle přání většinou netrvá věčně
+
+Možná vás uklidní, že **přání, aby se rodiče vrátili k sobě, bývá spíše přechodné, nikoliv trvalé**. A nemívají ho zdaleka všechny děti. Výzkum *Rozchod a vybrané aspekty porozchodové péče z pohledu dětí a rodičů* ukazuje, že pokud dítě toto přání má, trvá obvykle jen několik měsíců, než si život v nové podobě najde své pevné koleje a stabilitu (Jana Barvíková, RILSA 2025).
+
+Děti se tohoto přání vzdávají, **když dospějí k pochopení, že rozchod je pro oba rodiče lepším řešením než pokračování společného soužití**. Čím lépe se rodiče po rozchodu mají, čím jsou klidnější a spokojenější, tím snáze děti novou situaci přijímají. Některé děti dokonce popisují, že pro ně byl rozchod rodičů **úlevou**. Konečně totiž doma ustaly hádky a napětí a děti zažívaly klid.
+
+Důležitou roli hraje i to, když děti vidí, že jsou oba rodiče v novém uspořádání spokojení. Jedna dívka zmiňovaná ve výzkumu to vystihla slovy: *„Když si táta taky našel přítelkyni, bylo to pro mě najednou vyváženější. A pak mi přestalo vadit, že mám dva domovy."*
+
 ## Na závěr
 
-Nemůžete teď dětem dopřát úplnou rodinu. Ale můžete jim dopřát pocit bezpečí. Potřebují zažívat, že je oba milujete a že se o ně oba postaráte. Každá upřímná a klidná odpověď, každé vyslechnuté trápení, každý klidný večer jsou kroky správným směrem.
+Nemůžete teď dětem dopřát úplnou rodinu, takhle to prostě je. Ale můžete jim dopřát pocit bezpečí. Zkuste si připomínat, že rozvod sám o sobě vašim dětem trauma nezpůsobí. Dětem nejvíc ubližuje dlouhodobý konflikt mezi vámi rodič.
+
+Děti potřebují zažívat, že je oba milujete a že se o ně oba postaráte. Každá upřímná a klidná odpověď, každé vyslechnuté trápení, každý klidný večer jsou kroky správným směrem.
+
+
