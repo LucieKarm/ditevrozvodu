@@ -106,7 +106,7 @@ A hlavně — **nezůstávejte příliš dlouho sami se svými myšlenkami.** V 
 
 Všechny pocity, které nyní zažíváte, mají své místo. I strach, i vztek, i chvíle, kdy je vám sebe sama ukrutně líto. To je naprosto v pořádku. Jenom u žádné emoce nezůstávejte moc dlouho.
 
-> Člověk se utváří tím, jak se rozhoduje, jaké kroky v životě dělá a kým se obklopuje. A pak takový život mít bude.
+Člověk se utváří tím, jak se rozhoduje, jaké kroky v životě dělá a kým se obklopuje. A pak takový život mít bude.
 
 ---
 
