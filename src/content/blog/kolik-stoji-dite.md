@@ -70,11 +70,11 @@ Když máte čísla před sebou, máte skvělý základ pro konstruktivní rozho
 
 Možná zjistíte, že se s druhým rodičem neshodnete na tom, co je pro dítě nezbytné a co je bonus. Je lyžařský kurz nutnost? Kolik kroužků je tak akorát? Musí mít dítě značkové oblečení?
 
-Univerzální odpověď neexistuje. Ale když vycházíte z toho, co jste skutečně platili za poslední rok, zřejmě vám to nějak vyhovovalo a není důvod to nějak zásadně měnit. 
+Univerzální odpověď neexistuje. Ale když vycházíte z toho, co jste skutečně platili za poslední rok, zřejmě vám to nějak vyhovovalo a není důvod to příliš měnit. 
 
 ## Pečlivost vám usnadní provoz v příštích letech
 
-Chápeme, že strávit několik večerů procházením bankovních výpisů nezní lákavě. Na čem se teď dohodnete s druhým rodičem, sice není vytesané do kamene. Ale pokud nedojde k nějaké zásadní změně ve vašich životech, měli byste být schopní fungovat podle tohoto plánu alespoň několik let. 
+Chápeme, že strávit několik večerů procházením bankovních výpisů nezní lákavě. Na čem se teď dohodnete s druhým rodičem, sice není vytesané do kamene. Ale pokud se u vás nebo u druhého rodiče nic zásadního nezmění, měli byste být schopní fungovat podle tohoto plánu alespoň několik let. 
 
 > **Náš tip:** Pokud máte víc dětí, udělejte tabulku pro každé dítě zvlášť. Dítě ve školce má jiné potřeby než dítě na střední. A nezapomeňte, že náklady se v čase mění: když budete muset platit dětskou skupinu, když dítě začne chodit na kroužky nebo třeba když bude potřebovat tramvajenku.
 
