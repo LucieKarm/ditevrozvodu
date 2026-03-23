@@ -72,7 +72,7 @@ Připravili jsme pro vás tři šablony rodičovského plánu, které vám mohou
   </a>
   <a href="/downloads/rodicovsky-plan-minska.docx" class="download-tile" download>
     <span class="download-icon">📄</span>
-    <strong>Manželská a rodinní poradna Minská v Brně</strong>
+    <strong>Manželská a rodinná poradna Minská v Brně</strong>
     <span class="download-format">DOCX</span>
   </a>
   <a href="/downloads/rodicovsky-plan-ontario.pdf" class="download-tile" download>

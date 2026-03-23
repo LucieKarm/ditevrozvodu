@@ -283,11 +283,9 @@ const otherArticles = allArticles
 <script>
     document.querySelectorAll('.article-content blockquote').forEach((bq) => {
         const text = bq.textContent?.trim() || '';
-        if (text.startsWith('Varovné signály:') || text.startsWith('Varovné signály:')) {
+        if (text.startsWith('Varovné signály:')) {
             bq.classList.add('blockquote-warning');
-        } else if (text.startsWith('Důležité:') || text.startsWith('Klíčové:')) {
-            bq.classList.add('blockquote-important');
-        } else if (text.startsWith('Náš tip:')) {
+        } else if (text.startsWith('Náš tip:') || text.startsWith('Důležité:') || text.startsWith('Klíčové:')) {
             bq.classList.add('blockquote-tip');
         }
     });

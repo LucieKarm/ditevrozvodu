@@ -34,7 +34,7 @@ Jak to funguje v praxi? Jeden rodič dítě ráno přivede a rozloučí se s ní
 
 - **Oba zůstáváte v kontaktu s vyučujícími.** Každý z vás má snadnou příležitost promluvit si s vyučujícími, vědět, co se ve škole děje, doptat se na úkoly nebo chování dítěte.
 
-> **Náš tip:** Domluvte se na tomto způsobu předávání s druhým rodičem nejdříve. Klidně narovinu řekněte, proč vám to dává smysl a že to pomůže vám oběma i vašemu dítěti. Pak informujte školku nebo školu o tom, co se u vás změnilo. Vyučující mohou být cennou oporou – pro vaše děti i pro organizaci předávání.
+> **Náš tip:** Domluvte se na tomto způsobu předávání s druhým rodičem co nejdříve. Klidně narovinu řekněte, proč vám to dává smysl a že to pomůže vám oběma i vašemu dítěti. Pak informujte školku nebo školu o tom, co se u vás změnilo. Vyučující mohou být cennou oporou – pro vaše děti i pro organizaci předávání.
 
 ## Když dítě ještě nechodí do žádné instituce
 
