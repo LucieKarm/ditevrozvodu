@@ -41,7 +41,7 @@ U dvou velmi podstatných kategorií se pohled rodičů může lišit:
 - **Jídlo** – Celkový výdaj za jídlo vydělte počtem členů domácnosti. Patří sem i svačiny a obědy ve škole nebo školce, zvážit můžete i návštěvy restaurací. Možná má vaše dítě speciální dietu, kvůli které musíte nakupovat dražší potraviny. S druhým rodičem se ale můžete snadno neshodnout, jestli sladkosti vůbec patří do jídelníčku dítěte, jestli restaurace už nejsou luxus, jestli je opravdu potřeba kupovat biopotraviny.
 - **Energie a bydlení** – Tahle položka se bude nyní asi měnit podle toho, kdo kde jak budete bydlet a zahrnuje spoustu proměnných. Může také představovat kámen úrazu v diskuzi s druhým rodičem, protože je přece „jeho problém, že se odstěhoval”. 
 
-Samozřejmě, že musíte za dítě platit i bydlení, energie a jídlo. Ale na rozdíl od základních kategorií může být u posledních dvou těžší se shodnout na tom, co je nutné a co ne.
+Samozřejmě, že musíte za dítě platit i bydlení, energie a jídlo. Ale na rozdíl od základních kategorií může být u posledních dvou těžší se shodnout na tom, co je nutné a co ne. V takovém případě začněte tím, na čem se s druhým rodičem shodnete.
 
 ### 3. Spočítejte roční a měsíční částku
 
@@ -60,7 +60,7 @@ Může to vypadat třeba takhle (příklad pro šestiletého školáka):
 | **Celkem za rok** | | | **59 000 Kč** |
 | **Měsíčně** | | | **cca 4 900 Kč** |
 
-V tabulce samozřejmě chybí jídlo, energie, nájem a řada dalších položek — to proto, aby byl příklad přehledný. Vaše tabulka může vypadat hodně jinak. Smyslem není ukázat „správná čísla", ale strukturu, podle které si spočítáte ta svá.
+V tabulce chybí jídlo, energie, nájem a řada dalších položek — to proto, aby byl příklad přehledný. Vaše tabulka může vypadat hodně jinak. Smyslem není ukázat „správná čísla", ale strukturu, podle které si spočítáte ta svá.
 
 ## Co s tím výsledkem
 
