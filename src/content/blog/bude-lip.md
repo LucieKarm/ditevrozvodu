@@ -18,9 +18,9 @@ Možná právě teď prožíváte období, kdy se vám všechno hroutí pod ruka
 
 Nejhůř na tom bývají lidé, které změna zasáhla nečekaně. Partner se odstěhoval ze dne na den. Přišli jste na nevěru. Najednou si kladete otázky typu: *„Jak dlouho jsem žila ve lži? Co z toho našeho vztahu bylo vůbec pravdivé?"* To je obrovský otřes.
 
-### Cítit strach je normální
+### Cítit strach patří k věci
 
-Ale i když jste se na rozchodu oba nějak shodli, pořád tam je strach. *„Přijdu o děti, když je nebudu vídat každý den? Kde budu bydlet? Z čeho budu žít? Jak bude vypadat můj život? Jak to mám říct dětem? A našim společným známým?"* Je to jedna z největších změn a ztrát, jaké člověk může zažít. Opouštíte život, do kterého jste možná dali všechno.
+Ale i když už jste se na rozchodu oba nějak shodli, pořád tam je strach. *„Přijdu o vztah s dětmi, když je nebudu vídat každý den? Kde budu bydlet? Z čeho budu žít? Jak bude vypadat můj život? Jak to mám říct dětem? A našim společným známým?"* Je to jedna z největších změn a ztrát, jaké člověk může zažít. Opouštíte život, do kterého jste možná dali všechno.
 
 ## Řada dospělých sama asi také zažila rozvod svých rodičů...
 
@@ -64,7 +64,7 @@ Tady se vyplatí mít po ruce někoho, kdo rozvodem sám prošel a "dobře to do
 
 Klienty a klientky v takovou chvíli uklidňuji: *„Teď to takhle je a ano, je to náročné. Ale neznamená to, že to tak bude navždy."*
 
-V naprosté většině případů je to tak, že i ten druhý je zraněný, vystrašený a reaguje na tu samou krizi jako vy. Chová se způsobem, který za normálních okolností není jeho vlastní, však jste si možná sami řekli, že toho druhého nepoznáváte. To neznamená, že je to v pořádku. Ale nebývá trvalý stav – až se ten druhý trochu vzpamatuje, měl by se chovat přijatelněji.
+V naprosté většině případů je to tak, že i ten druhý je zraněný, vystrašený a reaguje na tu samou krizi jako vy. Chová se způsobem, který za normálních okolností není jeho vlastní, však jste si možná sami řekli, že toho druhého nepoznáváte. To neznamená, že je to v pořádku. Ale nebývá to trvalý stav – až se ten druhý trochu vzpamatuje, měl by se chovat přijatelněji.
 
 ### Jinak se chováme jako partneři, jinak jako rodiče
 
