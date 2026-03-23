@@ -44,9 +44,6 @@ const otherArticles = allArticles
             >
                 {entry.data.title}
             </h1>
-            <p class="text-xl text-gray-700 leading-relaxed">
-                {entry.data.description}
-            </p>
         </div>
     </header>
 
@@ -273,9 +270,57 @@ const otherArticles = allArticles
         border-radius: 0.25rem;
     }
 
+    /* Table styling */
+    .article-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0 2.5rem 0;
+        font-size: 0.95rem;
+    }
+
+    .article-content table th {
+        text-align: left;
+        font-weight: 700;
+        color: var(--color-primary);
+        padding: 0.75rem 1rem;
+        border-bottom: 2px solid var(--color-primary);
+        white-space: nowrap;
+    }
+
+    .article-content table td {
+        padding: 0.6rem 1rem;
+        border-bottom: 1px solid #e5e7eb;
+        color: #374151;
+    }
+
+    .article-content table tr:last-child td {
+        border-bottom: none;
+    }
+
+    .article-content table tr td strong,
+    .article-content table tr td:has(strong) {
+        font-weight: 700;
+        color: var(--color-primary);
+    }
+
+    .article-content table tr:has(td strong) {
+        border-top: 2px solid var(--color-primary);
+    }
+
+    .article-content table tr:has(td strong) td {
+        padding-top: 0.85rem;
+        border-bottom: none;
+    }
+
     @media (max-width: 640px) {
         .article-content .download-tiles {
             grid-template-columns: 1fr;
+        }
+
+        .article-content table th,
+        .article-content table td {
+            padding: 0.5rem 0.5rem;
+            font-size: 0.85rem;
         }
     }
 </style>
