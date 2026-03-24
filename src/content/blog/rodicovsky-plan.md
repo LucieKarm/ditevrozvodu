@@ -28,7 +28,7 @@ A ještě jeden praktický důvod: **rodičovský plán vám může ušetřit ho
 
 Dobrý rodičovský plán pokrývá hlavní oblasti života dítěte:
 
-**Bydlení a střídání.** Kde bude dítě žít? V jakém rytmu se bude přesouvat mezi domovy? Bude to jiné o prázdninách? Kdo vybírá příměšťáky Co svátky, narozeniny, prodloužené víkendy?
+**Bydlení a střídání.** Kde bude dítě žít? V jakém rytmu se bude přesouvat mezi domovy? Bude to jiné o prázdninách? Kdo vybírá příměšťáky? Co svátky, narozeniny, prodloužené víkendy?
 
 **Předávání.** Kdo bude dítě převážet kam? Kde se budete potkávat? Co když se někdo zpozdí? Jaké věci si má dítě s sebou vzít?
 

@@ -12,11 +12,11 @@ Kdo bude kolik platit? Kolik dítě vlastně stojí? A jak se na tom domluvit, k
 
 ## Dobře si to spočítejte
 
-Čísla pomáhají. Když místo odhadů a pocitů pracujete se skutečnými výdaji za posledních dvanáct měsíců, domluvu vám to opravdu usnadní, protože budete vychízet z toho, co už jste jako rodiče za děti platili a na čem jste se asi v minulosti shodli. **Připravili jsme pro vás jednoduchý návod, jak si výdaje na dítě spočítat.**
+Čísla pomáhají. Když místo odhadů a pocitů pracujete se skutečnými výdaji za posledních dvanáct měsíců, domluvu vám to opravdu usnadní, protože budete vycházet z toho, co už jste jako rodiče za děti platili a na čem jste se asi v minulosti shodli. **Připravili jsme pro vás jednoduchý návod, jak si výdaje na dítě spočítat.**
 
 ## Jak na to
 
-Chce to přístup k bankovním výpisům, pár večerů a spoustu trpělivosti. **Není to práce na jedno odpoledne, ale doslova se vám vyplatí.** Nastavujete plán na příštích několik let. Pokud teď něco vynecháte nebo podceníte, bude se vám později jen velmi těžko u druhého rodiče obhajovat, proč by měl každou chváli přispívat na něco, co se vám zdá samozřejmé.
+Chce to přístup k bankovním výpisům, pár večerů a spoustu trpělivosti. **Není to práce na jedno odpoledne, ale doslova se vám vyplatí.** Nastavujete plán na příštích několik let. Pokud teď něco vynecháte nebo podceníte, bude se vám později jen velmi těžko u druhého rodiče obhajovat, proč by měl každou chvíli přispívat na něco, co se vám zdá samozřejmé.
 
 ### 1. Vyexportujte si platby za posledních 12 měsíců
 
@@ -28,7 +28,7 @@ Udělejte si v tabulce pomocný sloupec a u každé položky si řádek po řád
 
 Tady jsou základní kategorie, na které je dobré myslet:
 
-- **Oblečení a boty** – Děti rychle rostou a tahle položka bývá často vyšší, než by člověk čekal (přezůvky, tenisky na tělocvik, kecky na zahradu, děti jsou jak stonožky!). Nezapomeňte na sezónní záležitosti: plavky, zimní kombinéza, gumáky, pláštěnka, rukavice...
+- **Oblečení a boty** – Děti rychle rostou a tahle položka bývá často vyšší, než by člověk čekal (přezůvky, tenisky na tělocvik, kecky na zahradu, děti jsou jak stonožky). Nezapomeňte na sezónní záležitosti: plavky, zimní kombinéza, gumáky, pláštěnka, rukavice...
 - **Kroužky a tábory** – Fotbal, plavání, angličtina, keramika, letní příměšťáky, výlety se skautem, tábory, pěvecké soustředění. Možná vaše dítě závodně sportuje a platíte startovné na soutěže. To všechno jsou poměrně velké položky.
 - **Drogerie** – Plenky, vlhčené ubrousky, opalovací krémy, šampony, zubní pasta, hřeben, pěna do vany, repelent. Možná to zní jako maličkosti, ale za rok to klidně pár tisíc může být.
 - **Léky a zdravotní péče** – Léky na předpis i volně prodejné, vitamíny, logoped, fyzioterapie, rovnátka, brýle. Nové brýle, když dítě ty předchozí rozbije (všichni víme, že se to děje). Nepovinné očkování, možná také cestovní očkování. 
@@ -42,6 +42,9 @@ U dvou velmi podstatných kategorií se pohled rodičů může lišit:
 - **Energie a bydlení** – Tahle položka se bude nyní asi měnit podle toho, kdo kde jak budete bydlet a zahrnuje spoustu proměnných. Může také představovat kámen úrazu v diskuzi s druhým rodičem, protože je přece „jeho problém, že se odstěhoval”. 
 
 Samozřejmě, že musíte za dítě platit i bydlení, energie a jídlo. Ale na rozdíl od základních kategorií může být u posledních dvou těžší se shodnout na tom, co je nutné a co ne. V takovém případě začněte tím, na čem se s druhým rodičem shodnete.
+
+> **Náš tip:** I když všechno promyslíte sebepečlivěji, stejně se mohou objevit a asi také objeví výdaje spojené s událostí, s níž jste nepočítali, jako třeba nemoc nebo úraz. Nebo dítě bude potřebovat věci, které dosud nepotřebovalo, třeba brýle nebo ortopedické pomůcky. Je vhodné nastavit si jízdní řád (např. „platíme napůl” nebo „poměrem 3:1”) i pro tyto situace. Když potom nastanou, nemusíte mít obavy, můžete jednat rychle a víte i jak.
+
 
 ### 3. Spočítejte roční a měsíční částku
 

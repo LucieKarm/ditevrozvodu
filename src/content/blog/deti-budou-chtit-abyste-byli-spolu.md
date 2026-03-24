@@ -58,7 +58,7 @@ Důležitou roli hraje i to, když děti vidí, že jsou oba rodiče v novém us
 
 ## Na závěr
 
-Nemůžete teď dětem dopřát úplnou rodinu, takhle to prostě je. Ale můžete jim dopřát pocit bezpečí. Zkuste si připomínat, že rozvod sám o sobě vašim dětem trauma nezpůsobí. Dětem nejvíc ubližuje dlouhodobý konflikt mezi vámi rodič.
+Nemůžete teď dětem dopřát úplnou rodinu, takhle to prostě je. Ale můžete jim dopřát pocit bezpečí. Zkuste si připomínat, že rozvod sám o sobě vašim dětem trauma nezpůsobí. Dětem nejvíc ubližuje dlouhodobý konflikt mezi vámi rodiči.
 
 Děti potřebují zažívat, že je oba milujete a že se o ně oba postaráte. Každá upřímná a klidná odpověď, každé vyslechnuté trápení, každý klidný večer jsou kroky správným směrem.
 
