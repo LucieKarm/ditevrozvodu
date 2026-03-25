@@ -24,17 +24,17 @@ Přihlaste se do internetového bankovnictví a stáhněte si výpisy za celý p
 
 ### 2. Rozdělte výdaje do kategorií
 
-Udělejte si v tabulce pomocný sloupec a u každé položky si řádek po řádku napište, o jakou kategorii šlo. Nelámejte si hlavu s tím, že tu a tam nebudete vědět, o co šlo. Ale čím poctivěji to uděláte, tím přesnější představu o uplynulém roce dostanete.
+Udělejte si v tabulce pomocný sloupec a u každé položky si řádek po řádku napište, o jakou kategorii šlo. Nelámejte si hlavu s tím, že tu a tam nebudete vědět, co přesně to bylo. Ale čím poctivěji to uděláte, tím přesnější představu o uplynulém roce dostanete.
 
 Tady jsou základní kategorie, na které je dobré myslet:
 
 - **Oblečení a boty** – Děti rychle rostou a tahle položka bývá často vyšší, než by člověk čekal (přezůvky, tenisky na tělocvik, kecky na zahradu, děti jsou jak stonožky). Nezapomeňte na sezónní záležitosti: plavky, zimní kombinéza, gumáky, pláštěnka, rukavice...
 - **Kroužky a tábory** – Fotbal, plavání, angličtina, keramika, letní příměšťáky, výlety se skautem, tábory, pěvecké soustředění. Možná vaše dítě závodně sportuje a platíte startovné na soutěže. To všechno jsou poměrně velké položky.
 - **Drogerie** – Plenky, vlhčené ubrousky, opalovací krémy, šampony, zubní pasta, hřeben, pěna do vany, repelent. Možná to zní jako maličkosti, ale za rok to klidně pár tisíc může být.
-- **Léky a zdravotní péče** – Léky na předpis i volně prodejné, vitamíny, logoped, fyzioterapie, rovnátka, brýle. Nové brýle, když dítě ty předchozí rozbije (všichni víme, že se to děje). Nepovinné očkování, možná také cestovní očkování. 
+- **Léky a zdravotní péče** – Léky na předpis i volně prodejné, vitamíny, logoped, fyzioterapie, rovnátka, brýle. Nové brýle, když dítě ty předchozí rozbije (všichni víme, že se to stává). Nepovinné očkování, možná také cestovní očkování. 
 - **Doprava** – Šalinkarta (SPONDEA sídlí v Brně), jízdné na vlak, benzín na rozvážení dětí do školy nebo na kroužky. Může zahrnovat i budoucí cesty dítěte k druhému rodiči.
 - **Škola a vzdělávání** – Školné ve školce nebo škole, družina, školní pomůcky, nové sešity a penál, učebnice, každý měsíc příspěvek na projektový den nebo divadlo se třídou. Možná vašemu dítěti platíte doučování nebo víte, že bude potřeba platit přípravku na střední. 
-- **Ostatní** – Lyžařský kurz se školou, škola v přírodě, dárky na narozeninové oslavy spolužáků, kapesné, telefon, batoh, spoření...
+- **Ostatní** – Lyžařský kurz se školou, škola v přírodě, dárky na narozeninové oslavy spolužáků a spolužaček, kapesné, telefon, batoh, spoření...
 
 U dvou velmi podstatných kategorií se pohled rodičů může lišit:
 
@@ -44,7 +44,6 @@ U dvou velmi podstatných kategorií se pohled rodičů může lišit:
 Samozřejmě, že musíte za dítě platit i bydlení, energie a jídlo. Ale na rozdíl od základních kategorií může být u posledních dvou těžší se shodnout na tom, co je nutné a co ne. V takovém případě začněte tím, na čem se s druhým rodičem shodnete.
 
 > **Náš tip:** I když všechno promyslíte sebepečlivěji, stejně se mohou objevit a asi také objeví výdaje spojené s událostí, s níž jste nepočítali, jako třeba nemoc nebo úraz. Nebo dítě bude potřebovat věci, které dosud nepotřebovalo, třeba brýle nebo ortopedické pomůcky. Je vhodné nastavit si jízdní řád (např. „platíme napůl” nebo „poměrem 3:1”) i pro tyto situace. Když potom nastanou, nemusíte mít obavy, můžete jednat rychle a víte i jak.
-
 
 ### 3. Spočítejte roční a měsíční částku
 
@@ -77,10 +76,9 @@ Univerzální odpověď neexistuje. Ale když vycházíte z toho, co jste skute�
 
 ## Pečlivost vám usnadní provoz v příštích letech
 
-Chápeme, že strávit několik večerů procházením bankovních výpisů nezní lákavě. Na čem se teď dohodnete s druhým rodičem, sice není vytesané do kamene. Ale pokud se u vás nebo u druhého rodiče nic zásadního nezmění, měli byste být schopní fungovat podle tohoto plánu alespoň několik let. 
+Chápeme, že strávit několik večerů procházením bankovních výpisů nezní lákavě. Na čem se teď dohodnete s druhým rodičem, navíc není vytesané do kamene. Ale pokud se u vás nebo u druhého rodiče nic zásadního nezmění, měli byste být schopní fungovat podle tohoto plánu alespoň několik let. 
 
 > **Náš tip:** Pokud máte víc dětí, udělejte tabulku pro každé dítě zvlášť. Dítě ve školce má jiné potřeby než dítě na střední. A nezapomeňte, že náklady se v čase mění: když budete muset platit dětskou skupinu, když dítě začne chodit na kroužky nebo třeba když bude potřebovat tramvajenku.
-
 ## Na závěr
 
-Finance při rozvodu jsou citlivé téma. Když k nim přistoupíte věcně, s tužkou v ruce a bankovními výpisy na stole, ubere to hodně napětí. Nejde o to, kdo víc vydělává nebo kdo víc utrácí. Jde o to, aby vaše dítě mělo to, co potřebuje a na co je zvyklé — a abyste se na tom dokázali férově domluvit.
+Finance při rozvodu jsou citlivé téma. Když k nim přistoupíte věcně, s tužkou v ruce a bankovními výpisy na stole, ubere to hodně napětí. Nejde o to, kdo víc vydělává nebo kdo víc utrácí. **Jde o to, aby vaše dítě mělo to, co potřebuje a na co je zvyklé** — a abyste se na tom dokázali férově domluvit.
