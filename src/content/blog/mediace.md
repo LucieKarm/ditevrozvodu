@@ -3,10 +3,12 @@ title: "Mediace jako cesta k dohodě: Zvažte to!"
 description: "Sedm z deseti párů odchází od mediátora s dohodou. Jak mediace funguje, kolik stojí a proč začít co nejdřív?"
 category: "Domluva s druhým rodičem"
 image: "/images/mediace.png"
-published: false
+published: true
 ---
 
 Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z ADRC (Alternative Dispute Resolution Center) v Brně.
+
+![Jan Kabát, mediátor z ADRC v Brně](/images/adrc.jpg)
 
 ---
 
