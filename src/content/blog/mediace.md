@@ -46,7 +46,7 @@ Na začátku si řekneme: „S čím chcete na konci naší spolupráce odejít?
 
 **Jan:** Výsledkem je **mediační dohoda** — písemný dokument, kde mají rodiče sepsané všechno, na čem se shodli. Péči o děti, výživné, majetek, ale klidně i detaily, které jsou pro ně důležité a potřebují je mít jasně domluvené.
 
-Do jedné naší dohody rodiče zanesli i to, jaké zubní kartáčky se budou používat, jestli dítě bude nosit barefoot boty nebo klasické, a kdy si budou navzájem volat. Možná zní úsměvně, ale tihle rodiče potřebovali mít všechno jasně dané — a mediace jim to umožnila. Za klid pro všechny zúčastněné to stojí.
+Do jedné naší dohody rodiče zanesli i to, jaké zubní kartáčky se budou používat, jestli dítě bude nosit barefoot boty nebo klasické, a kdy si budou navzájem volat. Možná to zní úsměvně, ale tihle rodiče potřebovali mít všechno jasně dané — a mediace jim to umožnila. Za klid pro všechny zúčastněné to stojí.
 
 ### S mediační dohodou už mohou jít rodiče k soudu?
 
@@ -64,7 +64,7 @@ Hodně se ptáme i na komunikaci s dětmi: „Jak jim to řeknete? Kdo jim to oz
 
 **Jan:** Nesoudíme, neradíme a nestraníme. Máme to vyloženě dané zákonem o mediaci, a pomáhá to i nám — víme přesně, kde jsou naše hranice.
 
-Rodiče se často ptají: „Jak byste to udělali vy? Co byste nám poradili?" A naše odpověď je: „Vy jste na experti na svůj život, vy znáte své děti nejlíp." **Vy teď potřebujete projít rozvodem tak, aby se vám i vašim dětem žilo co nejlépe.**
+Rodiče se často ptají: „Jak byste to udělali vy? Co byste nám poradili?" A naše odpověď je: „Vy jste experti na svůj život, vy znáte své děti nejlíp." **Vy teď potřebujete projít rozvodem tak, aby se vám i vašim dětem žilo co nejlépe.**
 
 Když potom rodiče přijdou s nějakým vlastním nápadem — „Já bych to udělal tak, a maminka by to zařídila jinak" — tak se chytáme a říkáme: „Super, máte nápady. Pojďme na nich pracovat, pojďme zjistit, jak by to v realitě mohlo fungovat." A tam už se rodí konkrétní řešení — jak bude vypadat předávání, co s babičkou a dědečkem, jak na kroužky.
 
@@ -94,6 +94,8 @@ Někteří klienti se ceny leknou. Ale ptáme se jich: „Kolik byste zaplatili 
 
 A hlavně — je potřeba si uvědomit, kolik rodič zaplatí za právníka nebo právničku u sporného rozvodu. Takové rozvody trvají mnoho měsíců, někdy i roky. A když se pak lidí zeptáte, kolik už za rozvod utratili, jen mávnou rukou. Radši ani vědět nechtějí, protože **jde o vysoké desetitisíce a může to být i víc**.
 
+> **Náš tip:** Podívejte se, jestli ve vašem okolí nenabízí nějaká sociální služba i bezplatnou mediaci. Pak se ptejte, jak rychle dostanete termín, kolik setkání můžete využít a kolik rodičů odchází na konci s dohodou.
+
 V Česku je trochu zvykem říct si: „Dám to právníkovi, nebudu se s tím zatěžovat, ten to druhému rodiči nandá." Ale tady přece nejde o výhru ve sporu — jde o nastavení nového fungování rodiny, o to, aby rodiče mohli začít nový život. Mediace může pomoct tomu, aby celý proces trval jen pár měsíců a **nedostal rodiče na dno ani finančně, ani psychicky**. A znovu bych připomněl, že méně konfliktů během a po rozvodu znamená zdravější a spokojenější děti.
 
 ### Když si rodiče řeknou, že do toho jdou, jak rychle mohou začít?
@@ -114,7 +116,7 @@ V Česku je trochu zvykem říct si: „Dám to právníkovi, nebudu se s tím z
 
 **Jan:** Ať to zkusí. Ať zajdou za mediátorem, zeptají se, jak to funguje, co od toho mohou čekat. Ať se nebojí slova „mediace" nebo „alternativní řešení sporu" — zní to možná cize, ale v Česku je mediace zákonná od roku 2012. Většina mediátorů jim ráda vysvětlí, co od procesu čekat.
 
-A hlavně: **ať první volba není hned právník.** U rozvodu nejde o výhru. Jde o to nastavit nový život tak, aby fungoval pro rodiče i pro děti. A žádný právník ani právnička nezařídí, a naopak mohou snadno konflikt eskalovat
+A hlavně: **ať první volba není hned právník.** U rozvodu nejde o výhru. Jde o to nastavit nový život tak, aby fungoval pro rodiče i pro děti. A to žádný právník ani právnička nezařídí, a naopak mohou snadno konflikt eskalovat.
 
 > **Náš tip:** Seznam zapsaných mediátorů najdete na stránkách [Ministerstva spravedlnosti](https://mediace.justice.cz/). Zapsaní mediátoři a mediátorky mají složené státní zkoušky a pracují podle zákona o mediaci. Ptejte se na zkušenosti s rodinnými spory.
 
