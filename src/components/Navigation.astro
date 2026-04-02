@@ -4,17 +4,129 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-16">
             <a href="/" class="text-xl font-bold text-primary">Dítě v rozvodu</a>
-            <div class="hidden md:flex space-x-8">
-                <a href="/potreby-deti" class="text-gray-700 hover:text-primary">Potřeby dětí</a>
-                <a href="/domluva-s-rodicem" class="text-gray-700 hover:text-primary">Domluva s druhým rodičem</a>
-                <a href="/ospod-a-soud" class="text-gray-700 hover:text-primary">OSPOD a soud</a>
-                <a href="/jak-pomoct-sobe" class="text-gray-700 hover:text-primary">Jak pomoct sobě</a>
-                <a href="/kontakt" class="text-gray-700 hover:text-primary">Kontakt</a>
+
+            <!-- Desktop Navigation -->
+            <div class="hidden md:flex items-center space-x-8">
+                <a href="/potreby-deti" class="text-gray-700 hover:text-primary transition">Potřeby dětí</a>
+                <a href="/domluva-s-rodicem" class="text-gray-700 hover:text-primary transition">Domluva s druhým rodičem</a>
+                <a href="/ospod-a-soud" class="text-gray-700 hover:text-primary transition">OSPOD a soud</a>
+                <a href="/jak-pomoct-sobe" class="text-gray-700 hover:text-primary transition">Jak pomoct sobě</a>
+                <a href="/kontakt" class="text-gray-700 hover:text-primary transition">Kontakt</a>
+                <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                    class="bg-accent text-white px-6 py-2 rounded-full font-semibold hover:bg-pink-600 transition whitespace-nowrap">
+                    Naučte se mluvit s dětmi
+                </a>
             </div>
-            <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
-                class="bg-accent text-white px-6 py-2 rounded-full font-semibold hover:bg-pink-600 transition">
-                Naučte se mluvit s dětmi
-            </a>
+
+            <!-- Mobile Hamburger Button -->
+            <button id="mobile-menu-btn" class="md:hidden flex flex-col justify-center items-center w-10 h-10 rounded-lg hover:bg-gray-100 transition" aria-label="Otevřít menu">
+                <span class="hamburger-line block w-6 h-0.5 bg-primary rounded transition-all duration-300"></span>
+                <span class="hamburger-line block w-6 h-0.5 bg-primary rounded transition-all duration-300 mt-1.5"></span>
+                <span class="hamburger-line block w-6 h-0.5 bg-primary rounded transition-all duration-300 mt-1.5"></span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Overlay + Panel -->
+    <div id="mobile-menu" class="mobile-menu md:hidden">
+        <div class="mobile-menu-overlay" id="mobile-menu-overlay"></div>
+        <div class="mobile-menu-panel">
+            <div class="px-4 py-6 space-y-1">
+                <a href="/potreby-deti" class="mobile-nav-link">Potřeby dětí</a>
+                <a href="/domluva-s-rodicem" class="mobile-nav-link">Domluva s druhým rodičem</a>
+                <a href="/ospod-a-soud" class="mobile-nav-link">OSPOD a soud</a>
+                <a href="/jak-pomoct-sobe" class="mobile-nav-link">Jak pomoct sobě</a>
+                <a href="/kontakt" class="mobile-nav-link">Kontakt</a>
+                <div class="pt-4 mt-4 border-t border-gray-200">
+                    <a href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                        class="block bg-accent text-white px-6 py-3 rounded-full font-semibold hover:bg-pink-600 transition text-center">
+                        Naučte se mluvit s dětmi
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </nav>
+
+<style>
+    .mobile-menu {
+        position: fixed;
+        top: 64px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 40;
+        pointer-events: none;
+        visibility: hidden;
+    }
+
+    .mobile-menu.is-open {
+        pointer-events: auto;
+        visibility: visible;
+    }
+
+    .mobile-menu-overlay {
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.3);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    .mobile-menu.is-open .mobile-menu-overlay {
+        opacity: 1;
+    }
+
+    .mobile-menu-panel {
+        position: relative;
+        background: white;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        transform: translateY(-100%);
+        transition: transform 0.3s ease;
+        max-height: calc(100vh - 64px);
+        overflow-y: auto;
+    }
+
+    .mobile-menu.is-open .mobile-menu-panel {
+        transform: translateY(0);
+    }
+
+    .mobile-nav-link {
+        display: block;
+        padding: 0.75rem 1rem;
+        color: #374151;
+        font-weight: 500;
+        border-radius: 0.5rem;
+        transition: background 0.2s, color 0.2s;
+    }
+
+    .mobile-nav-link:hover {
+        background: #f3f4f6;
+        color: var(--color-primary);
+    }
+
+    /* Hamburger animation */
+    .is-open-burger .hamburger-line:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+    .is-open-burger .hamburger-line:nth-child(2) {
+        opacity: 0;
+    }
+    .is-open-burger .hamburger-line:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+</style>
+
+<script>
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    const overlay = document.getElementById('mobile-menu-overlay');
+
+    function toggleMenu() {
+        menu?.classList.toggle('is-open');
+        btn?.classList.toggle('is-open-burger');
+    }
+
+    btn?.addEventListener('click', toggleMenu);
+    overlay?.addEventListener('click', toggleMenu);
+</script>

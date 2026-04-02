@@ -82,7 +82,7 @@ const otherArticles = allArticles
     <!-- Support Section -->
     <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
         <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
+            <h2 class="text-2xl md:text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
             <p class="text-xl mb-8">
                 V našem online kurzu <strong
                     >"Jak mluvit s dětmi o rozpadu rodiny"</strong
@@ -101,11 +101,17 @@ const otherArticles = allArticles
 <style is:global>
     /* Article content styling */
     .article-content h2 {
-        font-size: 1.875rem;
+        font-size: 1.5rem;
         font-weight: 700;
         color: var(--color-primary);
         margin-top: 2rem;
         margin-bottom: 1rem;
+    }
+
+    @media (min-width: 640px) {
+        .article-content h2 {
+            font-size: 1.875rem;
+        }
     }
 
     .article-content > h2:first-child {
@@ -126,11 +132,17 @@ const otherArticles = allArticles
     }
 
     .article-content p:first-of-type {
-        font-size: 1.35rem;
+        font-size: 1.15rem;
         line-height: 1.7;
         color: var(--color-primary);
         font-weight: 500;
         margin-bottom: 2.5rem;
+    }
+
+    @media (min-width: 640px) {
+        .article-content p:first-of-type {
+            font-size: 1.35rem;
+        }
     }
 
     .article-content ul {
