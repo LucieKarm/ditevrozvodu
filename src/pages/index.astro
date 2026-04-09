@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import LeadMagnet from "../components/LeadMagnet.astro";
 import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
 
@@ -278,30 +279,6 @@ const featuredArticles = latestArticles.slice(0, 4);
         </div>
     </section>
 
-    <!-- Newsletter -->
-    <section class="py-16 bg-gray-100">
-        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-2xl md:text-3xl font-bold text-primary mb-4">
-                Dostávejte tipy přímo do e-mailu
-            </h2>
-            <p class="text-gray-600 mb-8">
-                Čas od času vám pošleme pár tipů, aby se vám během rozvodu lépe
-                fungovalo.
-            </p>
-            <form class="flex flex-col sm:flex-row gap-4 max-w-xl mx-auto">
-                <input
-                    type="email"
-                    placeholder="Váš email"
-                    required
-                    class="flex-1 px-6 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent"
-                />
-                <button
-                    type="submit"
-                    class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition"
-                >
-                    Přihlásit se
-                </button>
-            </form>
-        </div>
-    </section>
+    <!-- Lead Magnet -->
+    <LeadMagnet variant="full" />
 </BaseLayout>

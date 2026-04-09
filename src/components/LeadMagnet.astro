@@ -1,0 +1,112 @@
+---
+interface Props {
+    variant?: 'full' | 'compact';
+}
+
+const { variant = 'full' } = Astro.props;
+---
+
+{variant === 'full' ? (
+    <section class="py-16 bg-gray-100" id="lead-magnet">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="bg-white rounded-2xl shadow-lg overflow-hidden">
+                <div class="bg-gradient-to-r from-primary to-accent p-6 md:p-8 text-white text-center">
+                    <p class="text-sm uppercase tracking-wider mb-2 opacity-90">Stáhněte si zdarma</p>
+                    <h2 class="text-2xl md:text-3xl font-bold mb-2">20 proseb dítěte</h2>
+                    <p class="opacity-90 text-base md:text-lg">
+                        Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají?
+                    </p>
+                </div>
+                <div class="p-6 md:p-8">
+                    <div class="mb-6 text-gray-600 text-center">
+                        <p class="mb-3">Text vám pomůže držet myslet na to, co od vás děti během rozvodu potřebují</p>
+                        <p class="text-sm text-gray-500">Zašleme vám PDF zdarma na e-mail. Můžete ho ukázat i druhému rodiči.</p>
+                    </div>
+                    <form id="lead-magnet-form" class="flex flex-col sm:flex-row gap-3 max-w-xl mx-auto" method="post" action="ECOMAIL_POST_URL_PLACEHOLDER">
+                        <input type="hidden" name="source" value="ditevrozvodu-lead-magnet" />
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="Váš e-mail"
+                            required
+                            class="flex-1 px-5 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent text-base"
+                        />
+                        <button
+                            type="submit"
+                            class="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-pink-600 transition whitespace-nowrap text-base"
+                        >
+                            Chci materiál zdarma
+                        </button>
+                    </form>
+                    <div id="lead-magnet-success" class="hidden text-center py-4">
+                        <div class="w-12 h-12 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto mb-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                            </svg>
+                        </div>
+                        <p class="text-lg font-semibold text-primary mb-1">Děkujeme!</p>
+                        <p class="text-gray-600">PDF vám přijde na e-mail během několika minut.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+) : (
+    <div class="bg-gradient-to-r from-primary/5 to-accent/5 rounded-xl p-6 md:p-8 my-8 border border-accent/10" id="lead-magnet-article">
+        <div class="text-center mb-4">
+            <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-1">Stáhněte si zdarma</p>
+            <h3 class="text-xl md:text-2xl font-bold text-primary mb-2">20 proseb dítěte</h3>
+            <p class="text-gray-600 text-sm">
+                Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají? PDF vám přijde na e-mail.
+            </p>
+        </div>
+        <form id="lead-magnet-form-compact" class="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto" method="post" action="ECOMAIL_POST_URL_PLACEHOLDER">
+            <input type="hidden" name="source" value="ditevrozvodu-article" />
+            <input
+                type="email"
+                name="email"
+                placeholder="Váš e-mail"
+                required
+                class="flex-1 px-5 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent text-sm"
+            />
+            <button
+                type="submit"
+                class="bg-accent text-white px-6 py-3 rounded-full font-semibold hover:bg-pink-600 transition whitespace-nowrap text-sm"
+            >
+                Chci materiál
+            </button>
+        </form>
+        <div id="lead-magnet-success-compact" class="hidden text-center py-3">
+            <p class="text-base font-semibold text-primary mb-1">Děkujeme!</p>
+            <p class="text-gray-600 text-sm">PDF vám přijde na e-mail během několika minut.</p>
+        </div>
+    </div>
+)}
+
+<script>
+    function setupLeadForm(formId: string, successId: string) {
+        const form = document.getElementById(formId) as HTMLFormElement | null;
+        const success = document.getElementById(successId);
+
+        form?.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const formData = new FormData(form);
+
+            fetch(form.action, {
+                method: 'POST',
+                body: formData,
+            })
+            .then(() => {
+                form.style.display = 'none';
+                success?.classList.remove('hidden');
+            })
+            .catch(() => {
+                form.style.display = 'none';
+                success?.classList.remove('hidden');
+            });
+        });
+    }
+
+    setupLeadForm('lead-magnet-form', 'lead-magnet-success');
+    setupLeadForm('lead-magnet-form-compact', 'lead-magnet-success-compact');
+</script>
