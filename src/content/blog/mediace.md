@@ -2,7 +2,7 @@
 title: "Mediace jako cesta k dohodě: Zvažte to!"
 description: "Sedm z deseti párů odchází od mediátora s dohodou. Jak mediace funguje, kolik stojí a proč začít co nejdřív?"
 category: "Domluva s druhým rodičem"
-image: "/images/mediace.png"
+image: "/images/kabat.png"
 published: true
 ---
 
