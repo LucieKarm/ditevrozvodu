@@ -14,20 +14,16 @@ const { variant = 'full' } = Astro.props;
                     <p class="text-sm uppercase tracking-wider mb-2 opacity-90">Stáhněte si zdarma</p>
                     <h2 class="text-2xl md:text-3xl font-bold mb-2">20 proseb dítěte</h2>
                     <p class="opacity-90 text-base md:text-lg">
-                        Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají?
+                        Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají? Zašleme vám PDF, které můžete ukázat i druhému rodiči.
                     </p>
                 </div>
                 <div class="p-6 md:p-8">
-                    <div class="mb-6 text-gray-600 text-center">
-                        <p class="mb-3">Text vám pomůže držet myslet na to, co od vás děti během rozvodu potřebují</p>
-                        <p class="text-sm text-gray-500">Zašleme vám PDF zdarma na e-mail. Můžete ho ukázat i druhému rodiči.</p>
-                    </div>
                     <form id="lead-magnet-form" class="flex flex-col sm:flex-row gap-3 max-w-xl mx-auto" method="post" action="ECOMAIL_POST_URL_PLACEHOLDER">
                         <input type="hidden" name="source" value="ditevrozvodu-lead-magnet" />
                         <input
                             type="email"
                             name="email"
-                            placeholder="Váš e-mail"
+                            placeholder="Na jaký e-mail vám mám PDF poslat?"
                             required
                             class="flex-1 px-5 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent text-base"
                         />
