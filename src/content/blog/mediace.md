@@ -2,7 +2,7 @@
 title: "Mediace jako cesta k dohodě: Zvažte to!"
 description: "Sedm z deseti párů odchází od mediátora s dohodou. Jak mediace funguje, kolik stojí a proč začít co nejdřív?"
 category: "Domluva s druhým rodičem"
-image: "/images/kabat.png"
+image: "/images/mediace.png"
 published: true
 ---
 
@@ -110,7 +110,7 @@ V Česku je trochu zvykem říct si: „Dám to právníkovi, nebudu se s tím z
 
 Šance naopak snižují příliš silné pozice, kdy se jeden nebo oba z rodičů rozhodnou, že přes něco prostě nejede vlak. Pak je ale potřeba si uvědomit, jak dlouho ve sporu budou žít jejich děti a ne jestli, ale jak velkou daň si na nich konflikt rodičů vybere.
 
-![Jan Kabát, mediátor z ADRC v Brně](/images/adrc.jpg)
+![Jan Kabát, mediátor z ADRC v Brně](/images/kabat.jpg)
 
 ### Co byste vzkázal rodičům, kteří váhají?
 
