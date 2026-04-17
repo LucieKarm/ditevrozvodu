@@ -16,13 +16,13 @@ Když padne slovo rozvod, spousta rodičů může dostat pocit, že si musí ihn
 
 Rodiče na začátku rozvodu typicky zažívají obrovskou nejistotu. Dosud žili společně a na situace reagovali za pochodu. Teď zjišťují, že možná nebudou mít úplný přehled o každodenním životě svých dětí. Do hry vstupuje strach, podezřívavost i obavy z budoucnosti.
 
-**Petra:** „Nejčastěji slyším: ‚On se chce mstít skrz dítě. Kupuje si ho. Nikdy se nestaral a najednou dělá otce roku.' Anebo naopak ‚Ona dětmi manipuluje a štve je proti mně. Bojím se, že je ztratím.'"
+**Petra:** „Nejčastěji slyším: On se chce mstít skrz dítě. Kupuje si ho. Nikdy se nestaral a najednou dělá otce roku. Anebo naopak: Ona dětmi manipuluje a štve je proti mně. Bojím se, že je ztratím."
 
 **Tereza:** „Tím společným jmenovatelem je strach ze ztráty kontroly. Nad celou situací, nad výchovou dětí, nad tím, co říká nebo dělá druhý rodič. Je to úplně pochopitelné."
 
 ## Základní rámec ano. Ale nemusíte vymýšlet rok 2030.
 
-Někdy pak rodiče mají tendenci chtít dopředu domyslet úplně všechno: každý svátek, každou středu, každý kroužek. Vzniká z toho vyčerpávající kolotoč vyjednávání s jistotou, že jste stejně něco nedomysleli. Nebo naopak může představa toho dlouhého seznamu k vyřešení způsobit, že se nedomluví vůbec nic a nepohnou se z místa dlouhé měsíce.
+Někdy pak rodiče mají tendenci chtít dopředu domyslet úplně všechno: každý svátek, každou středu, každý kroužek. Vzniká z toho vyčerpávající kolotoč vyjednávání s jistotou, že jste stejně něco nedomysleli. Nebo naopak může představa toho dlouhého seznamu k vyřešení způsobit, že nedomluvíte vůbec nic a nepohnete se z místa dlouhé měsíce.
 
 **Petra:** „Čím víc nad uspořádáním přemýšlíte, tím víc se můžete zasekávat. Zvažujete všechny varianty, přidáváte výjimky a podmínky a reálně se nic neděje. Naopak, když si na začátku domluvíte jen to nejnutnější, máte se od čeho odrazit."
 
@@ -40,15 +40,17 @@ Co může pár týdnů počkat?
 - Konkrétní rozvrhy pro jednotlivé dny
 - Řešení situací, které ještě nenastaly
 
+Podle toho, co se vám osvědčí, můžete do dohody přidat postupně další pravidla.
+
 > **Náš tip:** Představte si dohodu jako základ domu. Potřebujete pevné zdi a střechu, ale nemusíte hned vybírat barvu záclon v ložnici. Některé věci se ukážou až při bydlení.
 
 ## Když ale potřebujete víc detailů, je to taky v pořádku!
 
 Výše popsaný přístup může fungovat pro většinu rodin. Pro některé rodiče je naopak důležité domluvit se podrobněji nebo dokonce co nejpodrobněji. Klíčem je uvědomit si, **proč** potřebujete dohodu, ve které máte péči zorganizovanou po minutách.
 
-**Tereza:** „Vybavuji si rodiny, kde bylo strašně důležité nastavit úplně všechno. Co se stane, když je dítě nemocné. Kdo informuje koho o čem a kdy. Jak se bude postupovat, když chybí školní pomůcky. Rodiče potřebovali jistotu, že je to někde sepsané a že se v každé situaci, která může nastat, mají o co opřít. A pomohlo jim to."
+**Tereza:** „Vybavuji si rodiny, kde bylo strašně důležité nastavit úplně všechno. Co se stane, když je dítě nemocné. Kdo informuje koho o čem a kdy. Jak se bude postupovat, když chybí školní pomůcky. Rodiče potřebovali jistotu, že je všechno někde sepsané a že se v každé situaci, která může nastat, mají o co opřít. A pomohlo jim to."
 
-Proto doporučujeme, abyste si zkusili **pojmenovat své konkrétní obavy**. „Bojím se, že když bude dítě nemocné, nedozvím se to." Nebo možná „Slavit Štědrý den právě 24. 12. je pro mne důležité a bojím se, jak se mi ten den bude bez dětí stýskat." Dost možná při rozhovoru s druhým rodičem zjistíte, že na konkrétní strach se dá najít konkrétní řešení.
+Proto doporučujeme, abyste si zkusili **pojmenovat své konkrétní obavy**. Mám strach, že když bude dítě nemocné, nedozvím se to." Nebo možná „Slavit Štědrý den právě 24. 12. je pro mne důležité a bojím se, jak se mi ten den bude bez dětí stýskat." Dost možná při rozhovoru s druhým rodičem zjistíte, že na konkrétní strach se dá najít konkrétní řešení.
 
 Podrobná dohoda také neznamená, že si nedůvěřujete. Znamená, že oba víte, co čekat, a nemusíte pokaždé znovu vyjednávat. 
 
@@ -73,6 +75,8 @@ A přitom platí důležitá věc: **domluva rodičů vždy stojí nad rozhodnut
 > **Důležité:** Připomínejte dětem, že si mohou říct, když jim něco přestane vyhovovat. Ne formou „tak si vyber, u koho budeš", to je nesnesitelný tlak. Ale klidně a jasně: „Takhle to máme teď. Časem se to může měnit. Když budeš potřebovat něco jinak, můžeš nám to říct a společně to probereme."
 
 ## Jedna jediná rada do začátku
+
+Jakou jednu věc by Petra, Mariana a Tereza doporučily rodičům pro zvládnutí všech nejistot, které k vyjednávání o péči o děti patří?
 
 **Petra:** „Pracujte se svými obavami a strachem, vyhledejte pomoc. Nejistota, úzkost a mnoho dalších negativních pocitů k rozvodu patří a mohou být paralyzující. Je možné tyhle pocity zpracovat tak, aby vám nebránily, nebo aspoň ne příliš, v další domluvě a běžném fungování."
 

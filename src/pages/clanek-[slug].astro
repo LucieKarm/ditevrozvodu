@@ -60,7 +60,7 @@ const otherArticles = allArticles
     </div>
 
     <!-- Lead Magnet (Compact) -->
-    <section class="bg-white pb-8">
+    <section class="bg-white pt-4 pb-12">
         <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
             <LeadMagnet variant="compact" />
         </div>
@@ -181,9 +181,9 @@ const otherArticles = allArticles
     }
 
     .article-content blockquote {
-        padding: 1.25rem 1.5rem;
+        padding: 1rem 1.5rem 0.9rem 1.5rem;
         border-radius: 0.5rem;
-        margin: 2rem 0;
+        margin: 2.25rem 0;
         font-size: 1.05rem;
         font-weight: 500;
         line-height: 1.6;
@@ -197,8 +197,12 @@ const otherArticles = allArticles
     }
 
     .article-content blockquote p {
-        margin-bottom: 0;
+        margin-bottom: 1rem;
         color: var(--color-primary);
+    }
+
+    .article-content blockquote *:last-child {
+        margin-bottom: 0 !important;
     }
 
     .article-content blockquote strong {
