@@ -16,4 +16,57 @@
         font-family: var(--font-lexend);
         @apply bg-gray-50;
     }
+
+    /* Global Blockquote (Info Box) Styles */
+    blockquote {
+        padding: 1rem 1.5rem 0.9rem 1.5rem;
+        border-radius: 0.5rem;
+        margin: 2.25rem 0;
+        font-size: 1.05rem;
+        font-weight: 500;
+        line-height: 1.6;
+        border-left: 4px solid var(--color-accent);
+        background: linear-gradient(
+            135deg,
+            color-mix(in srgb, var(--color-accent) 15%, white) 0%,
+            color-mix(in srgb, var(--color-primary) 10%, white) 100%
+        );
+        color: var(--color-primary);
+    }
+
+    blockquote p {
+        margin-bottom: 1rem;
+        color: inherit !important;
+    }
+
+    blockquote *:last-child {
+        margin-bottom: 0 !important;
+    }
+
+    blockquote strong {
+        font-weight: 700;
+        color: var(--color-accent);
+    }
+
+    /* Specialized Blockquote Colors */
+    blockquote.blockquote-warning {
+        border-left-color: #d35400;
+    }
+    blockquote.blockquote-warning strong {
+        color: #d35400 !important;
+    }
+
+    blockquote.blockquote-important {
+        border-left-color: var(--color-light-blue);
+    }
+    blockquote.blockquote-important strong {
+        color: #1a8ab5 !important;
+    }
+
+    blockquote.blockquote-tip {
+        border-left-color: #27ae60;
+    }
+    blockquote.blockquote-tip strong {
+        color: #1e8449 !important;
+    }
 }

@@ -45,6 +45,26 @@ const {
 		<Navigation />
 		<slot />
 		<Footer />
+
+		<script>
+			// Global blockquote styling logic
+			function styleBlockquotes() {
+				document.querySelectorAll('blockquote').forEach((bq) => {
+					const text = bq.textContent?.trim() || '';
+					if (text.startsWith('Varovné signály:')) {
+						bq.classList.add('blockquote-warning');
+					} else if (text.startsWith('Náš tip:') || text.startsWith('Důležité:') || text.startsWith('Klíčové:')) {
+						bq.classList.add('blockquote-tip');
+					}
+				});
+			}
+
+			// Run on initial load
+			styleBlockquotes();
+
+			// Run after view transitions (if using Astro View Transitions)
+			document.addEventListener('astro:after-swap', styleBlockquotes);
+		</script>
 	</body>
 </html>
 
