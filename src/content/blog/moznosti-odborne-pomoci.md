@@ -4,6 +4,7 @@ description: "Rozvod je často příliš těžký na to, abyste ho zvládali sam
 category: "Jak pomoct sobě"
 image: "/images/moznosti-odborne-pomoci.png"
 published: true
+pubDate: '2026-03-25'
 ---
 
 Rozvod nebo rozchod je situace, která zasahuje do všech oblastí života – od péče o děti až po finance a bydlení. Dost možná se teď cítíte ztracení a zahlcení, nevíte, co řešit teď a co potom. To je normální, rozvod prostě nebývá procházka růžovou zahradou. Dobrá zpráva je, že **existuje celá síť pomoci**, kterou můžete využít. Pojďme se podívat na to, co od koho očekávat.

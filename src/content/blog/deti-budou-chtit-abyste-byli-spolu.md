@@ -4,6 +4,7 @@ description: "Je přirozené, že děti touží po úplné rodině. Jak reagovat
 category: "Potřeby dětí"
 image: "/images/deti-budou-chtit-abyste-byli-spolu.png"
 published: true
+pubDate: '2026-03-10'
 ---
 
 ## Proč děti chtějí, se k sobě vrátili

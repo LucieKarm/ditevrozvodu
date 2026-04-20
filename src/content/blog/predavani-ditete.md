@@ -4,6 +4,7 @@ description: "Existují způsoby, jak z nejnapjatějších momentů po rozchodu 
 category: "Domluva s druhým rodičem"
 image: "/images/predavani-deti.png"
 published: true
+pubDate: '2026-04-05'
 ---
 
 ## Proč je předávání tak těžké

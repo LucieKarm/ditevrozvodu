@@ -4,6 +4,7 @@ description: "S rozchodem přichází spousta změn v organizaci a logistice fun
 category: "Domluva s druhým rodičem"
 image: "/images/rodicovsky-plan.png"
 published: true
+pubDate: '2026-02-25'
 ---
 
 ## Co je rodičovský plán

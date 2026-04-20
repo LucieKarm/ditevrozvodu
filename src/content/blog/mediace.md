@@ -4,6 +4,7 @@ description: "Sedm z deseti párů odchází od mediátora s dohodou. Jak mediac
 category: "Domluva s druhým rodičem"
 image: "/images/mediace.png"
 published: true
+pubDate: '2026-04-10'
 ---
 
 Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z ADRC (Alternative Dispute Resolution Center) v Brně.

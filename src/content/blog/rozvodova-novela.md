@@ -4,6 +4,7 @@ description: "Od 1. ledna 2026 platí takzvaná rozvodová novela, která zásad
 category: "OSPOD a soud"
 image: "/images/rozvodova-novela.png"
 published: true
+pubDate: '2026-03-05'
 ---
 
 ## O co jde

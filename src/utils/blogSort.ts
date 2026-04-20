@@ -24,8 +24,11 @@ export function sortBlogNewestFirst(entries: CollectionEntry<"blog">[]) {
         const aMs = parseDateMs(a.data.pubDate) ?? entryFileMtimeMs(a) ?? 0;
         const bMs = parseDateMs(b.data.pubDate) ?? entryFileMtimeMs(b) ?? 0;
 
+        // If dates are different, sort by date (newest first)
         if (bMs !== aMs) return bMs - aMs;
-        return b.slug.localeCompare(a.slug);
+        
+        // Fallback to title or slug for stable sorting if dates are identical
+        return b.data.title.localeCompare(a.data.title);
     });
 }
 

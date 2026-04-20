@@ -4,6 +4,7 @@ description: "Otázky, které vám pomohou zastavit se a zamyslet se, jak děti 
 category: "Potřeby dětí"
 image: "/images/jak-se-dari-nasim-detem.png"
 published: true
+pubDate: '2026-03-20'
 ---
 
 Uprostřed rozvodu řešíte tolik věcí najednou: bydlení, peníze, právníky, komunikaci s druhým rodičem. Je snadné přehlédnout, co se děje přímo před vámi. **Jak se teď vlastně daří vašim dětem?**

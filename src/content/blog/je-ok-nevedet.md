@@ -4,6 +4,7 @@ description: "Proč je lepší začít jednoduše a zkoušet za provozu, co vlas
 category: "Domluva s druhým rodičem"
 image: "/images/Rodičovský plán.png"
 published: true
+pubDate: '2026-04-20'
 ---
 
 Když padne slovo rozvod, spousta rodičů může dostat pocit, že si musí ihned sednout a vymyslet, jak bude jejich rodina fungovat po příštích deset let. Kdo bude mít děti přes Vánoce za tři roky? Kdo je odveze na letní tábor napřesrok? Povídaly jsme si o tom s kolegyněmi z Krizové pomoci SPONDEA: vedoucí **Petrou Dolečkovou**, dětskou psycholožkou **Marianou Šimíkovou** a sociální pracovnicí **Terezou Timkovou**.

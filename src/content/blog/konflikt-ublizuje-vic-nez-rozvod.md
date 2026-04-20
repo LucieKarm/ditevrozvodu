@@ -4,6 +4,7 @@ description: "Rozvod je pro děti hluboce náročný zážitek. Ale větší šk
 category: "Potřeby dětí"
 image: "/images/konflikt-ublizuje-vic-nez-rozvod.png"
 published: true
+pubDate: '2026-02-20'
 ---
 
 ## Rozvod nemusí být katastrofa

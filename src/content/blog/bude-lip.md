@@ -4,6 +4,7 @@ description: "Je normální cítit zoufalství. Víme, že je toho teď hodně. 
 category: "Jak pomoct sobě"
 image: "/images/bude-lip.png"
 published: true
+pubDate: '2026-03-15'
 ---
 
 Možná právě teď prožíváte období, kdy se vám všechno hroutí pod rukama. Nic není tak, jak mělo být, a vy netušíte, jestli to někdy bude jiné. Chtěli bychom vám říct, že ano – velmi pravděpodobně to bude za pár měsíců lepší. A máte to z velké části ve svých rukou.

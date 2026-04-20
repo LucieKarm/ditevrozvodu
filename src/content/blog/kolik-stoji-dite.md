@@ -4,6 +4,7 @@ description: "Kvůli výživnému se rodiče často hádají. S čísly v ruce s
 category: "OSPOD a soud"
 image: "/images/kolik-stoji-dite.png"
 published: true
+pubDate: '2026-04-15'
 ---
 
 Peníze bývají při rozvodu velkým tématem a s druhým rodičem se nyní **potřebujete domluvit na výživném**. Pokud nevyděláváte oba stejně, nebudete ani platit stejné výživné, ale nějaký poměr nákladů podle toho, kolik kdo vydělává a jaké jsou potřeby vašich dětí. 

@@ -4,6 +4,7 @@ description: "Má vůbec smysl dětem něco říkat, když sami ještě nevíte,
 category: "Potřeby dětí"
 image: "/images/deti-vzdy-vedi.png"
 published: true
+pubDate: '2026-03-01'
 ---
 
 ## Proč děti vědí víc, než si myslíte
