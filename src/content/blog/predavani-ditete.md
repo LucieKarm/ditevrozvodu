@@ -96,3 +96,7 @@ Pokud je něco skutečně potřeba řešit – třeba opakovaně chybějící l�
 Předávání dítěte se časem stane rutinou. Prvních pár týdnů a měsíců může být náročných pro vás i pro děti. Ale čím víc klidu a předvídatelnosti do toho dokážete vnést, tím rychleji si všichni zvyknete.
 
 Nepotřebujete být s druhým rodičem přátelé. Potřebujete ale najít způsob, jak ten jeden moment – chvíli předávání – zvládnout v klidu. 
+
+---
+
+*Předávání bez stresu je obrovský dar pro vaše dítě. Chcete vědět, jak dítě připravit na střídání domovů a jak reagovat, když pláče při loučení? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) najdete praktické návody pro nejčastější situace.*

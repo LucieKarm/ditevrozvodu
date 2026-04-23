@@ -112,3 +112,7 @@ Všechny pocity, které nyní zažíváte, mají své místo. I strach, i vztek,
 ---
 
 *Petra Dolečková je vedoucí týmu Krizové pomoci ve SPONDEA, z.ú. v Brně. S rodiči v krizi pracuje řadu let.*
+
+---
+
+*Starat se o sebe je první krok k tomu, abyste mohli být oporou svým dětem. V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vám ukážeme, jak s dětmi mluvit o tom, co se děje, a jak jim pomoci projít tímto obdobím s pocitem jistoty.*

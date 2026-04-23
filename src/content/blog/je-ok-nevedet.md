@@ -86,3 +86,7 @@ Jakou jednu věc by Petra, Mariana a Tereza doporučily rodičům pro zvládnut�
 **Mariana:** „A buďte opatrní s nasloucháním příběhům lidí, kteří si sami prošli rozvodem. Dobré příběhy se moc nesdílejí. Většinou uslyšíte ty hrozné a velmi snadno si je vztáhnete na sebe. Myslete na to, že **příběh svého rozvodu tvoříte vy dva**. Nikdo jiný. Ne kamarádka, ne kolega z práce, ne vaši rodiče. Každým dalším krokem a rozhodnutím se rozhodujete, kam svůj příběh posunete."
 
 > **Náš tip:** Pokud máte obavy, se kterými si nevíte rady, neváhejte se obrátit na krizovou pomoc, vyhledat psychoterapii nebo manželskou a rodinnou poradnu. Nemusíte přijít jako pár. Dopřejte si prostor, kde si urovnáte vlastní myšlenky a získáte trochu nadhled.
+
+---
+
+*Začít jednoduše a zkoušet za provozu je skvělý přístup. V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) se naučíte, jak dětem vysvětlit, že se věci mění, a jak jim dát pocit stability i uprostřed nejistoty.*

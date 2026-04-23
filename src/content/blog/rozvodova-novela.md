@@ -81,3 +81,6 @@ Soudci a soudkyně zdůraznili, že potřeby dítěte se mění s věkem. Proto 
 **Buďte konkrétní.** Připravte si rodičovský plán, ve kterém popíšete, jak si představujete péči. Soud ocení, když přijdete připravení.
 
 **Využijte odbornou pomoc.** Pokud se nedokážete domluvit sami, existuje mediace, manželská a rodinná poradna, OSPOD a další služby.
+---
+
+*Nové zákony mění pravidla. Ale vaše děti potřebují především vás — rodiče, kteří umí mluvit o změnách klidně a srozumitelně. V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) se naučíte, jak dětem vysvětlit novou situaci tak, aby se cítily v bezpečí.*

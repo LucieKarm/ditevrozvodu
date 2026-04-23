@@ -84,3 +84,7 @@ Aby vaše spolupráce fungovala a někam jste se posouvali, je potřeba chodit n
 
 ## Rozvod je maraton, ne sprint
 Je v pořádku říct si o pomoc. Často právě včasná konzultace s odborníkem nebo odbornicí ušetří měsíce konfliktů a trápení vám i vašim dětem.
+
+---
+
+*Vyhledat odbornou pomoc je skvělý krok. A jeden z dalších kroků může být online kurz [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) — praktický průvodce komunikací s dětmi v době rozvodu, který můžete projít vlastním tempem z domova.*

@@ -122,3 +122,7 @@ A hlavně: **ať první volba není hned právník.** U rozvodu nejde o výhru. 
 > **Náš tip:** Seznam zapsaných mediátorů najdete na stránkách [Ministerstva spravedlnosti](https://mediace.justice.cz/). Zapsaní mediátoři a mediátorky mají složené státní zkoušky a pracují podle zákona o mediaci. Ptejte se na zkušenosti s rodinnými spory.
 
 > **O ADRC:** [ADRC](https://www.adrc.cz/) (Alternative Dispute Resolution Center) je specializované centrum pro mimosoudní řešení sporů se sídlem v Brně. Založili ho v roce 2019 mediátorka Mgr. Martina Dohnalová (advokátka a zapsaná mediátorka) a PhDr. Bc. Jan Kabát, MBA (expert na komunikaci a řešení konfliktů). ADRC nabízí rodinnou mediaci osobně i online.
+
+---
+
+*Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu dohodu — a celou novou situaci — srozumitelně předat dětem? Online kurz [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vás naučí mluvit s dětmi o změnách, které přicházejí.*

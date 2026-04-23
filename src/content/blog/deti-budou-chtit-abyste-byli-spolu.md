@@ -64,3 +64,7 @@ Nemůžete teď dětem dopřát úplnou rodinu, takhle to prostě je. Ale může
 Děti potřebují zažívat, že je oba milujete a že se o ně oba postaráte. Každá upřímná a klidná odpověď, každé vyslechnuté trápení, každý klidný večer jsou kroky správným směrem.
 
 
+
+---
+
+*Přání „vraťte se k sobě" je pro děti přirozené. Jak na něj reagovat, aby dítě pochopilo situaci a přitom se cítilo v bezpečí? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) se naučíte, jak vést tyto citlivé rozhovory s dětmi různého věku.*

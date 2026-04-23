@@ -83,3 +83,7 @@ Chápeme, že strávit několik večerů procházením bankovních výpisů nezn
 ## Na závěr
 
 Finance při rozvodu jsou citlivé téma. Když k nim přistoupíte věcně, s tužkou v ruce a bankovními výpisy na stole, ubere to hodně napětí. Nejde o to, kdo víc vydělává nebo kdo víc utrácí. **Jde o to, aby vaše dítě mělo to, co potřebuje a na co je zvyklé** — a abyste se na tom dokázali férově domluvit.
+
+---
+
+*Finance jsou důležité, ale dítě potřebuje víc než peníze — potřebuje vědět, že je v bezpečí a že ho oba rodiče mají rádi. Jak s ním o změnách v rodině mluvit? To se naučíte v online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi).*

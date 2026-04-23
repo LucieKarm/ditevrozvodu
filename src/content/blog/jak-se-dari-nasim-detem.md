@@ -94,3 +94,6 @@ Bylo by skvělé projít si tento článek i s druhým rodičem. Klidně mu ho p
 ## Na závěr
 
 Tento seznam si můžete kdykoli znovu projít, klidně za měsíc nebo po nějaké větší změně ve vaší rodině. Děti i jejich prožívání se vyvíjejí, situace se mění a to, co platilo minulý měsíc, nemusí platit dnes. Anebo ho ani nemusíte znovu číst. Stačí jen někde na pozadí vašeho jednání a rozhodování vnímat, jakým jednáním svým jednáním dětem pomáháte, a jakým ne.
+---
+
+*Zastavit se a zeptat se sami sebe, jak se dětem daří, je důležitý první krok. V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vám pomůžeme porozumět signálům, které děti vysílají, a naučíme vás, jak na ně prakticky reagovat.*

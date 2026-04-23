@@ -86,3 +86,7 @@ Připravili jsme pro vás tři šablony rodičovského plánu, které vám mohou
 ## Na závěr
 
 Rodičovský plán je to investice do klidu vaší rodiny. Každá dohoda, kterou uzavřete předem, znamená méně nedorozumění a konfliktů v budoucnu. A tím zase míříme k tomu, že klidnější provoz vás dospělých znamená klidnější a bezpečnější dětství pro vaše děti.
+
+---
+
+*Rodičovský plán je základ nového fungování vaší rodiny. Ale jak ho vysvětlit dětem? A jak reagovat, když se děti bouří proti novým pravidlům? Online kurz [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vás provede tím, jak změny komunikovat srozumitelně a bezpečně.*

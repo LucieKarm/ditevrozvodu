@@ -86,3 +86,7 @@ Tohle je možná nejdůležitější zpráva.
 **Děti se dokážou přizpůsobit a dokážou si na nové poměry zvyknout.** Ale potřebují k tomu vaši pomoc. Potřebují informace, podporu a jistotu, že v tom nejsou samy.
 
 *„Nenechávejte je v tom samotné,“* uzavírá Michaela. 
+
+---
+
+*Vaše děti už vědí, že se něco děje. Jak jim to říct tak, aby se cítily v bezpečí? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) najdete konkrétní věty a příklady rozhovorů podle věku dítěte — pro batolata, školáky i dospívající.*
