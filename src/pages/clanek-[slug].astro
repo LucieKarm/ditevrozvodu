@@ -59,10 +59,65 @@ const otherArticles = allArticles
         </section>
     </div>
 
-    <!-- Lead Magnet (Compact) -->
-    <section class="bg-white pt-4 pb-12">
-        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-            <LeadMagnet variant="compact" />
+    <!-- Combined Action Zone -->
+    <section class="bg-gradient-to-br from-primary via-[#3a3e8a] to-accent py-16">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 gap-8 items-start">
+
+                <!-- Left: Lead Magnet -->
+                <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-8 text-white">
+                    <p class="text-accent/80 font-semibold text-sm uppercase tracking-wider mb-2">Stáhněte si zdarma</p>
+                    <h3 class="text-2xl font-bold mb-3">20 proseb dítěte</h3>
+                    <p class="text-white/80 mb-6 text-sm leading-relaxed">
+                        Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají? PDF vám přijde na e-mail.
+                    </p>
+                    <form
+                        class="flex flex-col gap-3"
+                        action="https://spondea.ecomailapp.cz/public/subscribe/3/b6fcc542fb021c84fdaff536dd0a74a1"
+                        method="post"
+                        id="article-lead-magnet-form"
+                    >
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="Kam vám máme text poslat?"
+                            required
+                            class="w-full px-4 py-3 rounded-full bg-white/20 border border-white/30 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-white/50 text-sm"
+                        />
+                        <button
+                            type="submit"
+                            class="w-full bg-white text-primary px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition text-sm"
+                        >
+                            Posílejte!
+                        </button>
+                    </form>
+                    <div id="article-lead-magnet-success" class="hidden text-center py-3">
+                        <p class="text-white font-semibold">✓ Díky! PDF vám dorazí na e-mail.</p>
+                    </div>
+                </div>
+
+                <!-- Right: Course CTA -->
+                <div class="flex flex-col justify-center text-white text-center md:text-left">
+                    <h3 class="text-2xl font-bold mb-4">Chcete se dozvědět víc?</h3>
+                    {entry.data.ctaText && (
+                        <p class="text-white/85 text-base leading-relaxed mb-6">
+                            {entry.data.ctaText}
+                        </p>
+                    )}
+                    {!entry.data.ctaText && (
+                        <p class="text-white/85 text-base leading-relaxed mb-6">
+                            V online kurzu <strong class="text-white">"Jak mluvit s dětmi o rozpadu rodiny"</strong> se naučíte, jak s dětmi mluvit o změnách v rodině — srozumitelně, s respektem a podle jejich věku.
+                        </p>
+                    )}
+                    <a
+                        href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                        class="inline-block bg-white text-primary px-8 py-3.5 rounded-full font-bold hover:bg-gray-100 transition self-center md:self-start"
+                    >
+                        Zjistit více o kurzu
+                    </a>
+                </div>
+
+            </div>
         </div>
     </section>
 
@@ -84,24 +139,6 @@ const otherArticles = allArticles
                     ))
                 }
             </div>
-        </div>
-    </section>
-
-    <!-- Support Section -->
-    <section class="bg-gradient-to-r from-primary to-accent text-white py-20">
-        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-2xl md:text-4xl font-bold mb-6">Chcete se dozvědět víc?</h2>
-            <p class="text-xl mb-8">
-                V našem online kurzu <strong
-                    >"Jak mluvit s dětmi o rozpadu rodiny"</strong
-                > se naučíte:
-            </p>
-            <a
-                href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
-                class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition"
-            >
-                Zjistit více o kurzu
-            </a>
         </div>
     </section>
 </BaseLayout>

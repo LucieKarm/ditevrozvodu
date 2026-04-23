@@ -5,6 +5,7 @@ category: "Potřeby dětí"
 image: "/images/konflikt-ublizuje-vic-nez-rozvod.png"
 published: true
 pubDate: '2026-02-20'
+ctaText: "Konflikt mezi rodiči je to, co dětem ubližuje nejvíc. Ale jak přesně snížit napětí v každodenní komunikaci s druhým rodičem? V online kurzu vám ukážeme konkrétní techniky, jak z konfliktu vystoupit — krok za krokem."
 ---
 
 ## Rozvod nemusí být katastrofa
@@ -48,6 +49,3 @@ Rozvodem začíná nová etapa vašeho rodičovství. Nemusíte se mít s druhý
 Víme, že je to teď těžké. Máte toho spoustu k řešení a přemýšlení a rozdýchávání, a do toho ještě další nárok. A pravděpodobně nepůjde všechno hned. **Ale jedna každá domluva s druhým rodičem, která se vám povede, znamená větší klid a bezpečí pro vaše děti.**
 
 
----
-
-*Konflikt mezi rodiči je to, co dětem ubližuje nejvíc. Ale jak přesně snížit napětí v každodenní komunikaci s druhým rodičem? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vám ukážeme konkrétní techniky, jak z konfliktu vystoupit — krok za krokem.*

@@ -5,6 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/predavani-deti.png"
 published: true
 pubDate: '2026-04-05'
+ctaText: "Předávání bez stresu je obrovský dar pro vaše dítě. Chcete vědět, jak dítě připravit na střídání domovů a jak reagovat, když pláče při loučení? V online kurzu najdete praktické návody pro nejčastější situace."
 ---
 
 ## Proč je předávání tak těžké
@@ -97,6 +98,3 @@ Předávání dítěte se časem stane rutinou. Prvních pár týdnů a měsíc�
 
 Nepotřebujete být s druhým rodičem přátelé. Potřebujete ale najít způsob, jak ten jeden moment – chvíli předávání – zvládnout v klidu. 
 
----
-
-*Předávání bez stresu je obrovský dar pro vaše dítě. Chcete vědět, jak dítě připravit na střídání domovů a jak reagovat, když pláče při loučení? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) najdete praktické návody pro nejčastější situace.*

@@ -5,6 +5,7 @@ category: "Jak pomoct sobě"
 image: "/images/bude-lip.png"
 published: true
 pubDate: '2026-03-15'
+ctaText: "Starat se o sebe je první krok k tomu, abyste mohli být oporou svým dětem. V online kurzu vám ukážeme, jak s dětmi mluvit o tom, co se děje, a jak jim pomoci projít tímto obdobím s pocitem jistoty."
 ---
 
 Možná právě teď prožíváte období, kdy se vám všechno hroutí pod rukama. Nic není tak, jak mělo být, a vy netušíte, jestli to někdy bude jiné. Chtěli bychom vám říct, že ano – velmi pravděpodobně to bude za pár měsíců lepší. A máte to z velké části ve svých rukou.
@@ -113,6 +114,3 @@ Všechny pocity, které nyní zažíváte, mají své místo. I strach, i vztek,
 
 *Petra Dolečková je vedoucí týmu Krizové pomoci ve SPONDEA, z.ú. v Brně. S rodiči v krizi pracuje řadu let.*
 
----
-
-*Starat se o sebe je první krok k tomu, abyste mohli být oporou svým dětem. V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vám ukážeme, jak s dětmi mluvit o tom, co se děje, a jak jim pomoci projít tímto obdobím s pocitem jistoty.*

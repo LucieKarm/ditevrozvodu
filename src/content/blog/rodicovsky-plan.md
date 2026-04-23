@@ -5,6 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/rodicovsky-plan.png"
 published: true
 pubDate: '2026-02-25'
+ctaText: "Rodičovský plán je základ nového fungování vaší rodiny. Ale jak ho vysvětlit dětem? A jak reagovat, když se děti bouří proti novým pravidlům? Online kurz vás provede tím, jak změny komunikovat srozumitelně a bezpečně."
 ---
 
 ## Co je rodičovský plán
@@ -87,6 +88,3 @@ Připravili jsme pro vás tři šablony rodičovského plánu, které vám mohou
 
 Rodičovský plán je to investice do klidu vaší rodiny. Každá dohoda, kterou uzavřete předem, znamená méně nedorozumění a konfliktů v budoucnu. A tím zase míříme k tomu, že klidnější provoz vás dospělých znamená klidnější a bezpečnější dětství pro vaše děti.
 
----
-
-*Rodičovský plán je základ nového fungování vaší rodiny. Ale jak ho vysvětlit dětem? A jak reagovat, když se děti bouří proti novým pravidlům? Online kurz [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) vás provede tím, jak změny komunikovat srozumitelně a bezpečně.*

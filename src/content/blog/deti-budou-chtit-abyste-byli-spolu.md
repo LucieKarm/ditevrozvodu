@@ -5,6 +5,7 @@ category: "Potřeby dětí"
 image: "/images/deti-budou-chtit-abyste-byli-spolu.png"
 published: true
 pubDate: '2026-03-10'
+ctaText: "Přání „vraťte se k sobě" je pro děti přirozené. Jak na něj reagovat, aby dítě pochopilo situaci a přitom se cítilo v bezpečí? V online kurzu se naučíte, jak vést tyto citlivé rozhovory s dětmi různého věku."
 ---
 
 ## Proč děti chtějí, se k sobě vrátili
@@ -65,6 +66,3 @@ Děti potřebují zažívat, že je oba milujete a že se o ně oba postaráte. 
 
 
 
----
-
-*Přání „vraťte se k sobě" je pro děti přirozené. Jak na něj reagovat, aby dítě pochopilo situaci a přitom se cítilo v bezpečí? V online kurzu [„Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi) se naučíte, jak vést tyto citlivé rozhovory s dětmi různého věku.*
