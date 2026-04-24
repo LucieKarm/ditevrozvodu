@@ -12,47 +12,54 @@ Kolik to celé bude stát? To je logicky jedna z prvních otázek, která rodič
 
 ![Markéta Zerdagoglu, advokátka z kanceláře KROUPALIDÉ](/images/zerdagoglu.jpg)
 **Markéta Zerdagoglu**, advokátka z kanceláře KROUPALIDÉ
+
 ---
 
 ## Když se dohodnete: menší desítky tisíc
 
 **Kolik nejméně může rozvod stát?**
 
-**Markéta:** Záleží na rozsahu majetku, který se vypořádává, a na tom, jak moc jsou rodiče dohodnutí. Pokud nemají nemovitosti a domluva se jim daří, vejdou se celkové náklady včetně schůzek do **dvaceti tisíc korun**. Když v rodině nemovitosti jsou a domluva je složitější, může to být **do třiceti tisíc korun**.
+**Markéta:** Záleží na rozsahu majetku, který se vypořádává, a na tom, jak moc jsou rodiče dohodnutí. Pokud nemají nemovitosti a domluva se jim daří, vejdou se celkové náklady včetně schůzek **do dvaceti tisíc korun**. Když v rodině nemovitosti jsou a domluva je složitější, může to být **do třiceti tisíc korun**.
 
-Pokud jsou oba rodiče ochotní spolupracovat, **rozvod nemusí být finančně devastující**. Advokátka v takovém případě pomáhá hlavně se sepisem dohod a přípravou návrhů pro soud, aby všechno bylo formálně správně a rodiče na nic podstatného nezapomněli. Rodiče si pak návrh k soudu podávají sami.
+Pokud jsou oba rodiče ochotní spolupracovat, **rozvod nemusí být finančně devastující**. Advokát v takovém případě pomáhá hlavně se sepisem dohod a přípravou návrhů pro soud, aby všechno bylo formálně správně a rodiče na nic podstatného nezapomněli. Rodiče si pak návrh k soudu podávají sami.
 
-> **Důležité:** I když se vám zdá, že jste vlastně na všem dohodnutí, může dávat smysl se v advokátní kanceláři ujistit, že to tak opravdu je. Vyhnete se díky tomu nepříjemným překvapením. Někdy i zdánlivě jednoduché situace mohou skrývat různé háčky.
+> **Důležité:** I když se vám zdá, že jste vlastně na všem dohodnutí, může dávat smysl se v advokátní kanceláři ujistit, že to tak opravdu je. Vyhnete se díky tomu nepříjemným překvapením, protože někdy i zdánlivě jednoduché situace mohou mít háček.
 
 ## Je reálné projít rozvodem bez advokáta?
 
-**Markéta:** Mnoho lidí rozvod bez advokáta zvládne a funguje jim to. Podle mne ale zároveň riskují, že udělají důležitá rozhodnutí, aniž by měli dostatek přesných informací. Někdy se potom k takovým případům dostávám právě v takové chvíli, kdy se vynoří nějaký problém, který rodiče nedomysleli, a konflikt mezi rodiči se zbytečně vyhrotil.
+**Markéta:** Mnoho lidí rozvod bez advokáta zvládne a funguje jim to. Podle mne ale zároveň riskují, že udělají důležitá rozhodnutí, aniž by měli dostatek přesných informací. Někdy se potom k takovým případům dostávám právě ve chvíli, kdy se vynoří nějaký problém, který rodiče nedomysleli, a konflikt mezi rodiči se zbytečně rozhořel.
 
-Rozvod bez právní pomoci bych určitě nedoporučovala rodičům, kteří mají **nemovitosti**. Tam může nastat spousta chyb při vypořádávání a někdy s ním mají problém i samotní právníci.
+Rozvod bez právní pomoci bych určitě nedoporučovala rodičům, kteří mají **nemovitosti**. Tam může nastat spousta chyb při vypořádávání a někdy je to na rozpletení komplikované i pro samotné právníky.
 
 ## Jakou mají advokáti a advokátky hodinovku?
 
-**Markéta:** Neexistuje žádný jednotný ceník. Ceny se liší podle regionu, velikosti kanceláře, specializace nebo zkušeností konkrétního advokáta nebo advokátky. Většinou se začíná na 1 500 Kč za hodinu, vyšplhat se ale může až k 7 000 Kč za hodinu.
+**Markéta:** Neexistuje žádný jednotný ceník. Ceny se liší podle regionu, velikosti kanceláře, specializace nebo zkušeností konkrétního advokáta nebo advokátky. Většinou odměna za hodinu začíná na 1 500 Kč, vyšplhat se ale může až k 7 000 Kč za hodinu.
 
 Co cenu ovlivňuje:
 - **Region** — v Praze a v Brně bude vyšší než na Vysočině
 - **Specializace** — advokát nebo advokátka zaměření na rodinné právo v něm mají hlubší znalosti a lépe se v něm orientují, ale mohou si účtovat vyšší sazby
-- **Zkušenosti** — čím zkušenější advokát, tím rychleji a snáz možná dokáže váš případ vyřešit
+– **Velikost kanceláře** – velká kancelář znamená vyšší náklady na provoz a zázemí, a tím pádem i vyšší ceny, ale taky více know-how pod jednou střechou
+- **Zkušenosti** — čím zkušenější advokát, tím rychleji a snáz snad dokáže váš případ vyřešit
 
-**Jak si vybrat advokáta, který mi opravdu pomůže?** Šla bych po **specializaci na rodinné právo**. Spousta lidí si myslí, že rodinné právo je jednoduché a umí ho dělat každý, ale to je úplně mylná představa. V rodinném právu je velké množství judikatury a změn, je potřeba se neustále vzdělávat a sledovat trendy v tom, jak soudci a soudkyně rozhodují. Ideálně si najděte advokáta **v místě bydliště** — bude znát fungování místních soudů, soudce i soudkyně, a nebudete mu muset platit čas za dojíždění do jiného města.
+## Jak si vybrat advokáta, který opravdu pomůže?
+
+Šla bych po **specializaci na rodinné právo**. Spousta lidí si myslí, že rodinné právo je jednoduché a umí ho dělat každý, ale to je úplně mylná představa. V rodinném právu je velké množství judikatury a změn, je potřeba se neustále vzdělávat a sledovat trendy v tom, jak soudci a soudkyně rozhodují. 
+
+Ideálně si najděte advokáta **v místě bydliště** — bude znát fungování místních soudů, zvláštnosti nebo preference jednotlivých soudců a soudkyň, a nebudete mu muset platit čas za dojíždění do jiného města.
 
 ## Co rozvod prodražuje nejvíc?
 
-**Markéta:** Nejdražší rozvod je ten, kde se rodiče nedokážou domluvit. Strany na sebe podávají další a další podání, je třeba se vyjadřovat, chodit na soudy — každý z těchto úkonů stojí peníze.
+**Markéta:** Nejdražší rozvod je ten, kde se rodiče nedokážou domluvit. Strany na sebe podávají další a další podání, je třeba se vyjadřovat, chodit na soudy, a nebere to konce.
 
 **Jak to vypadá v praxi:**
 - Vy něco řeknete svému advokátovi
 - Váš advokát napíše stanovisko a pošle ho advokátovi druhé strany
 - Ten to probere s protistranou – s druhým rodičem
 - Pak napíše protistanovisko a pošle ho zpět vašemu advokátovi
-- A tak stále dokola — každý úkon stojí peníze a mezi každým úkonem uplynou týdny
 
-**Jedinou radou, jak ušetřit peníze při rozvodu, je: snažit se dohodnout a nehrotit konflikt, i když se dohoda třeba hned zkraje nedaří.** Můžete k ní dojít i s pomocí advokátů — advokát nemusí automaticky znamenat eskalaci.
+A tak stále dokola — každý úkon stojí peníze a mezi každým úkonem uplynou týdny. A to se opakuje, dokud se rodiče nedohodnou, nebo dokud soud nerozhodne. A to může trvat i několik let.
+
+**Jedinou radou, jak ušetřit peníze při rozvodu, je snažit se dohodnout a nehrotit konflikt, i když se dohoda třeba hned zkraje nedaří.**
 
 > **Náš tip:** Málokdo ví, že na první schůzku k advokátovi nebo advokátce můžete přijít **společně** — oba rodiče. Advokát vám může obecně říct, jak soudy v podobných situacích rozhodují a v jakých mantinelech se asi budete pohybovat. Může vám to pomoct si uvědomit, čeho můžete při rozvodu dosáhnout a o co ani nemá smysl se pokoušet.
 
@@ -64,16 +71,11 @@ Co cenu ovlivňuje:
 
 **Markéta:** Od ledna 2026 platí novela, která spojuje řízení o dětech a rozvod do jednoho. Soudy víc přihlížejí k dohodám rodičů a neměly by se od nich moc odchylovat. To celý proces výrazně zrychluje.
 
-**Pokud máte připravené:**
-- dohodu o dětech
-- dohodu o majetku
-- společný návrh na rozvod
-
-…soud vás většinou rozvede **na prvním stání**. Podle mých aktuálních zkušeností to trvá **3–6 měsíců od podání návrhu**. Záleží ale na vytíženosti soudu, regionu nebo i období, protože třeba přes léto a dovolené všechno trvá déle.
+Pokud máte připravenou dohodu o dětech, dohodu o majetku a společný návrh na rozvod, soud vás většinou rozvede **na prvním stání**. Podle mých aktuálních zkušeností to trvá **3–6 měsíců od podání návrhu**. Záleží ale na vytíženosti soudu, regionu nebo i období, protože třeba přes léto a dovolené všechno trvá déle.
 
 ## Jak dlouho trval nejdelší případ, který jste řešila?
 
-**Markéta:** Zažila jsem péči o děti, která se táhla víc než **pět let**. Ten člověk utratil za právní služby řádově **vyšší statisíce korun**. V takových případech bývá minimálně na jedné straně velmi konfliktní osobnost.
+**Markéta:** Zažila jsem spor o péči o děti, který se táhl víc než **pět let**. Klient utratil za právní služby řádově **vyšší statisíce korun**. V takových případech bývá minimálně na jedné straně velmi konfliktní osobnost.
 
 Čím dříve se pokusíte najít dohodu — třeba i s pomocí mediace — tím levnější a kratší celý proces bude.
 
@@ -81,7 +83,7 @@ Co cenu ovlivňuje:
 
 **Markéta:** Rozhodně, čím lépe připravení přijdete, tím méně času a tedy i peněz schůzkami strávíte.
 
-**Nachystejte si a promyslete:**
+Nachystejte si a promyslete:
 
 📋 **Přehled majetku** — Nemovitosti, auta, drahé vybavení, účty, úspory, akcie, dluhy. Ideálně si udělejte výpis z katastru nemovitostí.
 
@@ -91,10 +93,10 @@ Co cenu ovlivňuje:
 
 📊 **Vaše měsíční náklady** — Kolik potřebujete na normální fungování se zachováním přiměřené životní úrovně: bydlení, jídlo, doprava, ...
 
-📑 **Dokumenty** — rodné listy dětí, oddací list, další relevantní doklady
+📑 **Dokumenty** — Rodné listy dětí, oddací list a další relevantní doklady.
 
 > **Náš tip:** Před návštěvou advokátní kanceláře zvažte i **mediaci**. Mediátor vám pomůže aspoň trochu zahladit hrany a promyslet vše potřebné. 
 
 ## Na závěr
 
-Rozvod může stát pár tisíc korun, nebo také statisíce. Rozdíl většinou nedělá složitost situace, ale **ochota obou rodičů se domluvit**. Každý den konfliktu stojí peníze, čas a hlavně — psychické i fyzické zdraví vás i vašich dětí.
+Rozvod může stát pár tisíc korun, nebo také statisíce. Může trvat měsíce, nebo i roky. Rozdíl většinou nedělá složitost situace, ale **ochota obou rodičů se domluvit**. Každý den konfliktu stojí peníze, čas a hlavně — psychické i fyzické zdraví vás i vašich dětí.

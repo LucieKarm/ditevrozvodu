@@ -12,6 +12,7 @@ Když padne slovo rozvod, spousta rodičů může dostat pocit, že si musí ihn
 
 ![Petra Dolečková, Mariana Šimíková a Tereza Timková z Krizové pomoci SPONDEA](/images/petra%20mariana%20tereza.jpg)
 
+
 ---
 
 ## Na začátku bývá strach. Je to přirozené.
