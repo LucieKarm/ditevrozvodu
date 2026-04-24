@@ -5,7 +5,7 @@ category: "Potřeby dětí"
 image: "/images/deti-vzdy-vedi.png"
 published: true
 pubDate: '2026-03-01'
-ctaText: "Vaše děti už vědí, že se něco děje. Jak jim to říct tak, aby se cítily v bezpečí? V online kurzu najdete konkrétní věty a příklady rozhovorů podle věku dítěte — pro batolata, školáky i dospívající."
+ctaText: 'Vaše děti už vědí, že se něco děje. Jak jim to říct tak, aby se cítily v bezpečí? V online kurzu najdete konkrétní věty a příklady rozhovorů podle věku dítěte — pro batolata, školáky i dospívající.'
 ---
 
 ## Proč děti vědí víc, než si myslíte

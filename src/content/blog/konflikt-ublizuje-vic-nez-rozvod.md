@@ -5,7 +5,7 @@ category: "Potřeby dětí"
 image: "/images/konflikt-ublizuje-vic-nez-rozvod.png"
 published: true
 pubDate: '2026-02-20'
-ctaText: "Konflikt mezi rodiči je to, co dětem ubližuje nejvíc. Ale jak přesně snížit napětí v každodenní komunikaci s druhým rodičem? V online kurzu vám ukážeme konkrétní techniky, jak z konfliktu vystoupit — krok za krokem."
+ctaText: 'Konflikt mezi rodiči je to, co dětem ubližuje nejvíc. Ale jak přesně snížit napětí v každodenní komunikaci s druhým rodičem? V online kurzu vám ukážeme konkrétní techniky, jak z konfliktu vystoupit — krok za krokem.'
 ---
 
 ## Rozvod nemusí být katastrofa

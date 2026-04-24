@@ -5,7 +5,7 @@ category: "Potřeby dětí"
 image: "/images/jak-se-dari-nasim-detem.png"
 published: true
 pubDate: '2026-03-20'
-ctaText: "Zastavit se a zeptat se sami sebe, jak se dětem daří, je důležitý první krok. V online kurzu vám pomůžeme porozumět signálům, které děti vysílají, a naučíme vás, jak na ně prakticky reagovat."
+ctaText: 'Zastavit se a zeptat se sami sebe, jak se dětem daří, je důležitý první krok. V online kurzu vám pomůžeme porozumět signálům, které děti vysílají, a naučíme vás, jak na ně prakticky reagovat.'
 ---
 
 Uprostřed rozvodu řešíte tolik věcí najednou: bydlení, peníze, právníky, komunikaci s druhým rodičem. Je snadné přehlédnout, co se děje přímo před vámi. **Jak se teď vlastně daří vašim dětem?**

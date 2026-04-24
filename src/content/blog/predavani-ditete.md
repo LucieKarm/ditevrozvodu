@@ -5,7 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/predavani-deti.png"
 published: true
 pubDate: '2026-04-05'
-ctaText: "Předávání bez stresu je obrovský dar pro vaše dítě. Chcete vědět, jak dítě připravit na střídání domovů a jak reagovat, když pláče při loučení? V online kurzu najdete praktické návody pro nejčastější situace."
+ctaText: 'Předávání bez stresu je obrovský dar pro vaše dítě. Chcete vědět, jak dítě připravit na střídání domovů a jak reagovat, když pláče při loučení? V online kurzu najdete praktické návody pro nejčastější situace.'
 ---
 
 ## Proč je předávání tak těžké

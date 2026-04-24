@@ -5,7 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/mediace.png"
 published: true
 pubDate: '2026-04-10'
-ctaText: "Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu dohodu — a celou novou situaci — srozumitelně předat dětem? Online kurz vás naučí mluvit s dětmi o změnách, které přicházejí."
+ctaText: 'Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu dohodu — a celou novou situaci — srozumitelně předat dětem? Online kurz vás naučí mluvit s dětmi o změnách, které přicházejí.'
 ---
 
 Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z ADRC (Alternative Dispute Resolution Center) v Brně.

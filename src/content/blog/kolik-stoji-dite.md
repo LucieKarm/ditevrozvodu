@@ -5,7 +5,7 @@ category: "OSPOD a soud"
 image: "/images/kolik-stoji-dite.png"
 published: true
 pubDate: '2026-04-15'
-ctaText: "Finance jsou důležité, ale dítě potřebuje víc než peníze — potřebuje vědět, že je v bezpečí a že ho oba rodiče mají rádi. Jak s ním o změnách v rodině mluvit? To se naučíte v online kurzu."
+ctaText: 'Finance jsou důležité, ale dítě potřebuje víc než peníze — potřebuje vědět, že je v bezpečí a že ho oba rodiče mají rádi. Jak s ním o změnách v rodině mluvit? To se naučíte v online kurzu.'
 ---
 
 Peníze bývají při rozvodu velkým tématem a s druhým rodičem se nyní **potřebujete domluvit na výživném**. Pokud nevyděláváte oba stejně, nebudete ani platit stejné výživné, ale nějaký poměr nákladů podle toho, kolik kdo vydělává a jaké jsou potřeby vašich dětí. 

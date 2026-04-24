@@ -5,7 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/rodicovsky-plan.png"
 published: true
 pubDate: '2026-02-25'
-ctaText: "Rodičovský plán je základ nového fungování vaší rodiny. Ale jak ho vysvětlit dětem? A jak reagovat, když se děti bouří proti novým pravidlům? Online kurz vás provede tím, jak změny komunikovat srozumitelně a bezpečně."
+ctaText: 'Rodičovský plán je základ nového fungování vaší rodiny. Ale jak ho vysvětlit dětem? A jak reagovat, když se děti bouří proti novým pravidlům? Online kurz vás provede tím, jak změny komunikovat srozumitelně a bezpečně.'
 ---
 
 ## Co je rodičovský plán

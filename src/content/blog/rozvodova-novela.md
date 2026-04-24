@@ -5,7 +5,7 @@ category: "OSPOD a soud"
 image: "/images/rozvodova-novela.png"
 published: true
 pubDate: '2026-03-05'
-ctaText: "Nové zákony mění pravidla. Ale vaše děti potřebují především vás — rodiče, kteří umí mluvit o změnách klidně a srozumitelně. V online kurzu se naučíte, jak dětem vysvětlit novou situaci tak, aby se cítily v bezpečí."
+ctaText: 'Nové zákony mění pravidla. Ale vaše děti potřebují především vás — rodiče, kteří umí mluvit o změnách klidně a srozumitelně. V online kurzu se naučíte, jak dětem vysvětlit novou situaci tak, aby se cítily v bezpečí.'
 ---
 
 ## O co jde

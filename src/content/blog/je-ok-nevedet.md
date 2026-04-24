@@ -5,7 +5,7 @@ category: "Domluva s druhým rodičem"
 image: "/images/Rodičovský plán.png"
 published: true
 pubDate: '2026-04-20'
-ctaText: "Začít jednoduše a zkoušet za provozu je skvělý přístup. V online kurzu se naučíte, jak dětem vysvětlit, že se věci mění, a jak jim dát pocit stability i uprostřed nejistoty."
+ctaText: 'Začít jednoduše a zkoušet za provozu je skvělý přístup. V online kurzu se naučíte, jak dětem vysvětlit, že se věci mění, a jak jim dát pocit stability i uprostřed nejistoty.'
 ---
 
 Když padne slovo rozvod, spousta rodičů může dostat pocit, že si musí ihned sednout a vymyslet, jak bude jejich rodina fungovat po příštích deset let. Kdo bude mít děti přes Vánoce za tři roky? Kdo je odveze na letní tábor napřesrok? Povídaly jsme si o tom s kolegyněmi z Krizové pomoci SPONDEA: vedoucí **Petrou Dolečkovou**, dětskou psycholožkou **Marianou Šimíkovou** a sociální pracovnicí **Terezou Timkovou**.
