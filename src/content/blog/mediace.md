@@ -10,6 +10,8 @@ ctaText: 'Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu doh
 
 Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z ADRC (Alternative Dispute Resolution Center) v Brně.
 
+![Jan Kabát, mediátor z ADRC v Brně](/images/kabat.jpg)
+**Jan Kabát**, mediátor z ADRC v Brně
 ---
 
 ## Bavme se o situaci rozvádějících se rodičů. Co mohou od mediace čekat?
@@ -111,8 +113,6 @@ V Česku je trochu zvykem říct si: „Dám to právníkovi, nebudu se s tím z
 Šanci na úspěch zvyšuje motivace a ochota k alespoň malému kompromisu. Hodně pomáhá, když si lidé uvědomí, kolik by je stál soudní spor a jak dlouho by trval, a že mediace jim dává šanci si nový život nastavit skutečně podle svých představ. Ne podle rozsudku soudu odteď za dva roky
 
 Šance naopak snižují příliš silné pozice, kdy se jeden nebo oba z rodičů rozhodnou, že přes něco prostě nejede vlak. Pak je ale potřeba si uvědomit, jak dlouho ve sporu budou žít jejich děti a ne jestli, ale jak velkou daň si na nich konflikt rodičů vybere.
-
-![Jan Kabát, mediátor z ADRC v Brně](/images/kabat.jpg)
 
 ### Co byste vzkázal rodičům, kteří váhají?
 
