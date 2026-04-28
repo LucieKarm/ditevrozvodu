@@ -2,7 +2,7 @@
 title: "Kolik stojí rozvod s dětmi?"
 description: "Rozvod může stát pár tisíc, ale i statisíce. Advokátka Markéta Zerdaloglu vysvětluje, co cenu ovlivňuje a jak neprohospodařit úspory."
 category: "OSPOD a soud"
-image: "/images/Rozhovor s pravnickou.png"
+image: "/images/zerdagoglu.jpg"
 published: true
 pubDate: '2026-04-24'
 ctaText: 'V advokátní kanceláři vám všechno srozumitelně vysvětlí. Ale kdo vysvětlí změny v rodině vašim dětem? V online kurzu se naučíte, jak to s dětmi probrat — srozumitelně a s ohledem na jejich věk.'
@@ -29,23 +29,25 @@ Pokud jsou oba rodiče ochotní spolupracovat, **rozvod nemusí být finančně 
 
 **Markéta:** Mnoho lidí rozvod bez advokáta zvládne a funguje jim to. Podle mne ale zároveň riskují, že udělají důležitá rozhodnutí, aniž by měli dostatek přesných informací. Někdy se potom k takovým případům dostávám právě ve chvíli, kdy se vynoří nějaký problém, který rodiče nedomysleli, a konflikt mezi rodiči se zbytečně rozhořel.
 
-Rozvod bez právní pomoci bych určitě nedoporučovala rodičům, kteří mají **nemovitosti**. Tam může nastat spousta chyb při vypořádávání a někdy je to na rozpletení komplikované i pro samotné právníky.
+> **Náš tip:** Pravděpodobně se rozvádíte poprvé a pravděpodobně tím pádem nemáte zkušenosti s tím, na co všechno je potřeba si dát pozor. Zkušený právník nebo právnička jich už zažili hodně a upozorní vás na riziková místa.
 
-## Jakou mají advokáti a advokátky hodinovku?
+Rozvod bez právní pomoci bych určitě nedoporučovala rodičům, kteří mají **nemovitosti**. Je to složitější agenda,  které je možné při vypořádání snadno udělat chyby nebo něco minout. Někdy je to na rozpletení komplikované i pro samotné právníky.
+
+## Kolik si advokáti a advokátky účtují za hodinu práce?
 
 **Markéta:** Neexistuje žádný jednotný ceník. Ceny se liší podle regionu, velikosti kanceláře, specializace nebo zkušeností konkrétního advokáta nebo advokátky. Většinou se odměna za hodinu práce pohybuje **mezi 2 000 a 5 000 korun**.
 
 Co cenu ovlivňuje:
 - **Region** — v Praze a v Brně bude vyšší než na Vysočině
 - **Specializace** — advokát nebo advokátka zaměření na rodinné právo v něm mají hlubší znalosti a lépe se v něm orientují, ale mohou si účtovat vyšší sazby
-– **Velikost kanceláře** – větší kancelář přináší větší flexibilitu a více know-how pod jednou střechou, služba pak také může mít vyšší cenu
-- **Zkušenosti** — zkušený advokát obvykle dokáže věc vyřešit se zohledněním širšího kontextu
+- **Velikost kanceláře**  – větší kancelář přináší větší flexibilitu a více know-how pod jednou střechou, služba pak také může mít vyšší cenu
+- **Zkušenosti** — zkušený advokát obvykle dokáže věc vyřešit se zohledněním širšího kontextu, například vztahy mezi stranami, náklady, přínosy, psychologickými aspekty nebo dopady na rodinu do budoucna
 
 ## Jak si vybrat advokáta, který opravdu pomůže?
 
-Šla bych po **specializaci na rodinné právo**. Spousta lidí si myslí, že rodinné právo je jednoduché a umí ho dělat každý, ale to je úplně mylná představa. V rodinném právu je velké množství judikatury a změn, je potřeba se neustále vzdělávat a sledovat trendy v tom, jak soudci a soudkyně rozhodují. 
+Šla bych po **specializaci na rodinné právo**. Spousta lidí si myslí, že rodinné právo je jednoduché a umí ho dělat každý, ale to je úplně mylná představa. V rodinném právu je velké množství judikatury a změn, je potřeba se neustále vzdělávat a sledovat, jak jednotliví soudci a soudkyně rozhodují. 
 
-Ideálně si najděte advokáta **v místě bydliště** — bude znát fungování místních soudů, zvláštnosti nebo preference jednotlivých soudců a soudkyň, a nebudete mu muset platit čas za dojíždění do jiného města.
+Ideálně si najděte advokáta **v místě bydliště** — bude znát fungování místních soudů, způsob práce jednotlivých soudců a soudkyň, a nebudete mu muset platit čas za dojíždění do jiného města.
 
 ## Co rozvod prodražuje nejvíc?
 
@@ -71,7 +73,7 @@ Pokud máte připravenou dohodu o dětech, dohodu o majetku a společný návrh 
 
 **Markéta:** Zažila jsem spor o péči o děti, který se táhl víc než **pět let**. Klient utratil za právní služby řádově **vyšší statisíce korun**. V takových případech bývá minimálně na jedné straně velmi konfliktní osobnost.
 
-Čím dříve se pokusíte najít dohodu — třeba i s pomocí mediace — tím levnější a kratší celý proces bude.
+Čím dříve se rodiče pokusí najít dohodu — třeba i s pomocí mediace — tím levnější a kratší celý proces bývá.
 
 ## Může mi dobrá příprava nějak ušetřit peníze?
 
