@@ -40,7 +40,7 @@ Rozvod bez právní pomoci bych určitě nedoporučovala rodičům, kteří maj�
 Co cenu ovlivňuje:
 - **Region** — v Praze a v Brně bude vyšší než na Vysočině
 - **Specializace** — advokát nebo advokátka zaměření na rodinné právo v něm mají hlubší znalosti a lépe se v něm orientují, ale mohou si účtovat vyšší sazby
-- **Velikost kanceláře**  – větší kancelář přináší větší flexibilitu a více know-how pod jednou střechou, služba pak také může mít vyšší cenu
+- **Velikost kanceláře** — větší kancelář přináší větší flexibilitu a více know-how pod jednou střechou, služba pak také může mít vyšší cenu
 - **Zkušenosti** — zkušený advokát obvykle dokáže věc vyřešit se zohledněním širšího kontextu, například vztahy mezi stranami, náklady, přínosy, psychologickými aspekty nebo dopady na rodinu do budoucna
 
 ## Jak si vybrat advokáta, který opravdu pomůže?
