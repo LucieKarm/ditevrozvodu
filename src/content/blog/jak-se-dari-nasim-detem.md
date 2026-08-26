@@ -20,9 +20,9 @@ Rozvod přináší spoustu zcela konkrétních změn a pro děti jsou právě zm
 * Kdo se o ně v běžném dni stará? Co je dnes jinak?
 * Na jaké zvyky a rituály se můžou spolehnout, co zůstává stejné?
 
-**Jeden z účinných způsobů, jak dětem pomoct, je držet se co nejvíc zaběhnutého režimu.** Večeře ve stejný čas, sprcha, čtení před spaním, uložení do postele. Výlet o víkendu. Párek v rohlíků po cestě z tréninku. Tyhle drobnosti vypadají samozřejmě, ale pro děti v nejistém období jsou to záchytné body, protože předvídatelnost znamená bezpečí.
+**Jeden z účinných způsobů, jak dětem pomoct, je držet se co nejvíc zaběhnutého režimu.** Večeře ve stejný čas, sprcha, čtení před spaním, uložení do postele. Tyhle drobnosti vypadají samozřejmě, ale pro děti v nejistém období jsou to záchytné body, protože předvídatelnost znamená bezpečí.
 
-> **Varovné signály:** Časté bolení bříška nebo hlavy, které nemá lékařské vysvětlení. Horší usínání nebo neklidný spánek. Ztráta zájmu o věci, které děti dříve bavily. Neochota odcházet z domu nebo naopak neochota se vracet: tohle bývá v prvních týdnech a měsících po rozchodu běžné a většinou odezní, až si dítě na nové uspořádání zvykne. Pokud ale přetrvává, stojí za to se zamyslet, proč to tak stále je.
+> **Varovné signály:** Změny v biorytmu – ať už jde o neklidný spánek, zhoršené usínání, nebo časté fyzické trable, které nemají jasnou lékařskou příčinu. Tyto reakce bývají v prvních měsících běžné, ale pokud přetrvávají, je potřeba jim věnovat pozornost.
 
 > **Důležité:** Snažte se dětem usnadnit přechod mezi domovy, přivyknou tomu. Podporujte jejich čas s druhým rodičem, i když on nebo ona nedělá totéž pro vás. Tím totiž nepodporujete „jen“ druhého rodiče, ale především své dítě. 
 
@@ -34,7 +34,7 @@ Zejména starší děti velkou část svého života tráví mimo domov. Škola,
 * Docházejí děti dál do stejných aktivit, nebo se z některých stáhly?
 * Jak se chovají mezi vrstevníky? Mají kamarády, se kterými jsou v kontaktu?
 
-> **Varovné signály:** Zhoršený prospěch. Nechuť chodit do školy. Izolace od kamarádů. Výmluvy, proč nechtějí na kroužky. Ve škole nebo na kroužcích si všímají změn v chování.
+> **Varovné signály:** Náhlé zhoršení školního prospěchu, nechuť chodit do školy nebo na kroužky a stahování se z kolektivu kamarádů.
 
 > **Náš tip:** Řekněte ve škole a na kroužcích vašich dětí o tom, čím vaše rodina prochází. Nemusíte zabíhat do detailů, stačí krátká informace o tom, že se rozcházíte. Požádejte, aby děti trochu víc sledovali a dali vám vědět, kdyby si čehokoli nezvyklého všimli. 
 
@@ -48,9 +48,9 @@ Zejména starší děti velkou část svého života tráví mimo domov. Škola,
 
 Pláč, vztek, vzdor: to jsou reakce, kterých si všimnete snadno. Ale náročné prožívání se může projevit i opačně. Dítě, které bylo vždy živé a najednou je nápadně hodné a klidné, nemusí být v pohodě. Může se snažit „nepřidělávat starosti“. Může cítit, že vy sami máte dost svých problémů, a rozhodne se vás nezatěžovat. To je na malá ramena obrovská zodpovědnost.
 
-> **Varovné signály:** Častější pláč, výbuchy vzteku, hádání se o maličkosti. Náhlé zklidnění u dříve živého dítěte. Lhaní nebo vymýšlení si. Agresivita vůči sourozencům nebo kamarádům. Stažení se do sebe. Vývojový regres: pomočování, šišlání, neschopnost se najednou obléknout, jíst lžící atd.
+> **Varovné signály:** Výkyvy nálad, zvýšená plačtivost, výbuchy vzteku nebo naopak nezvyklý klid a snaha "nepřidělávat starosti". U mladších dětí se může objevit i dočasný návrat k chování, ze kterého už vyrostly.
 
-> **Náš tip:** Má vaše dítě alespoň jednoho dospělého mimo vás, za kterým může přijít a svěřit se? Babičku, dědečka, tetu, učitele, trenérku? Mít aspoň jednoho takového člověka je pro dítě významný ochranný faktor. Nemusíte být jediní, kdo dítěti pomáhá, a je naprosto v pořádku, když dítě některé věci řeší s někým jiným než s vámi. Důležité je, aby ten někdo existoval.
+> **Náš tip:** Má vaše dítě alespoň jednoho dospělého mimo vás, za kterým může přicházet a svěřit se? Babičku, dědečka, tetu, učitele, trenérku? Mít aspoň jednoho takového člověka je pro dítě významný ochranný faktor. Nemusíte být jediní, kdo dítěti pomáhá, a je naprosto v pořádku, když dítě některé věci řeší s někým jiným než s vámi. Důležité je, aby ten někdo existoval.
 
 ## Co dítě zatěžuje
 
@@ -63,7 +63,7 @@ Každá rodina je jiná a každé dítě prožívá rozvod po svém. Něco, co j
 
 **Děti nemají být uprostřed vašeho konfliktu.** Neměly by být prostředníky, vyjednavači ani diváky vašich sporů. I malé děti spolehlivě rozpoznají ironii, sarkasmus a pasivní agresivitu vůči druhému rodiči. Každý takový projev vaší vlastní frustrace a vzteku je pro ně škodlivý. **Nezapomínejte, kdo se tu má chovat jako dospělý.**
 
-> **Varovné signály:** Děti vstupují do hádek nebo se snaží dělat prostředníky mezi vámi. Pečlivě si nasazují sluchátka, jakmile vám zazvoní telefon. Stahují se z kontaktu s jedním rodičem. Extrémně k jednomu z vás přilnou nebo se od jednoho z vás zcela odtáhnou. Říkají každému z vás to, co si myslí, že chcete slyšet. Když jim jeden rodič něco zakáže, jdou za druhým, který to dovolí: naučily se mezi vámi manévrovat, protože to je pro ně způsob, jak v téhle situaci přežít.
+> **Varovné signály:** Dítě začíná fungovat jako prostředník nebo hromosvod vašich sporů (např. se snaží mírnit napětí, stahuje se při telefonátech, vykazuje extrémní příklon k jednomu z vás nebo se učí mezi vámi manévrovat, aby situaci zvládlo).
 
 > **Důležité:** Možná si říkáte, že máte například právo omezit kontakt dětí s rodinou druhého rodiče, aby babičku nebo dědečka viděly jen „ve vašem čase“. Zkuste se zastavit a upřímně se zeptat: děláte to kvůli dětem, nebo kvůli sobě? Podpora dětí znamená i zachování vztahů, které pro ně byly důležité předtím.
 
@@ -77,7 +77,7 @@ To, jak s dětmi o rozchodu mluvíte, zásadně ovlivňuje, jak ho zvládnou. D�
 
 Ideální je, když děti vnímají, že si s oběma rodiči můžou povídat o čemkoliv. Že mohou říct tátovi, že se jim stýskalo po mámě, aniž by ho tím rozesmutnily. Že mohou mamince vyprávět, jak bezva to bylo s tátou o víkendu, aniž by ji tím naštvaly. Tohle je dar, který jim můžete dát.
 
-> **Varovné signály:** Děti se bojí říct, co si myslí. Neptají se na budoucnost. Mění názory podle toho, s kým z rodičů zrovna mluví. Zjevně si vybírají stranu nebo říkají každému z vás to, co si myslí, že chcete slyšet.
+> **Varovné signály:** Dítě se vyhýbá hovorům o budoucnosti, bojí se vyjádřit svůj názor, nebo říká každému z rodičů to, co chce slyšet, ze strachu, že jednoho z vás zraní nebo rozzlobí.
 
 ## Co teď potřebují nejvíc
 
