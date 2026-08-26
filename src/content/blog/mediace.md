@@ -8,10 +8,10 @@ pubDate: '2026-04-10'
 ctaText: 'Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu dohodu — a celou novou situaci — srozumitelně předat dětem? Online kurz vás naučí mluvit s dětmi o změnách, které přicházejí.'
 ---
 
-Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z ADRC (Alternative Dispute Resolution Center) v Brně.
+Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z Dialogo (dříve ADRC) v Brně.
 
-![Jan Kabát, mediátor z ADRC v Brně](/images/kabat.jpg)
-**Jan Kabát**, mediátor z ADRC v Brně
+![Jan Kabát, mediátor z Dialogo (dříve ADRC) v Brně](/images/kabat.jpg)
+**Jan Kabát**, mediátor z Dialogo (dříve ADRC) v Brně
 ---
 
 ## Bavme se o situaci rozvádějících se rodičů. Co mohou od mediace čekat?
@@ -122,5 +122,5 @@ A hlavně: **ať první volba není hned právník.** U rozvodu nejde o výhru. 
 
 > **Náš tip:** Seznam zapsaných mediátorů najdete na stránkách [Ministerstva spravedlnosti](https://mediace.justice.cz/). Zapsaní mediátoři a mediátorky mají složené státní zkoušky a pracují podle zákona o mediaci. Ptejte se na zkušenosti s rodinnými spory.
 
-> **O ADRC:** [ADRC](https://www.adrc.cz/) (Alternative Dispute Resolution Center) je specializované centrum pro mimosoudní řešení sporů se sídlem v Brně. Založili ho v roce 2019 mediátorka Mgr. Martina Dohnalová (advokátka a zapsaná mediátorka) a PhDr. Bc. Jan Kabát, MBA (expert na komunikaci a řešení konfliktů). ADRC nabízí rodinnou mediaci osobně i online.
+> **O Dialogo:** [Dialogo](https://www.dialogo.cz/) je specializované centrum pro mimosoudní řešení sporů se sídlem v Brně. Založili ho v roce 2019 mediátorka Mgr. Martina Dohnalová (advokátka a zapsaná mediátorka) a PhDr. Bc. Jan Kabát, MBA (expert na komunikaci a řešení konfliktů). Dialogo nabízí rodinnou mediaci osobně i online.
 
