@@ -12,7 +12,7 @@ ctaText: 'Vaše děti už vědí, že se něco děje. Jak jim to říct tak, aby
 
 Děti jsou jako malé radary. **Vnímají napětí, změny nálad, nevyřčené věci.** I když před nimi nemluvíte o problémech, cítí, že něco není v pořádku. Stejně jako pro vás je pro ně nejistotu velmi těžké snášet.
 
-Nemusí to být hádky nebo křik. Velmi pravděpodobně jste třeba změnili chování – vy a druhý rodič se míjíte v bytě, méně spolu mluvíte. Nežertujete spolu. Neobjímáte se. Možná jeden z vás spí na gauči. Možná jste přestali dívat na film společně nebo nejdete druhého přivítat, když přijde domů. Jsou to drobnosti, které si jako dospělí nemusíte ani uvědomovat – ale děti je čtou spolehlivě. **Neznamená to, že děláte něco špatně.**
+Nemusí to být hádky nebo křik. Velmi pravděpodobně jste třeba změnili chování – vy a druhý rodič se míjíte v bytě, méně spolu mluvíte. Nežertujete spolu. Neobjímáte se. Možná jeden z vás spí na gauči. Možná jste přestali dívat na film společně nebo nejdete druhého přivítat, když přišel domů. Jsou to drobnosti, které si jako dospělí nemusíte ani uvažovat – ale děti je čtou spolehlivě. **Neznamená to, že děláte něco špatně.**
 
 Když děti nemají informace, začnou si je doplňovat samy. Pokud už chodí do školy, možná slyšely od spolužáků hrozné historky o rozvodu. 
 
@@ -31,60 +31,29 @@ Děti nejsou hloupé. Dobře chápou, že něco není v pořádku. **Pokud se bu
 
 Proto je tak důležité dětem přiznat, že se něco děje. Říct jim aspoň *něco*.
 
-## Jak na to: konzultace s Michaelou
+## Jak jim to říct: Zkušenosti z praxe
 
 ![Michaela Častulíková](/images/michaela.jpg)
 **Michaela Častulíková**, sociální pracovnice a krizová interventka SPONDEA
 
-Se sociální pracovnicí a krizovou interventkou Michaelou, která má mnohaleté zkušenosti s prací s dětmi i dospělými v náročných životních situacích ve SPONDEA, jsme si prošli konkrétní situaci. Představte si rodinu: máma a táta, dcera (8) a syn (5). S nápadem na odloučení přišla máma. Táta je zaskočený, oba ale chtějí spolupracovat a udělat všechno „správně“ s ohledem na děti. Za tři týdny se táta stěhuje. O čem bychom s těmito rodiči na konzultaci u nás ve SPONDEA mluvili?
+Se sociální pracovnicí a krizovou interventkou Michaelou jsme si prošli několik klíčových bodů, které rodiče při oznamování rozchodu s dětmi nejčastěji řeší:
 
-### Začněte sami u sebe
+### 1. Začněte u sebe
+Než začnete mluvit s dětmi, potřebujete být sami alespoň trochu stabilizovaní. Pokud sami přes bolest a zmatek sotva vidíte, těžko budete dětem oporou. Pokud je jeden z partnerů s rozhodnutím pozadu (třeba se to teprve nedávno dozvěděl), potřebuje čas na vstřebání. Nespěchejte na něj nebo na ni.
 
-Michaela upozornila, že by nezačala u dětí, ale u rodičů – zajímala by se, jak na tom jsou. Jak se cítí, jestli už změnu přijali, jestli jsou vůbec schopni o rozvodu klidně mluvit.
+### 2. Kdy je ten správný čas?
+Ideální moment neexistuje. Rozhodně by to ale mělo být dřív, než se jeden z rodičů odstěhuje, a dřív, než se to děti dozví od někoho z okolí nebo to náhodou vyslechnou. Utéct z toho strachu nejde – ale máte teď možnost ovlivnit, jakým způsobem se o rozvodu vaše děti dozví.
 
-*„Hodně bych zkoumala, jestli jsou rodiče jakž takž stabilizovaní a můžeme přistoupit k debatě o dětech – anebo nejdřív potřebují, aby se někdo postaral o ně,“* říká Michaela. Co si z toho vzít? **Než budete mluvit s dětmi, postarejte se nejdřív aspoň trochu o sebe.** Pokud sami přes bolest, zmatek a vztek sotva vidíte, je těžké být dětem oporou.
+### 3. Co říct a co ne
+Připravte se s druhým rodičem společně a řekněte to dětem spolu. Domluvte se na jasné, jednoduché a pravdivé zprávě. Nemusíte mít odpovědi na všechno (je v pořádku říct: *„Tohle ještě nevíme, domluvíme se a pak vám to řekneme“*).
 
-A často jsou oba rodiče v úplně jiné fázi – jeden o rozvodu přemýšlí měsíce, druhý se to teprve dozvídá. Ten druhý potřebuje víc času a prostoru, aby vůbec vstřebal, co se děje. **Rodič, který rozvod položil na stůl jako první, by měl pomalejší tempo toho druhého respektovat** a nechat mu prostor, aby se s tím srovnal.  
+Dětem nejvíce pomohou konkrétní, pevné body, o které se mohou opřít (škola, kamarádi, to, že tu pro ně oba stále jste). Naopak se vyhněte slibům, které nemůžete splnit, a nestavte děti do role rozhodčích.
 
-### Pozor na okolí
-
-Jakmile vyslovíte slovo „rozvod“, všichni kolem se stanou odborníky na váš život. Kamarádi, rodiče, soused nebo kolegyně – všichni to budou myslet dobře, ale jejich rady vycházejí z jejich zkušeností a světonázorů, ne z vašich. Nebo z mediálního obrazu rozvodu jako katastrofy. Nebo z dávno překonaných představ o tom, co je pro děti správné.
-
-*„Nejužitečnější a nejlépe fungující rozhodnutí jsou ta, ke kterým dojdeme sami. My se známe nejlíp,“* připomíná Michaela. *„Rychlé přijetí rad zvenčí nás zbavuje zodpovědnosti.“* Proto může být lepší hledat profesionální podporu – terapeut vám nebude říkat, co máte dělat. Pomůže vám přijít na to, co chcete vy.
-
-### Kdy je ten správný čas?
-
-*„Nic jako ideální čas na oznámení rozvodu dětem neexistuje,“* přiznává Michaela. *„Ale rozhodně by to mělo být dřív, než se táta odstěhuje. A rozhodně dřív, než se to děti dozví od někoho jiného nebo to nedopatřením vyslechnou, když máma telefonuje s kamarádkou.“*
-
-**Rodiče se toho popravdě bojí víc, než je třeba.** Bojí se pláče, výbuchů vzteku, otázek, na které neznají odpovědi. A tak zvažují, jestli by přece jen nebylo lepší ještě chvíli počkat. Ještě pár dní, pár týdnů, než...
-
-Michaela k tomu říká jasně: *„Ten strach je pochopitelný. Ale utéct z toho nejde. Vy teď máte v rukou, jakým způsobem se to vaše děti dozví. To je obrovská výhoda, tak ji využijte.“*
-
-### Co říct a co ne
-
-Připravte se s druhým rodičem společně – a řekněte to dětem spolu. Domluvte se na jasné, jednoduché zprávě. **Nemusíte mít odpovědi na všechno.**
-
-*„Klidně řekněte: Tohle ještě nevíme. My to s tátou ještě probereme a pak vám to řekneme,“* navrhuje Michaela.
-
-Co dětem pomůže nejvíc? Konkrétní, pevné body, o které se můžou opřít: budeš chodit do stejné školy, budeš mít stejné kamarády, bratříček bude pořád s tebou. Oba tě máme rádi a oba se o tebe budeme starat.
-
-A co neříkat? *„Neslibujte dětem, že to bude dobrý – protože to nevíte,“* varuje Michaela. Sliby, které nemůžete splnit, jen prohloubí nejistotu.
-
-### Jak děti zareagují?
-
-Připravte se na cokoli – a na nic konkrétního.
-
-*„Můžou plakat, můžou se zlobit, můžou prosit, abyste zůstali spolu. Ale taky se může stát, že řeknou: Jo, já vím,“* popisuje Michaela. *„A může se stát, že jim to začne docházet postupně – až když to skutečně začnou žít.“*
-
-Malé děti možná nerozumí tomu, co „maminka s tatínkem se rozvádí“ vlastně znamená. Pro ně „odchází“ může znamenat, že jde tatínek na nákup. Pochopení přijde až s časem a zkušeností. A tak jako je jeden z rodičů pozadu za tím druhým, děti jsou ještě úplně jinde a potřebují svůj vlastní čas.
+### 4. Jak děti zareagují?
+Připravte se na cokoli. Reakce mohou být bouřlivé, děti mohou plakat nebo se vztekat. Děti ale mohou také reagovat zdánlivým nezájmem nebo větou *„Já vím“*. Pochopení situace přichází postupně a děti potřebují svůj čas, aby si novou realitu osahaly.
 
 ## Děti to zvládnou
 
-Tohle je možná nejdůležitější zpráva.
+Děti jsou často mnohem tvárnější a odolnější, než si představujeme. Netrpí předsudky a strachy z budoucnosti na roky dopředu jako my dospělí. Dokážou se novým poměrům přizpůsobit, ale potřebují k tomu vaši podporu, pravdivé a věku přiměřené informace a jistotu, že v tom nezůstanou samy.
 
-*„Děti jsou mnohem tvárnější a zralejší, než si představujeme,“* říká Michaela. *„Nejsou zanesené těmi zkušenostmi, které máme my. Nebojí se všech věcí, které my domýšlíme na tři roky dopředu.“*
-
-**Děti se dokážou přizpůsobit a dokážou si na nové poměry zvyknout.** Ale potřebují k tomu vaši pomoc. Potřebují informace, podporu a jistotu, že v tom nejsou samy.
-
-*„Nenechávejte je v tom samotné,“* uzavírá Michaela. 
-
+*„Nepoštvávejte je proti druhému rodiči a nenechávejte je v tom samotné,“* uzavírá Michaela.
