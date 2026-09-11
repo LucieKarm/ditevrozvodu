@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Otec roku — Export</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #2b2d72;
+      --accent-pink: #e55297;
+      --pad-x: 58px;
+      --text-top: 100px;
+      --pad-bottom: 100px;
+    }
+
+    body { font-family: 'Lexend', sans-serif; background:#000; overflow:hidden; }
+
+    .slide { width:1080px; height:1350px; position:absolute; top:0; left:0; overflow:hidden; display:none; }
+    .slide.active { display:flex; }
+
+    .slide-cover, .slide-alt {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 2.png');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column; align-items:center;
+    }
+
+    .slide-cover { justify-content:center; }
+    .slide-cover .title-area { width:100%; padding:70px 44px 10px; text-align:center; }
+    .slide-cover .title-unified {
+      font-size:58px;
+      font-weight:800;
+      color:#fff;
+      line-height:1.22;
+      letter-spacing:-1px;
+      text-shadow:0 4px 25px rgba(0,0,0,0.25);
+      text-wrap:balance;
+    }
+    .slide-cover .title-unified .pink { color:var(--accent-pink); }
+    .slide-cover .illustration-wrap { flex:1; display:flex; align-items:center; justify-content:center; padding-bottom:40px; min-height:0; }
+    .slide-cover .illustration { width:750px; filter:drop-shadow(0 15px 50px rgba(0,0,0,0.3)); }
+
+    .slide-content {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 1.jpeg');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: flex-start;
+      padding: var(--text-top) var(--pad-x) var(--pad-bottom);
+    }
+
+    .content-body { flex-shrink: 0; width: 100%; }
+
+    .text-chunks { display:flex; flex-direction:column; gap:28px; flex-shrink:0; }
+    .text-chunk p { font-size:54px; font-weight:400; color:#1a1a2e; line-height:1.46; text-wrap: pretty; }
+    .text-chunk p .bold { font-weight:700; }
+
+    .text-block.large-claim { font-size:72px; font-weight:800; color:#1a1a2e; line-height:1.22; text-wrap: balance; flex-shrink:0; }
+
+    #slide-3 {
+      justify-content: center;
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+    #slide-3 .angry-claim {
+      font-size:96px;
+      font-weight:800;
+      line-height:1.12;
+      letter-spacing:-2px;
+      color:var(--primary);
+      text-align:left;
+      text-wrap:balance;
+    }
+    #slide-3 .angry-claim .line-pink {
+      color:var(--accent-pink);
+      display:block;
+      margin-bottom:12px;
+    }
+
+    .slide-alt { padding:var(--text-top) var(--pad-x) 50px; justify-content:flex-start; align-items:center; }
+    .slide-alt .closing-chunks {
+      display:flex;
+      flex-direction:column;
+      gap:22px;
+      width:100%;
+      max-width:960px;
+      flex-shrink:0;
+    }
+    .slide-alt .closing-chunks p {
+      font-size:42px;
+      font-weight:400;
+      color:rgba(255,255,255,0.9);
+      line-height:1.48;
+      text-shadow:0 2px 10px rgba(0,0,0,0.1);
+      text-wrap:pretty;
+      text-align:left;
+    }
+    .slide-alt .closing-chunks .em { font-weight:600; color:rgba(255,255,255,0.98); }
+    .slide-alt .illust-cta { flex:1; display:flex; align-items:flex-end; justify-content:center; width:100%; padding-top:36px; padding-bottom:220px; }
+    .slide-alt .illust-cta img { width:780px; filter:drop-shadow(0 15px 45px rgba(0,0,0,0.28)); }
+  </style>
+</head>
+<body>
+  <!-- Slide 1 — Cover -->
+  <div class="slide slide-cover active" id="slide-1">
+    <div class="title-area">
+      <h1 class="title-unified">Doteď se&nbsp;nestaral, a&nbsp;najednou je otec roku.<br>My říkáme: <span class="pink">„Hurá!“</span></h1>
+    </div>
+    <div class="illustration-wrap"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/D%C3%ADt%C4%9B%20se%20nemus%C3%AD%20p%C5%99etva%C5%99ovat.png" alt="" class="illustration"></div>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="slide slide-content" id="slide-2">
+    <div class="content-body">
+      <div class="text-chunks">
+        <div class="text-chunk"><p>Často slýcháme, že až poté, co&nbsp;padne slovo rozvod, se&nbsp;najednou tátové proberou.</p></div>
+        <div class="text-chunk"><p>Berou děti na&nbsp;výlety, plánují, vaří a&nbsp;pečují.</p></div>
+        <div class="text-chunk"><p>A&nbsp;ještě o&nbsp;tom sdílí příspěvky na&nbsp;sociální sítě a&nbsp;jsou za&nbsp;hrdiny.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="slide slide-content" id="slide-3">
+    <div class="content-body">
+      <p class="angry-claim"><span class="line-pink">Je to k&nbsp;vzteku.</span>Proč to&nbsp;doteď nešlo?</p>
+    </div>
+  </div>
+
+  <!-- Slide 4 -->
+  <div class="slide slide-content" id="slide-4">
+    <div class="content-body">
+      <div class="text-chunks">
+        <div class="text-chunk"><p>Vaší zlosti rozumíme. Klidně se&nbsp;ještě chvíli zlobte.</p></div>
+        <div class="text-chunk"><p>A&nbsp;zároveň se&nbsp;na&nbsp;to zkuste podívat z&nbsp;té lepší strany: <span class="bold">Lepší pozdě, než nikdy</span>, ne?</p></div>
+        <div class="text-chunk"><p>Děti teď mají tátu, který se&nbsp;jim věnuje.</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Slide 5 -->
+  <div class="slide slide-content" id="slide-5">
+    <div class="content-body">
+      <div class="text-chunks">
+        <div class="text-chunk"><p>Nebojte, vás to&nbsp;jako mámu nijak neohrozí.</p></div>
+        <div class="text-chunk"><p>Víte přece dobře, jaká dřina rodičovství je, tak proč se&nbsp;o&nbsp;ni konečně víc nepodělit?</p></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Slide 6 — Closing -->
+  <div class="slide slide-alt" id="slide-6">
+    <div class="closing-chunks">
+      <p>Přejte dětem i&nbsp;druhému rodiči všechny společné zážitky.</p>
+      <p>Radujte se&nbsp;z&nbsp;toho, jak jim to&nbsp;zkvalitní vztah.</p>
+      <p>A&nbsp;užívejte si čas, který budete mít konečně <span class="em">sama pro&nbsp;sebe</span>.</p>
+    </div>
+    <div class="illust-cta"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/D%C3%ADt%C4%9B%20se%20nemus%C3%AD%20p%C5%99etva%C5%99ovat.png" alt=""></div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { overflow: hidden; background: #222; display: flex; gap: 20px; padding: 20px; }
+    
+    .preview-container {
+      display: flex; flex-direction: column; align-items: center; color: white; font-family: sans-serif;
+    }
+
+    .frame {
+      width: 432px; height: 540px;
+      position: relative;
+      overflow: hidden;
+      background: #000;
+      margin-bottom: 10px;
+      border: 2px solid #555;
+    }
+
+    /* Perfect exact matching gradient */
+    .gradient-bg {
+      width: 100%; height: 100%;
+      background: linear-gradient(135deg, #7e2e79 0%, #4e3685 25%, #e93277 50%, #1ba4b8 85%, #21bfcc 100%);
+    }
+
+    /* PRECISE 26% HEIGHT BAND */
+    .content-bg {
+      width: 100%; height: 100%;
+      background: #ffffff;
+      position: relative;
+    }
+    
+    .content-bg .top-bar {
+      position: absolute; top: 0; left: 0; right: 0; height: 8px;
+      background: linear-gradient(90deg, #7e2e79, #e93277, #1b9bb2);
+    }
+    
+    .content-bg .bottom-bar {
+      position: absolute; bottom: 0; left: 0; right: 0; 
+      height: 26%; /* Raised slightly to be exactly 26% of the height */
+      background: linear-gradient(90deg, #7e2e79 0%, #5e3b9a 25%, #1b9bb2 60%, #21bfcc 100%);
+    }
+  </style>
+</head>
+<body>
+  <div class="preview-container">
+    <h3>Cover Background</h3>
+    <div class="frame"><div class="gradient-bg"></div></div>
+  </div>
+  
+  <div class="preview-container">
+    <h3>Content Background</h3>
+    <div class="frame">
+      <div class="content-bg">
+        <div class="top-bar"></div>
+        <div class="bottom-bar"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

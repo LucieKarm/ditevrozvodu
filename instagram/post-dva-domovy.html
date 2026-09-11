@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Dva domovy — Post</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #2b2d72;
+      --accent-pink: #e55297;
+      --accent-blue: #3bb6e6;
+      --peach: #f5d0c5;
+      --teal: #2ec4b6;
+    }
+
+    body { font-family: 'Lexend', sans-serif; background:#000; overflow:hidden; }
+
+    .slide { width:1080px; height:1350px; position:absolute; top:0; left:0; overflow:hidden; display:none; }
+    .slide.active { display:flex; }
+
+    /* Cover & CTA use gradient background (slide 2 fixed) */
+    .slide-cover, .slide-alt {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 2.png');
+      background-size: cover;
+      flex-direction: column; align-items:center; justify-content:center;
+    }
+
+    .slide-cover .title-area { width:100%; padding:100px 55px 10px; text-align:center; }
+    .slide-cover .title { font-size:110px; font-weight:800; color:#fff; letter-spacing:-2px; text-shadow:0 4px 25px rgba(0,0,0,0.25); line-height:1.1; }
+    .slide-cover .illustration-wrap { flex:1; display:flex; align-items:center; justify-content:center; padding-bottom:50px; }
+    .slide-cover .illustration { width:850px; filter:drop-shadow(0 15px 50px rgba(0,0,0,0.3)); }
+
+    /* Content slides use white background (slide 1 fixed) */
+    .slide-content {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 1.jpeg');
+      background-size: cover;
+      flex-direction: column; padding:70px 60px 110px;
+    }
+
+    .slide-content .text-block { font-size:52px; font-weight:400; color:#1a1a2e; line-height:1.55; }
+    .slide-content .text-block .bold { font-weight:700; }
+    .slide-content .text-block .highlight-pink { font-weight:700; color:var(--accent-pink); }
+    .slide-content .text-block .highlight-primary { font-weight:700; color:var(--primary); }
+    .slide-content .text-block.large-claim { font-size:80px; font-weight:800; margin:10px 0; }
+
+    .slide-content .illust-bottom { flex:1; display:flex; align-items:flex-end; justify-content:center; padding-bottom:150px; }
+    .slide-content .illust-bottom img { width:750px; }
+
+    .key-box { background:var(--primary); border-radius:28px; padding:60px 65px; margin-top:40px; box-shadow:0 10px 40px rgba(43,45,114,0.2); }
+    .key-box p { font-size:48px; font-weight:500; color:#fff; line-height:1.55; }
+    .key-box .em-pink { color:var(--accent-pink); font-weight:700; }
+    .key-box .em-peach { color:var(--peach); font-weight:700; }
+
+    .section-label { font-size:60px; font-weight:700; color:#1a1a2e; margin-bottom:50px; }
+    .section-label .pink { color:var(--accent-pink); }
+    .tip-item { margin-bottom:45px; padding-left:35px; border-left:8px solid var(--accent-pink); }
+    .tip-item.blue { border-left-color:var(--accent-blue); }
+    .tip-item.primary { border-left-color:var(--primary); }
+    .tip-item .tip-title { font-size:42px; font-weight:700; color:#1a1a2e; margin-bottom:12px; }
+    .tip-item .tip-desc { font-size:36px; font-weight:400; color:#3a3a5e; line-height:1.5; }
+
+    .slide-alt .conclusion { font-size:48px; font-weight:500; color:rgba(255,255,255,0.95); line-height:1.55; margin-bottom:60px; max-width:960px; text-align:center; text-shadow:0 2px 12px rgba(0,0,0,0.12); }
+    .slide-alt .conclusion .em { font-weight:700; color:#fff; }
+  </style>
+</head>
+<body>
+  <!-- Slide 1 – Cover -->
+  <div class="slide slide-cover active">
+    <div class="title-area"><h1 class="title">Dva domovy</h1></div>
+    <div class="illustration-wrap"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva%20domovy.png" alt="" class="illustration"></div>
+  </div>
+
+  <!-- Slide 2 – Intro -->
+  <div class="slide slide-content">
+    <div class="text-block">Když se rodiče rozvádějí, často si představují <span class="bold">nešťastné dítě pendlující mezi dvěma byty.</span><br><br>Takto to ale <span class="highlight-pink">být nemusí</span> a&nbsp;často ani&nbsp;není. ✨</div>
+    <div class="illust-bottom"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva%20domovy.png" alt=""></div>
+  </div>
+
+  <!-- Slide 3 – Key claim (needs larger text) -->
+  <div class="slide slide-content">
+    <div class="text-block large-claim">Dva domovy samy o&nbsp;sobě dětem <span class="highlight-primary">neškodí</span>.</div>
+    <div class="key-box"><p>Škodí <span class="em-pink">konflikt rodičů</span>, nejistota a&nbsp;pocit, že někam nepatří.</p></div>
+  </div>
+
+  <!-- Slide 4 – Logistics -->
+  <div class="slide slide-content">
+    <div class="text-block">Ano, dva domovy jsou logisticky náročné. Pro&nbsp;děti i&nbsp;pro&nbsp;vás.<br><br>Ale dospělí i&nbsp;děti si na to zvyknou — pokud jsou <span class="highlight-pink">oba rodiče ochotní spolupracovat</span>.</div>
+    <div class="illust-bottom"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva%20domovy.png" alt="" style="width:650px;"></div>
+  </div>
+
+  <!-- Slide 5 – Tips part 1 -->
+  <div class="slide slide-content">
+    <p class="section-label">Co <span class="pink">pomáhá</span>?</p>
+    <div class="tip-item"><p class="tip-title">Propustnost mezi domovy</p><p class="tip-desc">Fotka mámy u&nbsp;táty na lednici, oblíbená hračka, která cestuje s&nbsp;dítětem, možnost zavolat tátovi od mámy.</p></div>
+    <div class="tip-item blue"><p class="tip-title">Předvídatelnost</p><p class="tip-desc">Dítě potřebuje vědět, co a&nbsp;kdy ho čeká.</p></div>
+  </div>
+
+  <!-- Slide 6 – Tips part 2 -->
+  <div class="slide slide-content">
+    <p class="section-label">Co <span class="pink">pomáhá</span>?</p>
+    <div class="tip-item primary"><p class="tip-title">Respekt k druhému rodiči</p><p class="tip-desc">Jedovaté, pasivně agresivní nebo hrubé poznámky o&nbsp;druhém rodiči vám možná uleví, vašemu dítěti ale naloží ještě víc.</p></div>
+    <div class="tip-item blue"><p class="tip-title">Čas na zvyknutí si</p><p class="tip-desc">První týdny budou divné. Pro&nbsp;všechny. To&nbsp;je&nbsp;normální.</p></div>
+    <div class="tip-item"><p class="tip-title">Nesoutěžit</p><p class="tip-desc">Dva domovy mají být dvě místa, kde se dítě cítí doma, ne závod o&nbsp;jeho přízeň.</p></div>
+  </div>
+
+  <!-- Slide 7 – CTA -->
+  <div class="slide slide-alt">
+    <p class="conclusion">Děti, které žijí ve dvou <span class="em">klidných domovech bez konfliktů</span>, jsou na tom líp než děti v jedné domácnosti plné napětí.<br><br>A je na vás dospělých, abyste pro&nbsp;své děti <span class="em">klid a&nbsp;stabilitu</span> časem zvládli vytvořit. 🕊️</p>
+  </div>
+</body>
+</html>

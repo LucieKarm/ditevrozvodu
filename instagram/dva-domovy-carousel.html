@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Dva domovy — Instagram Carousel</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary: #2b2d72;
+      --accent-pink: #e55297;
+      --accent-blue: #3bb6e6;
+      --bg-cream: #faf8f5;
+      --bg-white: #ffffff;
+      --peach: #f5d0c5;
+      --peach-light: #fdf0ec;
+      --text-muted: #6b6da0;
+      --slide-width: 1080px;
+      --slide-height: 1350px;
+    }
+
+    body {
+      font-family: 'Lexend', sans-serif;
+      background: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+      padding: 40px;
+    }
+
+    .slide-label {
+      font-family: 'Lexend', sans-serif;
+      font-size: 18px;
+      color: #666;
+      margin-bottom: -30px;
+      font-weight: 500;
+    }
+
+    .slide {
+      width: var(--slide-width);
+      height: var(--slide-height);
+      position: relative;
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
+    /* ======================== */
+    /*   SLIDE 1 — COVER        */
+    /* ======================== */
+    .slide-1 {
+      background: var(--bg-cream);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slide-1 .deco-top {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 180px;
+      background: linear-gradient(135deg, var(--primary) 0%, #3d3f8a 100%);
+      border-radius: 0 0 50% 50% / 0 0 100% 100%;
+    }
+
+    .slide-1 .deco-bottom {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 120px;
+      background: linear-gradient(135deg, var(--peach) 0%, var(--accent-pink) 100%);
+      border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+      opacity: 0.3;
+    }
+
+    .slide-1 .illustration {
+      width: 580px;
+      height: auto;
+      margin-top: 40px;
+      z-index: 2;
+      filter: drop-shadow(0 20px 40px rgba(43, 45, 114, 0.15));
+    }
+
+    .slide-1 .title {
+      font-size: 72px;
+      font-weight: 800;
+      color: var(--primary);
+      z-index: 2;
+      margin-top: 50px;
+      letter-spacing: -1px;
+    }
+
+    .slide-1 .subtitle {
+      font-size: 28px;
+      font-weight: 400;
+      color: var(--text-muted);
+      z-index: 2;
+      margin-top: 16px;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    .slide-1 .subtitle em {
+      color: var(--accent-pink);
+      font-style: normal;
+      font-weight: 600;
+    }
+
+    .slide-1 .swipe-cue {
+      position: absolute;
+      bottom: 60px;
+      right: 60px;
+      font-size: 20px;
+      color: var(--text-muted);
+      font-weight: 500;
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .slide-1 .swipe-cue .arrow {
+      font-size: 28px;
+      animation: nudge 1.5s ease-in-out infinite;
+    }
+
+    @keyframes nudge {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(8px); }
+    }
+
+    .slide-1 .brand {
+      position: absolute;
+      bottom: 60px;
+      left: 60px;
+      font-size: 20px;
+      color: var(--text-muted);
+      font-weight: 500;
+      z-index: 2;
+    }
+
+    /* ======================== */
+    /*   CONTENT SLIDES          */
+    /* ======================== */
+    .content-slide {
+      background: var(--bg-cream);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 80px 100px;
+    }
+
+    .content-slide .slide-number {
+      position: absolute;
+      top: 50px;
+      right: 60px;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--accent-pink);
+      opacity: 0.6;
+    }
+
+    .content-slide .brand-bottom {
+      position: absolute;
+      bottom: 40px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-size: 18px;
+      color: var(--text-muted);
+      font-weight: 400;
+      opacity: 0.5;
+    }
+
+    .content-slide .accent-bar {
+      width: 60px;
+      height: 5px;
+      background: var(--accent-pink);
+      border-radius: 3px;
+      margin-bottom: 40px;
+    }
+
+    .content-slide .slide-title {
+      font-size: 44px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1.3;
+      margin-bottom: 36px;
+    }
+
+    .content-slide .slide-text {
+      font-size: 30px;
+      font-weight: 400;
+      color: var(--primary);
+      line-height: 1.65;
+      flex: 1;
+    }
+
+    .content-slide .slide-text .highlight {
+      color: var(--accent-pink);
+      font-weight: 600;
+    }
+
+    .content-slide .slide-text .highlight-blue {
+      color: var(--accent-blue);
+      font-weight: 600;
+    }
+
+    /* Decorative shapes */
+    .content-slide .deco-circle {
+      position: absolute;
+      border-radius: 50%;
+      opacity: 0.08;
+    }
+
+    /* ======================== */
+    /*   SLIDE 2                 */
+    /* ======================== */
+    .slide-2 .deco-circle-1 {
+      width: 300px;
+      height: 300px;
+      background: var(--accent-pink);
+      bottom: 100px;
+      right: -80px;
+    }
+
+    .slide-2 .deco-circle-2 {
+      width: 180px;
+      height: 180px;
+      background: var(--accent-blue);
+      top: 200px;
+      left: -60px;
+    }
+
+    /* ======================== */
+    /*   SLIDE 3                 */
+    /* ======================== */
+    .slide-3 {
+      justify-content: center;
+    }
+
+    .slide-3 .key-message {
+      background: linear-gradient(135deg, var(--primary), #3d3f8a);
+      border-radius: 24px;
+      padding: 60px;
+      margin-top: 20px;
+    }
+
+    .slide-3 .key-message p {
+      font-size: 34px;
+      font-weight: 500;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+
+    .slide-3 .key-message .em {
+      color: var(--peach);
+      font-weight: 700;
+    }
+
+    .slide-3 .deco-circle-1 {
+      width: 250px;
+      height: 250px;
+      background: var(--peach);
+      top: 60px;
+      right: -60px;
+      opacity: 0.12;
+    }
+
+    /* ======================== */
+    /*   SLIDE 4                 */
+    /* ======================== */
+    .slide-4 .deco-circle-1 {
+      width: 400px;
+      height: 400px;
+      background: var(--accent-blue);
+      bottom: 60px;
+      left: -120px;
+    }
+
+    /* ======================== */
+    /*   SLIDE 5 — Tips         */
+    /* ======================== */
+    .tips-slide {
+      background: var(--bg-cream);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 70px 100px;
+    }
+
+    .tips-slide .slide-number {
+      position: absolute;
+      top: 50px;
+      right: 60px;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--accent-pink);
+      opacity: 0.6;
+    }
+
+    .tips-slide .brand-bottom {
+      position: absolute;
+      bottom: 40px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      font-size: 18px;
+      color: var(--text-muted);
+      font-weight: 400;
+      opacity: 0.5;
+    }
+
+    .tips-slide .section-header {
+      font-size: 42px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 50px;
+    }
+
+    .tips-slide .section-header .pink {
+      color: var(--accent-pink);
+    }
+
+    .tip-card {
+      background: var(--bg-white);
+      border-radius: 20px;
+      padding: 36px 40px;
+      margin-bottom: 24px;
+      border-left: 6px solid var(--accent-pink);
+      box-shadow: 0 4px 20px rgba(43, 45, 114, 0.06);
+    }
+
+    .tip-card.blue {
+      border-left-color: var(--accent-blue);
+    }
+
+    .tip-card.peach {
+      border-left-color: var(--peach);
+    }
+
+    .tip-card .tip-title {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 12px;
+    }
+
+    .tip-card .tip-text {
+      font-size: 23px;
+      font-weight: 400;
+      color: var(--primary);
+      line-height: 1.55;
+      opacity: 0.85;
+    }
+
+    /* ======================== */
+    /*   SLIDE 7 — CTA           */
+    /* ======================== */
+    .slide-7 {
+      background: linear-gradient(160deg, var(--primary) 0%, #3d3f8a 40%, #4a4cb0 100%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px;
+      text-align: center;
+    }
+
+    .slide-7 .conclusion {
+      font-size: 32px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.9);
+      line-height: 1.65;
+      margin-bottom: 60px;
+      max-width: 860px;
+    }
+
+    .slide-7 .conclusion .em {
+      color: var(--peach);
+      font-weight: 700;
+    }
+
+    .slide-7 .divider {
+      width: 80px;
+      height: 4px;
+      background: var(--accent-pink);
+      border-radius: 2px;
+      margin-bottom: 60px;
+    }
+
+    .slide-7 .cta-text {
+      font-size: 28px;
+      font-weight: 400;
+      color: rgba(255, 255, 255, 0.7);
+      margin-bottom: 20px;
+    }
+
+    .slide-7 .cta-url {
+      font-size: 36px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 50px;
+    }
+
+    .slide-7 .save-prompt {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 24px 48px;
+      font-size: 24px;
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+    }
+
+    .slide-7 .deco-circle {
+      position: absolute;
+      border-radius: 50%;
+    }
+
+    .slide-7 .deco-circle-1 {
+      width: 400px;
+      height: 400px;
+      background: var(--accent-pink);
+      opacity: 0.08;
+      top: -100px;
+      right: -100px;
+    }
+
+    .slide-7 .deco-circle-2 {
+      width: 300px;
+      height: 300px;
+      background: var(--accent-blue);
+      opacity: 0.06;
+      bottom: -80px;
+      left: -80px;
+    }
+
+    .slide-7 .deco-circle-3 {
+      width: 200px;
+      height: 200px;
+      background: var(--peach);
+      opacity: 0.1;
+      top: 200px;
+      left: -50px;
+    }
+
+    .slide-7 .illustration-small {
+      width: 280px;
+      height: auto;
+      margin-bottom: 50px;
+      opacity: 0.9;
+      filter: drop-shadow(0 10px 30px rgba(0,0,0,0.2));
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===================== SLIDE 1 — COVER ===================== -->
+  <p class="slide-label">Slide 1 / 7 — Cover</p>
+  <div class="slide slide-1" id="slide-1">
+    <div class="deco-top"></div>
+    <div class="deco-bottom"></div>
+    <img src="/Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva domovy.png" alt="Dva domovy" class="illustration">
+    <h1 class="title">Dva domovy</h1>
+    <p class="subtitle">Musí to znamenat <em>nešťastné dítě</em>?</p>
+    <span class="swipe-cue">Swipni <span class="arrow">→</span></span>
+    <span class="brand">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 2 ===================== -->
+  <p class="slide-label">Slide 2 / 7</p>
+  <div class="slide content-slide slide-2" id="slide-2">
+    <div class="deco-circle deco-circle-1"></div>
+    <div class="deco-circle deco-circle-2"></div>
+    <span class="slide-number">2 / 7</span>
+    <div class="accent-bar"></div>
+    <p class="slide-text" style="display:flex; flex-direction:column; justify-content:center; flex:1;">
+      Když se rodiče rozvádějí, často si představují
+      <span style="font-size: 40px; font-weight: 700; color: var(--primary); margin: 30px 0; line-height: 1.35;">
+        nešťastné dítě pendlující mezi dvěma byty.
+      </span>
+      <span style="margin-top: 20px; font-size: 34px;">
+        Takhle to ale <span class="highlight">být nemusí</span> a&nbsp;často ani není.
+      </span>
+    </p>
+    <span class="brand-bottom">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 3 ===================== -->
+  <p class="slide-label">Slide 3 / 7 — Key Message</p>
+  <div class="slide content-slide slide-3" id="slide-3">
+    <div class="deco-circle deco-circle-1"></div>
+    <span class="slide-number">3 / 7</span>
+    <div class="accent-bar"></div>
+    <h2 class="slide-title">Co dětem opravdu škodí?</h2>
+    <div class="key-message">
+      <p>
+        Dva domovy samy o&nbsp;sobě dětem <span class="em">neškodí</span>.
+      </p>
+      <p style="margin-top: 30px;">
+        Škodí <span class="em">konflikt rodičů</span>, nejistota a&nbsp;pocit, že nikam nepatří.
+      </p>
+    </div>
+    <span class="brand-bottom">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 4 ===================== -->
+  <p class="slide-label">Slide 4 / 7</p>
+  <div class="slide content-slide slide-4" id="slide-4">
+    <div class="deco-circle deco-circle-1"></div>
+    <span class="slide-number">4 / 7</span>
+    <div class="accent-bar"></div>
+    <h2 class="slide-title">Je to náročné.<br>Ale zvládnutelné.</h2>
+    <p class="slide-text">
+      Ano, dva domovy jsou logisticky náročné. Pro&nbsp;děti i&nbsp;pro&nbsp;vás.
+      <br><br>
+      Ale dospělí i&nbsp;děti si na to zvyknou — pokud jsou <span class="highlight">oba rodiče ochotní spolupracovat</span>.
+    </p>
+    <span class="brand-bottom">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 5 — Tips 1-3 ===================== -->
+  <p class="slide-label">Slide 5 / 7 — Tips</p>
+  <div class="slide tips-slide" id="slide-5">
+    <span class="slide-number">5 / 7</span>
+    <h2 class="section-header">Co <span class="pink">pomáhá</span>?</h2>
+
+    <div class="tip-card">
+      <p class="tip-title">Propustnost mezi domovy</p>
+      <p class="tip-text">Fotka mámy u&nbsp;táty na lednici, oblíbená hračka, která cestuje s&nbsp;dítětem, možnost zavolat druhému rodiči.</p>
+    </div>
+
+    <div class="tip-card blue">
+      <p class="tip-title">Předvídatelnost</p>
+      <p class="tip-text">Dítě potřebuje vědět, co a&nbsp;kdy ho čeká. Jasný plán a&nbsp;pravidelnost mu dávají pocit bezpečí.</p>
+    </div>
+
+    <div class="tip-card peach">
+      <p class="tip-title">Respekt k druhému rodiči</p>
+      <p class="tip-text">Jedovaté poznámky o&nbsp;druhém rodiči vám možná uleví, vašemu dítěti ale naloží ještě víc.</p>
+    </div>
+
+    <span class="brand-bottom">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 6 — Tips 4-5 ===================== -->
+  <p class="slide-label">Slide 6 / 7 — Tips</p>
+  <div class="slide tips-slide" id="slide-6">
+    <span class="slide-number">6 / 7</span>
+    <h2 class="section-header" style="margin-bottom: 50px;">Co <span class="pink">pomáhá</span>?</h2>
+
+    <div class="tip-card blue">
+      <p class="tip-title">Čas na zvyknutí si</p>
+      <p class="tip-text">První týdny budou divné. Pro&nbsp;všechny. To je normální.</p>
+    </div>
+
+    <div class="tip-card">
+      <p class="tip-title">Nesoutěžit</p>
+      <p class="tip-text">Dva domovy mají být dvě místa, kde se dítě cítí doma — ne závod o&nbsp;jeho přízeň.</p>
+    </div>
+
+    <div style="flex: 1; display: flex; align-items: center; justify-content: center; margin-top: 30px;">
+      <img src="/Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva domovy.png" alt="Dva domovy" style="width: 380px; height: auto; opacity: 0.2; filter: grayscale(30%);">
+    </div>
+
+    <span class="brand-bottom">ditevrozvodu.cz</span>
+  </div>
+
+  <!-- ===================== SLIDE 7 — Conclusion + CTA ===================== -->
+  <p class="slide-label">Slide 7 / 7 — CTA</p>
+  <div class="slide slide-7" id="slide-7">
+    <div class="deco-circle deco-circle-1"></div>
+    <div class="deco-circle deco-circle-2"></div>
+    <div class="deco-circle deco-circle-3"></div>
+    <img src="/Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva domovy.png" alt="Dva domovy" class="illustration-small">
+    <p class="conclusion">
+      Děti, které žijí ve&nbsp;dvou <span class="em">klidných domovech</span> bez&nbsp;konfliktů, jsou na tom líp než děti v&nbsp;jedné domácnosti plné napětí.
+      <br><br>
+      Je na vás dospělých, abyste pro&nbsp;své děti <span class="em">klid a&nbsp;stabilitu</span> časem zvládli vytvořit.
+    </p>
+    <div class="divider"></div>
+    <p class="cta-text">Více na</p>
+    <p class="cta-url">ditevrozvodu.cz</p>
+    <div class="save-prompt">Uložte si a sdílejte s tím, kdo to potřebuje ♡</div>
+  </div>
+
+</body>
+</html>

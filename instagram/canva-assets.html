@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { overflow: hidden; background: #000; }
+    .asset { position: absolute; top: 0; left: 0; display: none; }
+    .asset.active { display: block; }
+
+    /* Gradient background for cover/CTA slides */
+    .gradient-bg {
+      width: 1080px; height: 1350px;
+      background: linear-gradient(160deg, #4a1942 0%, #2b2d72 20%, #e55297 45%, #3bb6e6 75%, #2ec4b6 100%);
+    }
+
+    /* White background with top accent + bottom bar for content slides */
+    .content-bg {
+      width: 1080px; height: 1350px;
+      background: #ffffff;
+      position: relative;
+    }
+    .content-bg .top-bar {
+      position: absolute; top: 0; left: 0; right: 0; height: 8px;
+      background: linear-gradient(90deg, #4a1942, #2b2d72, #e55297, #3bb6e6, #2ec4b6);
+    }
+    .content-bg .bottom-bar {
+      position: absolute; bottom: 0; left: 0; right: 0; height: 100px;
+      background: linear-gradient(90deg, #3bb6e6 0%, #2ec4b6 100%);
+    }
+
+    /* Dark box element (for slide 3) */
+    .dark-box {
+      width: 960px; height: 400px;
+      background: #2b2d72;
+      border-radius: 28px;
+    }
+  </style>
+</head>
+<body>
+  <div class="asset gradient-bg active" id="asset-1"></div>
+  <div class="asset content-bg" id="asset-2">
+    <div class="top-bar"></div>
+    <div class="bottom-bar"></div>
+  </div>
+  <div class="asset dark-box" id="asset-3"></div>
+
+  <script>
+    let current = 1;
+    function showAsset(n) {
+      document.querySelectorAll('.asset').forEach(a => a.classList.remove('active'));
+      document.getElementById('asset-' + n).classList.add('active');
+      current = n;
+    }
+  </script>
+</body>
+</html>

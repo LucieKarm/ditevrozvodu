@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { margin:0; padding:0; background:transparent; overflow:hidden; }
+    img {
+      width: 500px; height: 500px;
+      /* This blend mode is a visual hack, we will use JS to grab pixels instead or simple canvas manipulation */
+    }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <canvas id="c" width="500" height="500"></canvas>
+  <script>
+    const c = document.getElementById('c');
+    const ctx = c.getContext('2d');
+    const img = new Image();
+    img.onload = function() {
+      ctx.drawImage(img, 0, 0, 500, 500);
+      const imgData = ctx.getImageData(0, 0, 500, 500);
+      const data = imgData.data;
+      // Simple color extraction: assume black is background
+      for (let i = 0; i < data.length; i += 4) {
+        const r = data[i];
+        const g = data[i+1];
+        const b = data[i+2];
+        // If the pixel is very dark, make it transparent
+        if (r < 50 && g < 50 && b < 50) {
+          data[i+3] = 0;
+        }
+      }
+      ctx.clearRect(0, 0, 500, 500);
+      ctx.putImageData(imgData, 0, 0);
+      document.body.classList.add('ready');
+    };
+    img.src = 'file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/SPONDEA_favikona_BW(negativ).jpg';
+  </script>
+</body>
+</html>

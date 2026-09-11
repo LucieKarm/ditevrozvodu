@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Dva domovy — Export</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #2b2d72;
+      --accent-pink: #e55297;
+      --accent-blue: #3bb6e6;
+      --pad-x: 60px;
+      --text-top: 100px;
+      --pad-bottom: 110px;
+    }
+
+    body { font-family: 'Lexend', sans-serif; background:#000; overflow:hidden; }
+
+    .slide { width:1080px; height:1350px; position:absolute; top:0; left:0; overflow:hidden; display:none; }
+    .slide.active { display:flex; }
+
+    .slide-cover, .slide-alt {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 2.png');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column; align-items:center; justify-content:center;
+    }
+
+    .slide-cover .title-area { width:100%; padding:80px 48px 10px; text-align:center; }
+    .slide-cover .title {
+      font-size:72px; font-weight:800; color:#fff; letter-spacing:-2px;
+      text-shadow:0 4px 25px rgba(0,0,0,0.25); line-height:1.15; text-wrap:balance;
+    }
+    .slide-cover .title .neq { color:var(--accent-pink); font-weight:800; }
+    .slide-cover .illustration-wrap { flex:1; display:flex; align-items:center; justify-content:center; padding-bottom:50px; min-height:0; }
+    .slide-cover .illustration { width:780px; filter:drop-shadow(0 15px 50px rgba(0,0,0,0.3)); }
+
+    .slide-content {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 1.jpeg');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: flex-start;
+      padding: var(--text-top) var(--pad-x) var(--pad-bottom);
+    }
+
+    .content-body { flex-shrink: 0; width: 100%; }
+
+    .slide-content .text-block.large-claim {
+      font-size:90px; font-weight:800; line-height:1.2; text-wrap:balance;
+      color:#1a1a2e;
+    }
+    .slide-content .text-block .highlight-primary { font-weight:700; color:var(--primary); }
+
+    .key-box {
+      background:var(--primary); border-radius:28px; padding:55px 60px; margin-top:36px;
+      box-shadow:0 10px 40px rgba(43,45,114,0.2);
+    }
+    .key-box p { font-size:48px; font-weight:500; color:#fff; line-height:1.52; text-wrap:pretty; }
+    .key-box .em-pink { color:var(--accent-pink); font-weight:700; }
+
+    .section-label { font-size:58px; font-weight:700; color:#1a1a2e; margin-bottom:40px; text-wrap:balance; flex-shrink:0; }
+    .section-label .pink { color:var(--accent-pink); }
+
+    .tip-headlines { display:flex; flex-direction:column; gap:32px; flex-shrink:0; }
+    .tip-headlines li {
+      list-style:none;
+      font-size:44px;
+      font-weight:700;
+      color:#1a1a2e;
+      line-height:1.35;
+      text-wrap:pretty;
+      padding-left:28px;
+      position:relative;
+    }
+    .tip-headlines li::before {
+      content:'';
+      position:absolute;
+      left:0;
+      top:0.45em;
+      width:10px;
+      height:10px;
+      border-radius:50%;
+      background:var(--accent-pink);
+    }
+    .tip-headlines li:nth-child(2)::before { background:var(--accent-blue); }
+    .tip-headlines li:nth-child(3)::before { background:var(--primary); }
+    .tip-headlines li:nth-child(4)::before { background:var(--accent-pink); }
+    .tip-headlines li:nth-child(5)::before { background:var(--accent-blue); }
+
+    .slide-alt .conclusion {
+      font-size:62px; font-weight:600; color:rgba(255,255,255,0.95);
+      line-height:1.4; max-width:960px; text-align:center;
+      text-shadow:0 2px 12px rgba(0,0,0,0.12); text-wrap:pretty;
+      padding:0 20px;
+    }
+    .slide-alt .conclusion .em { font-weight:800; color:#fff; }
+  </style>
+</head>
+<body>
+  <!-- Slide 1 — Cover (merged 1+2) -->
+  <div class="slide slide-cover active" id="slide-1">
+    <div class="title-area">
+      <h1 class="title">Dva domovy <span class="neq">≠</span> nešťastné dítě s&nbsp;batůžkem</h1>
+    </div>
+    <div class="illustration-wrap"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/Dva%20domovy.png" alt="" class="illustration"></div>
+  </div>
+
+  <!-- Slide 2 — Key claim (was 3) -->
+  <div class="slide slide-content" id="slide-2">
+    <div class="content-body">
+      <div class="text-block large-claim">Dva domovy samy o&nbsp;sobě dětem <span class="highlight-primary">neškodí</span>.</div>
+      <div class="key-box"><p>Škodí <span class="em-pink">konflikt rodičů</span>, nejistota a&nbsp;pocit, že někam nepatří.</p></div>
+    </div>
+  </div>
+
+  <!-- Slide 3 — Tips headlines only (merged 5+6) -->
+  <div class="slide slide-content" id="slide-3">
+    <div class="content-body">
+      <p class="section-label">Co <span class="pink">pomáhá</span>?</p>
+      <ul class="tip-headlines">
+        <li>Mluvte o&nbsp;druhém rodiči s&nbsp;respektem</li>
+        <li>Dopřejte si všichni čas na&nbsp;zvyknutí si</li>
+        <li>Vyhněte se&nbsp;soutěžení, kde je&nbsp;to lepší</li>
+        <li>Nechte dítě přenášet oblíbené věcmi mezi domácnostmi</li>
+        <li>Dopřejte dítěti předvídatelnost</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Slide 4 — Closing (was 7, shortened) -->
+  <div class="slide slide-alt" id="slide-4">
+    <p class="conclusion">Děti, které žijí ve&nbsp;dvou <span class="em">klidných domovech bez konfliktů</span>, jsou na&nbsp;tom líp než děti v&nbsp;jedné domácnosti plné napětí.</p>
+  </div>
+</body>
+</html>

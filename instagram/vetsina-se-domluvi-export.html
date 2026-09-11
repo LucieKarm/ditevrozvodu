@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080">
+  <title>Většina se domluví! — Export</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #2b2d72;
+      --accent-pink: #e55297;
+      --accent-blue: #3bb6e6;
+      --peach: #f5d0c5;
+      --teal: #2ec4b6;
+      --pad-x: 58px;
+      --text-top: 100px;
+      --pad-bottom: 100px;
+    }
+
+    body { font-family: 'Lexend', sans-serif; background:#000; overflow:hidden; }
+
+    .slide { width:1080px; height:1350px; position:absolute; top:0; left:0; overflow:hidden; display:none; }
+    .slide.active { display:flex; }
+
+    .slide-cover, .slide-alt {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 2.png');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column; align-items:center;
+    }
+
+    .slide-cover { justify-content:center; }
+
+    .slide-cover .title-area { width:100%; padding:90px 55px 10px; text-align:center; }
+    .slide-cover .title { font-size:96px; font-weight:800; color:#fff; letter-spacing:-2px; text-shadow:0 4px 25px rgba(0,0,0,0.25); line-height:1.1; text-wrap: balance; }
+    .slide-cover .illustration-wrap { flex:1; display:flex; align-items:center; justify-content:center; padding-bottom:50px; }
+    .slide-cover .illustration { width:820px; filter:drop-shadow(0 15px 50px rgba(0,0,0,0.3)); }
+
+    .slide-content {
+      background-image: url('file:///Users/luciekarmova/Coding/ditevrozvodu/instagram/slides/slide 1.jpeg');
+      background-size: cover;
+      background-position: center;
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: flex-start;
+      padding: var(--text-top) var(--pad-x) var(--pad-bottom);
+    }
+
+    .content-body { flex-shrink: 0; width: 100%; }
+
+    .slide-content .text-block { font-size:52px; font-weight:400; color:#1a1a2e; line-height:1.5; text-wrap: pretty; flex-shrink: 0; }
+    .slide-content .text-block .bold { font-weight:700; }
+    .slide-content .text-block .highlight-pink { font-weight:700; color:var(--accent-pink); }
+    .slide-content .text-block .highlight-primary { font-weight:700; color:var(--primary); }
+    .slide-content .text-block.large-claim { font-size:74px; font-weight:800; line-height:1.25; text-wrap: balance; }
+    .slide-content .text-block.stat-claim { font-size:82px; font-weight:800; line-height:1.2; text-wrap: balance; }
+
+    .text-chunks { display:flex; flex-direction:column; gap:28px; flex-shrink:0; }
+    .text-chunk p { font-size:54px; font-weight:400; color:#1a1a2e; line-height:1.48; text-wrap: pretty; }
+    .text-chunk p .bold { font-weight:700; }
+    .text-chunk p .highlight-pink { font-weight:700; color:var(--accent-pink); }
+
+    .slide-content .illust-bottom { flex:1; display:flex; align-items:flex-end; justify-content:center; padding-bottom:100px; min-height:0; }
+    .slide-content .illust-bottom img { width:700px; }
+    #slide-4 .illust-bottom { padding-bottom:230px; }
+
+    #slide-2 .content-body { margin-bottom: 40px; }
+    #slide-2 .stat-claim { font-size: 76px; line-height: 1.22; }
+    #slide-2 .illust-bottom {
+      flex: 1;
+      align-items: flex-end;
+      justify-content: center;
+      padding-top: 48px;
+      padding-bottom: 230px;
+      min-height: 0;
+    }
+    #slide-2 .illust-bottom img {
+      width: 560px;
+      max-height: 500px;
+      object-fit: contain;
+    }
+
+    .key-box { background:var(--primary); border-radius:28px; padding:55px 60px; margin-top:30px; box-shadow:0 10px 40px rgba(43,45,114,0.2); }
+    .key-box p { font-size:48px; font-weight:500; color:#fff; line-height:1.52; text-wrap: pretty; }
+    .key-box p + p { margin-top:28px; }
+    .key-box .em-pink { color:var(--accent-pink); font-weight:700; }
+
+    .section-label { font-size:58px; font-weight:700; color:#1a1a2e; margin-bottom:36px; text-wrap: balance; flex-shrink: 0; }
+    .section-label .pink { color:var(--accent-pink); }
+
+    .slide-alt { padding:var(--text-top) var(--pad-x) 50px; text-align:center; justify-content:flex-start; align-items:center; }
+    .slide-alt .conclusion { font-size:48px; font-weight:500; color:rgba(255,255,255,0.95); line-height:1.52; max-width:960px; text-shadow:0 2px 12px rgba(0,0,0,0.12); text-wrap: pretty; flex-shrink:0; }
+    .slide-alt .conclusion .em { font-weight:700; color:#fff; }
+    .slide-alt .illust-cta { flex:1; display:flex; align-items:flex-end; justify-content:center; width:100%; padding-top:20px; padding-bottom:240px; }
+    .slide-alt .illust-cta img { width:680px; filter:drop-shadow(0 15px 45px rgba(0,0,0,0.28)); }
+  </style>
+</head>
+<body>
+  <!-- Slide 1 — Cover -->
+  <div class="slide slide-cover active" id="slide-1">
+    <div class="title-area"><h1 class="title">Většina se&nbsp;domluví!</h1></div>
+    <div class="illustration-wrap"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/mediace.png" alt="" class="illustration"></div>
+  </div>
+
+  <!-- Slide 2 — Hook -->
+  <div class="slide slide-content" id="slide-2">
+    <div class="content-body"><div class="text-block stat-claim">Věděli jste, že <span class="highlight-pink">2/3 českých rodičů</span> se&nbsp;u&nbsp;rozvodu nakonec <span class="highlight-primary">DOHODNOU</span>?</div></div>
+    <div class="illust-bottom"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/mediace.png" alt=""></div>
+  </div>
+
+  <!-- Slide 3 — Feeling -->
+  <div class="slide slide-content" id="slide-3">
+    <div class="content-body"><div class="text-chunks">
+      <div class="text-chunk">
+        <p>Možná teď máte pocit, že domluva s&nbsp;druhým rodičem je <span class="bold">naprosto nemožná.</span></p>
+      </div>
+      <div class="text-chunk">
+        <p>Emoce jsou vyšponované na&nbsp;maximum, důvěra na&nbsp;bodu mrazu</p>
+      </div>
+      <div class="text-chunk">
+        <p>a&nbsp;budoucnost vypadá jako jeden velký zamotaný chuchvalec.</p>
+      </div>
+    </div></div>
+  </div>
+
+  <!-- Slide 4 — Encouragement -->
+  <div class="slide slide-content" id="slide-4">
+    <div class="content-body"><div class="text-block large-claim">Ale chceme vás povzbudit: <span class="highlight-pink">Nejste v&nbsp;tom sami</span> a&nbsp;cesta ven existuje!</div></div>
+    <div class="illust-bottom"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/mediace.png" alt="" style="width:620px;"></div>
+  </div>
+
+  <!-- Slide 5 — 65–67 % -->
+  <div class="slide slide-content" id="slide-5">
+    <div class="content-body"><div class="text-block">V&nbsp;ČR <span class="highlight-primary">65–67&nbsp;% rozvodů</span> nakonec jde „dohodou“.<br><br>Při tzv. nesporném rozvodu se&nbsp;rodiče sami domluví na&nbsp;péči, výživném i&nbsp;majetku.</div></div>
+  </div>
+
+  <!-- Slide 6 — 55 % + 10–12 % -->
+  <div class="slide slide-content" id="slide-6">
+    <div class="content-body"><div class="text-chunks">
+      <div class="text-chunk">
+        <p>Zajímavé je, že jen asi <span class="bold">55&nbsp;% párů</span> podává společný návrh hned na&nbsp;začátku.</p>
+      </div>
+      <div class="text-chunk">
+        <p>To znamená, že zbylých cca <span class="highlight-pink">10–12&nbsp;% párů</span> podává na&nbsp;začátku soudního procesu odlišné návrhy,</p>
+      </div>
+      <div class="text-chunk">
+        <p>ale v&nbsp;průběhu procesu <span class="bold">nakonec k&nbsp;dohodě stejně dospějí</span>.</p>
+      </div>
+    </div></div>
+  </div>
+
+  <!-- Slide 7 — Why it matters -->
+  <div class="slide slide-content" id="slide-7">
+    <div class="content-body">
+    <p class="section-label">Proč je&nbsp;to <span class="pink">důležité</span>?</p>
+    <div class="key-box">
+      <p>Méně konfliktů znamená <span class="em-pink">zdravější a&nbsp;spokojenější děti.</span></p>
+      <p>Dohoda, kterou zvládnete dodržovat, také znamená <span class="em-pink">klidnější spánek a&nbsp;nový začátek pro&nbsp;vás.</span></p>
+    </div>
+    </div>
+  </div>
+
+  <!-- Slide 8 — CTA -->
+  <div class="slide slide-alt" id="slide-8">
+    <p class="conclusion">Pokud cítíte, že se&nbsp;točíte v&nbsp;kruzích, zkuste vyhledat <span class="em">odbornou pomoc nebo mediaci</span> dřív, než začnete mluvit jen přes právníky.</p>
+    <div class="illust-cta"><img src="file:///Users/luciekarmova/Coding/ditevrozvodu/public/images/mediace.png" alt=""></div>
+  </div>
+</body>
+</html>
