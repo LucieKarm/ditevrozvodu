@@ -1,0 +1,69 @@
+---
+import CourseLayout from '../../layouts/CourseLayout.astro';
+import StreamVideo from '../../components/StreamVideo.astro';
+import { COURSE_SLUG, TRAILER_VIDEO_ID, lessons } from '../../lib/course';
+import { userHasCourseAccess } from '../../lib/access';
+
+export const prerender = false;
+
+const { supabase, user } = Astro.locals;
+const hasAccess = await userHasCourseAccess(supabase, user, COURSE_SLUG);
+const firstLesson = lessons[0];
+---
+
+<CourseLayout
+  title="Kurz – Jak mluvit s dětmi o rozpadu rodiny"
+  hasAccess={hasAccess}
+  userEmail={user?.email}
+>
+  {
+    !hasAccess ? (
+      <div class="space-y-8">
+        <div class="rounded-2xl bg-white p-8 shadow-sm">
+          <h2 class="mb-4 text-2xl font-bold text-primary">Naučte se mluvit s dětmi o rozvodu</h2>
+          <p class="mb-4 text-gray-700 leading-relaxed">
+            Praktický online kurz pro rodiče. Získáte jistotu v tom, co dětem říct, co raději neříkat
+            a jak je podpořit v náročné situaci.
+          </p>
+          <ul class="mb-6 space-y-2 text-gray-700">
+            <li>✓ 4 video lekce + doprovodné texty</li>
+            <li>✓ Konkrétní formulace pro různé věkové skupiny</li>
+            <li>✓ Přístup kdykoliv, ve vlastním tempu</li>
+          </ul>
+          <form action="/api/stripe/checkout" method="post">
+            <button
+              type="submit"
+              class="rounded-full bg-accent px-8 py-3 font-semibold text-white transition hover:bg-pink-600"
+            >
+              Koupit kurz
+            </button>
+          </form>
+          <p class="mt-4 text-sm text-gray-500">
+            Už jste kurz koupili?
+            <a href="/prihlaseni?redirect=/kurz" class="font-semibold text-primary hover:underline">
+              Přihlaste se
+            </a>
+          </p>
+        </div>
+
+        <div>
+          <h3 class="mb-4 text-xl font-bold text-primary">Ukázka z kurzu</h3>
+          <StreamVideo videoId={TRAILER_VIDEO_ID} title="Ukázka kurzu" />
+        </div>
+      </div>
+    ) : (
+      <div class="rounded-2xl bg-white p-8 shadow-sm">
+        <h2 class="mb-4 text-2xl font-bold text-primary">Vítejte v kurzu</h2>
+        <p class="mb-6 text-gray-700">
+          Máte přístup ke všem lekcím. Můžete začít hned — doporučujeme postupovat v pořadí vleva.
+        </p>
+        <a
+          href={`/kurz/${firstLesson.slug}`}
+          class="inline-block rounded-full bg-accent px-8 py-3 font-semibold text-white transition hover:bg-pink-600"
+        >
+          Začít první lekcí
+        </a>
+      </div>
+    )
+  }
+</CourseLayout>

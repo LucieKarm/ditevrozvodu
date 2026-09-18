@@ -1,0 +1,19 @@
+---
+interface Props {
+  videoId: string;
+  title: string;
+}
+
+const { videoId, title } = Astro.props;
+---
+
+<div class="aspect-video w-full overflow-hidden rounded-2xl bg-primary shadow-lg">
+  <iframe
+    src={`https://iframe.videodelivery.net/${videoId}`}
+    title={title}
+    loading="lazy"
+    allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    class="h-full w-full border-0"
+  ></iframe>
+</div>

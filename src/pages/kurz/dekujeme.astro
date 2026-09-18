@@ -1,0 +1,57 @@
+---
+import CourseLayout from '../../layouts/CourseLayout.astro';
+import { COURSE_SLUG, lessons } from '../../lib/course';
+import { userHasCourseAccess } from '../../lib/access';
+
+export const prerender = false;
+
+const { supabase, user } = Astro.locals;
+const hasAccess = await userHasCourseAccess(supabase, user, COURSE_SLUG);
+const firstLesson = lessons[0];
+---
+
+<CourseLayout
+  title="Děkujeme za nákup – Dítě v rozvodu"
+  hasAccess={hasAccess}
+  userEmail={user?.email}
+>
+  <div class="rounded-2xl bg-white p-8 shadow-sm">
+    <h2 class="mb-4 text-2xl font-bold text-primary">Děkujeme za nákup</h2>
+    {
+      hasAccess ? (
+        <>
+          <p class="mb-6 text-gray-700">
+            Platba proběhla úspěšně. Kurz je pro vás připravený — pokračujte první lekcí.
+          </p>
+          <a
+            href={`/kurz/${firstLesson.slug}`}
+            class="inline-block rounded-full bg-accent px-8 py-3 font-semibold text-white transition hover:bg-pink-600"
+          >
+            Přejít do kurzu
+          </a>
+        </>
+      ) : (
+        <>
+          <p class="mb-4 text-gray-700">
+            Platba proběhla. Pokud ještě nemáte účet, zaregistrujte se stejným e-mailem, který jste
+            použili při platbě.
+          </p>
+          <div class="flex flex-wrap gap-3">
+            <a
+              href="/registrace"
+              class="inline-block rounded-full bg-accent px-8 py-3 font-semibold text-white transition hover:bg-pink-600"
+            >
+              Vytvořit účet
+            </a>
+            <a
+              href="/prihlaseni?redirect=/kurz"
+              class="inline-block rounded-full border border-primary px-8 py-3 font-semibold text-primary transition hover:bg-gray-50"
+            >
+              Přihlásit se
+            </a>
+          </div>
+        </>
+      )
+    }
+  </div>
+</CourseLayout>

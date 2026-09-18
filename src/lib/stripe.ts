@@ -1,0 +1,14 @@
+import Stripe from 'stripe';
+
+let stripeClient: Stripe | null = null;
+
+export function getStripe(): Stripe {
+  if (!stripeClient) {
+    const key = import.meta.env.STRIPE_SECRET_KEY;
+    if (!key) {
+      throw new Error('Missing STRIPE_SECRET_KEY environment variable.');
+    }
+    stripeClient = new Stripe(key);
+  }
+  return stripeClient;
+}

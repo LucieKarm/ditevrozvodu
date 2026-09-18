@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export const prerender = false;
+
+const error = Astro.url.searchParams.get('error');
+const registered = Astro.url.searchParams.get('registered');
+const confirmed = Astro.url.searchParams.get('confirmed');
+const redirectTo = Astro.url.searchParams.get('redirect') ?? '/kurz';
+---
+
+<BaseLayout
+  title="Přihlášení – Dítě v rozvodu"
+  description="Přihlaste se ke svému účtu a pokračujte v online kurzu."
+>
+  <section class="mx-auto max-w-md px-4 py-16">
+    <h1 class="mb-2 text-3xl font-bold text-primary">Přihlášení</h1>
+    <p class="mb-8 text-gray-600">Přihlaste se e-mailem, který jste použili při nákupu kurzu.</p>
+
+    {
+      registered && (
+        <div class="mb-6 rounded-lg border border-green-200 bg-green-50 px-4 py-3 text-green-800">
+          Účet byl vytvořen. Pokud máte zapnuté potvrzení e-mailu, nejdřív klikněte na odkaz v e-mailu.
+        </div>
+      )
+    }
+    {
+      confirmed && (
+        <div class="mb-6 rounded-lg border border-green-200 bg-green-50 px-4 py-3 text-green-800">
+          E-mail byl potvrzen. Nyní se můžete přihlásit.
+        </div>
+      )
+    }
+    {
+      error && (
+        <div class="mb-6 rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-red-800">
+          {error === 'missing' ? 'Vyplňte e-mail i heslo.' : decodeURIComponent(error)}
+        </div>
+      )
+    }
+
+    <form action="/api/auth/login" method="post" class="space-y-4 rounded-2xl bg-white p-6 shadow-sm">
+      <input type="hidden" name="redirect" value={redirectTo} />
+      <div>
+        <label for="email" class="mb-1 block text-sm font-medium text-gray-700">E-mail</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          required
+          autocomplete="email"
+          class="w-full rounded-lg border border-gray-300 px-4 py-3 focus:border-primary focus:outline-none"
+        />
+      </div>
+      <div>
+        <label for="password" class="mb-1 block text-sm font-medium text-gray-700">Heslo</label>
+        <input
+          id="password"
+          name="password"
+          type="password"
+          required
+          autocomplete="current-password"
+          class="w-full rounded-lg border border-gray-300 px-4 py-3 focus:border-primary focus:outline-none"
+        />
+      </div>
+      <button
+        type="submit"
+        class="w-full rounded-full bg-accent px-6 py-3 font-semibold text-white transition hover:bg-pink-600"
+      >
+        Přihlásit se
+      </button>
+    </form>
+
+    <p class="mt-6 text-center text-sm text-gray-600">
+      Nemáte účet?
+      <a href="/registrace" class="font-semibold text-primary hover:underline">Zaregistrujte se</a>
+    </p>
+  </section>
+</BaseLayout>

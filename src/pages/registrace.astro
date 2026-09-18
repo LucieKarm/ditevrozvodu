@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export const prerender = false;
+
+const error = Astro.url.searchParams.get('error');
+---
+
+<BaseLayout
+  title="Registrace – Dítě v rozvodu"
+  description="Vytvořte si účet pro přístup k online kurzu."
+>
+  <section class="mx-auto max-w-md px-4 py-16">
+    <h1 class="mb-2 text-3xl font-bold text-primary">Registrace</h1>
+    <p class="mb-8 text-gray-600">
+      Použijte stejný e-mail, který jste zadali při nákupu kurzu. Po registraci vám zpřístupníme obsah.
+    </p>
+
+    {
+      error && (
+        <div class="mb-6 rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-red-800">
+          {
+            error === 'missing'
+              ? 'Vyplňte e-mail i heslo.'
+              : error === 'password'
+                ? 'Heslo musí mít alespoň 8 znaků.'
+                : decodeURIComponent(error)
+          }
+        </div>
+      )
+    }
+
+    <form action="/api/auth/register" method="post" class="space-y-4 rounded-2xl bg-white p-6 shadow-sm">
+      <div>
+        <label for="email" class="mb-1 block text-sm font-medium text-gray-700">E-mail</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          required
+          autocomplete="email"
+          class="w-full rounded-lg border border-gray-300 px-4 py-3 focus:border-primary focus:outline-none"
+        />
+      </div>
+      <div>
+        <label for="password" class="mb-1 block text-sm font-medium text-gray-700">Heslo (min. 8 znaků)</label>
+        <input
+          id="password"
+          name="password"
+          type="password"
+          required
+          minlength="8"
+          autocomplete="new-password"
+          class="w-full rounded-lg border border-gray-300 px-4 py-3 focus:border-primary focus:outline-none"
+        />
+      </div>
+      <button
+        type="submit"
+        class="w-full rounded-full bg-accent px-6 py-3 font-semibold text-white transition hover:bg-pink-600"
+      >
+        Vytvořit účet
+      </button>
+    </form>
+
+    <p class="mt-6 text-center text-sm text-gray-600">
+      Už máte účet?
+      <a href="/prihlaseni" class="font-semibold text-primary hover:underline">Přihlaste se</a>
+    </p>
+  </section>
+</BaseLayout>

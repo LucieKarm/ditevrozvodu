@@ -1,4 +1,6 @@
 ---
+export const prerender = true;
+
 import BaseLayout from "../layouts/BaseLayout.astro";
 import LeadMagnet from "../components/LeadMagnet.astro";
 import { getCollection } from "astro:content";
@@ -260,7 +262,7 @@ const featuredArticles = latestArticles.slice(0, 4);
                 </li>
             </ul>
             <a
-                href="https://spondea.thinkific.com/courses/jakmluvitsdetmi"
+                href="/kurz"
                 class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition"
             >
                 Zjistit více o kurzu

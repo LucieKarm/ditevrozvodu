@@ -1,0 +1,79 @@
+---
+import CourseLayout from '../../layouts/CourseLayout.astro';
+import StreamVideo from '../../components/StreamVideo.astro';
+import { COURSE_SLUG, getLesson, getLessonNav } from '../../lib/course';
+import { userHasCourseAccess } from '../../lib/access';
+
+export const prerender = false;
+
+const { slug } = Astro.params;
+const lesson = slug ? getLesson(slug) : undefined;
+
+if (!lesson) {
+  return Astro.redirect('/kurz');
+}
+
+const { supabase, user } = Astro.locals;
+const hasAccess = await userHasCourseAccess(supabase, user, COURSE_SLUG);
+
+if (!hasAccess) {
+  return Astro.redirect('/kurz');
+}
+
+const nav = getLessonNav(lesson.slug);
+---
+
+<CourseLayout
+  title={`${lesson.title} – Kurz`}
+  currentSlug={lesson.slug}
+  hasAccess={hasAccess}
+  userEmail={user?.email}
+>
+  <article class="space-y-8">
+    <div class="rounded-2xl bg-white p-8 shadow-sm">
+      <p class="mb-2 text-sm font-semibold uppercase tracking-wide text-accent">
+        Lekce {lesson.order}
+      </p>
+      <h2 class="mb-4 text-3xl font-bold text-primary">{lesson.title}</h2>
+      <p class="text-gray-700 leading-relaxed">{lesson.intro}</p>
+    </div>
+
+    {
+      lesson.videoId && (
+        <StreamVideo videoId={lesson.videoId} title={lesson.title} />
+      )
+    }
+
+    <nav class="flex flex-wrap justify-between gap-4">
+      {
+        nav.prev ? (
+          <a
+            href={`/kurz/${nav.prev.slug}`}
+            class="rounded-full border border-primary px-6 py-2 font-semibold text-primary transition hover:bg-gray-50"
+          >
+            ← {nav.prev.title}
+          </a>
+        ) : (
+          <span></span>
+        )
+      }
+      {
+        nav.next ? (
+          <a
+            href={`/kurz/${nav.next.slug}`}
+            class="rounded-full bg-accent px-6 py-2 font-semibold text-white transition hover:bg-pink-600"
+          >
+            {nav.next.title} →
+          </a>
+        ) : (
+          <a
+            href="/kurz"
+            class="rounded-full bg-primary px-6 py-2 font-semibold text-white transition hover:bg-[#1a1c4a]"
+          >
+            Zpět na přehled kurzu
+          </a>
+        )
+      }
+    </nav>
+  </article>
+</CourseLayout>

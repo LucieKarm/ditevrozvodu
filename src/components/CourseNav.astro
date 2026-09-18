@@ -1,0 +1,39 @@
+---
+import { lessons } from '../lib/course';
+
+interface Props {
+  currentSlug?: string;
+  hasAccess: boolean;
+}
+
+const { currentSlug, hasAccess } = Astro.props;
+---
+
+<aside class="rounded-2xl bg-white p-6 shadow-sm">
+  <h2 class="mb-4 text-lg font-bold text-primary">Obsah kurzu</h2>
+  <ol class="space-y-2">
+    {
+      lessons.map((lesson) => (
+        <li>
+          {hasAccess ? (
+            <a
+              href={`/kurz/${lesson.slug}`}
+              class:list={[
+                'block rounded-lg px-3 py-2 text-sm transition',
+                currentSlug === lesson.slug
+                  ? 'bg-primary text-white font-semibold'
+                  : 'text-gray-700 hover:bg-gray-100',
+              ]}
+            >
+              {lesson.order}. {lesson.title}
+            </a>
+          ) : (
+            <span class="block rounded-lg px-3 py-2 text-sm text-gray-400">
+              {lesson.order}. {lesson.title}
+            </span>
+          )}
+        </li>
+      ))
+    }
+  </ol>
+</aside>

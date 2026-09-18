@@ -17,6 +17,12 @@ pnpm-debug.log*
 .env
 .env.production
 
+# migration plan contains secrets (Supabase keys, DB password) — local only
+docs/kurz-migration-plan.md
+
+# Netlify local build cache
+.netlify/
+
 # macOS-specific files
 .DS_Store
 
