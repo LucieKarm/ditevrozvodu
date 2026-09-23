@@ -57,6 +57,12 @@ Pokud si ale dítě samo říká o pomoc, což bývá častější u starších 
 
 Kontaktovat můžete školní psycholožku, dětské psychoterapeuty nebo psychoterapeutky, manželské a rodinné poradny nebo krizová centra blízko místa, kde bydlíte. Je ale třeba počítat s tím, že celá oblast péče o duševní zdraví je v Česku velice přetížená a objednací lhůty jsou leckdy na dlouhé týdny, často i měsíce, a to i v případě soukromé psychoterapeutické praxe.
 
-Právě jste dočetli poslední řádky tohoto kurzu. Věřte, že ne každému se podaří dojít až sem, patří vám uznání a ocenění! Doufáme, že v mnoha oblastech máte nyní jasněji. Víte, jak ne/komunikovat s dětmi, do čeho má smysl energii investovat a do čeho už ne. Věříme, že některé myšlenky budou teprve doznívat. Věřte i vy, že každým rozhodnutím, každým okamžikem tvoříte nejen svoji budoucnost, ale i budoucnost vašich dětí.
+<blockquote class="course-congrats">
 
-Určitě nepůjde vždy vše hladce a na 100 %. Mnohé se třeba napoprvé nepovede vůbec. Důležité je však chtít, dát si na rozhodnutí čas. A pokud budete v čemkoliv váhat, nebo budete cítit, že ztrácíte nadhled, vraťte se k jednotlivým kapitolám. Má to smysl a upřímně držíme palce!
+**Gratulujeme!**
+
+Právě jste dočetli poslední řádky tohoto kurzu. Ne každému se podaří dojít až sem — patří vám uznání. Doufáme, že v mnoha oblastech máte nyní jasněji: víte, jak s dětmi mluvit, do čeho dává smysl investovat energii a do čeho už ne. Některé myšlenky budou teprve doznívat — to je v pořádku. Každým rozhodnutím a každým okamžikem tvoříte nejen svou budoucnost, ale i budoucnost vašich dětí.
+
+Určitě nepůjde vždy vše hladce na sto procent. Mnohé se napoprvé nepovede — důležité je chtít a dát si na rozhodnutí čas. Když budete váhat nebo ztrácet nadhled, vraťte se ke kapitolám kurzu. Má to smysl a upřímně vám držíme palce!
+
+</blockquote>
