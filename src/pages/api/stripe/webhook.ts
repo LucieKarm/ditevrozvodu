@@ -51,7 +51,7 @@ export const POST: APIRoute = async ({ request }) => {
 
     if (error) {
       console.error('Failed to store purchase:', error.message);
-      return new Response('Failed to store purchase.', { status: 500 });
+      return new Response(`Failed to store purchase: ${error.message}`, { status: 500 });
     }
   }
 

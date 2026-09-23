@@ -14,7 +14,7 @@ description: How to create a new article for the ditevrozvodu.cz website
 
 5. **User makes final edits** — The user makes their own last changes directly in the markdown file.
 
-6. **Add contextual CTA bridge** — At the very end of the article (after a `---` horizontal rule), add a tailored italicized paragraph that connects the article's specific topic to a concrete benefit of the online course ["Jak mluvit s dětmi o rozpadu rodiny"](https://spondea.thinkific.com/courses/jakmluvitsdetmi). The CTA should feel like a natural continuation of the article, not an ad. See existing articles for examples of the format and tone.
+6. **Add contextual CTA bridge** — At the very end of the article (after a `---` horizontal rule), add a tailored italicized paragraph that connects the article's specific topic to a concrete benefit of the online course [Jak mluvit s dětmi o rozpadu rodiny](/kurz). The CTA should feel like a natural continuation of the article, not an ad. See existing articles for examples of the format and tone.
 
 7. **Commit and push** — Once the user confirms they are done editing, commit and push all changes (including any other pending changes like footer updates).
 // turbo

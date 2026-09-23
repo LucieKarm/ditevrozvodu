@@ -15,6 +15,10 @@ create index if not exists purchases_course_slug_idx on public.purchases (course
 
 alter table public.purchases enable row level security;
 
+-- Required when "Automatically expose new tables" is disabled in Supabase
+grant select, insert, update, delete on table public.purchases to service_role;
+grant select on table public.purchases to authenticated;
+
 create policy "Users can read own purchases"
   on public.purchases
   for select
