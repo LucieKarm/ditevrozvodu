@@ -13,32 +13,38 @@ const quizId = `quiz-${lessonSlug}`;
 {
   questions.length > 0 && (
     <section
-      class="rounded-2xl bg-white p-8 shadow-sm"
+      class="rounded-2xl bg-white p-8 shadow-sm md:p-10 lg:p-12"
       aria-labelledby={`${quizId}-heading`}
     >
-      <p class="mb-1 text-sm font-semibold uppercase tracking-wide text-light-blue">
+      <p class="mb-2 text-sm font-semibold uppercase tracking-wide text-light-blue">
         Krátký kvíz
       </p>
-      <h3 id={`${quizId}-heading`} class="mb-2 text-2xl font-bold text-primary">
+      <h3
+        id={`${quizId}-heading`}
+        class="mb-3 text-2xl font-bold text-primary md:text-3xl"
+      >
         Ověřte si, co si z kapitoly odnášíte
       </h3>
-      <p class="mb-8 text-gray-600">
+      <p class="mb-10 max-w-3xl text-base leading-relaxed text-gray-600 md:mb-12">
         Vyberte odpověď u každé otázky. Není to test na známky — slouží k zamyšlení.
       </p>
 
-      <div class="course-quiz space-y-10" data-quiz-root={quizId}>
+      <div class="course-quiz divide-y divide-gray-100" data-quiz-root={quizId}>
         {questions.map((q, qi) => (
           <fieldset
-            class="course-quiz-question border-0 p-0 m-0"
+            class="course-quiz-question border-0 p-0 first:pt-0 last:pb-0 py-10 md:py-12"
             data-question-index={qi}
             data-correct={q.correct}
             data-hint={q.hint}
             data-explanation={q.explanation}
           >
-            <legend class="mb-4 text-lg font-semibold text-primary leading-snug">
-              {qi + 1}. {q.question}
+            <legend class="sr-only">
+              Otázka {qi + 1}: {q.question}
             </legend>
-            <ul class="space-y-2">
+            <p class="mb-6 max-w-3xl text-lg font-semibold leading-relaxed text-primary md:mb-8 md:text-xl">
+              <span class="text-light-blue">{qi + 1}.</span> {q.question}
+            </p>
+            <ul class="flex max-w-3xl flex-col gap-3 md:gap-4">
               {q.options.map((option, oi) => {
                 const letter = ['A', 'B', 'C', 'D'][oi];
                 const inputId = `${quizId}-q${qi}-${letter}`;
@@ -46,17 +52,17 @@ const quizId = `quiz-${lessonSlug}`;
                   <li>
                     <label
                       for={inputId}
-                      class="course-quiz-option flex cursor-pointer gap-3 rounded-xl border border-gray-200 px-4 py-3 text-gray-800 transition hover:border-light-blue hover:bg-sky-50/50 has-[:checked]:border-light-blue has-[:checked]:bg-sky-50/80"
+                      class="course-quiz-option flex cursor-pointer items-start gap-4 rounded-2xl border border-gray-200 bg-white px-5 py-4 text-base leading-relaxed text-gray-800 shadow-sm transition hover:border-light-blue hover:bg-sky-50/40 md:px-6 md:py-5 has-[:checked]:border-light-blue has-[:checked]:bg-sky-50/60"
                     >
                       <input
                         type="radio"
                         id={inputId}
                         name={`${quizId}-q${qi}`}
                         value={letter}
-                        class="mt-1 h-4 w-4 shrink-0 accent-[var(--color-light-blue)]"
+                        class="mt-1 h-5 w-5 shrink-0 accent-[var(--color-light-blue)]"
                       />
-                      <span>
-                        <span class="font-semibold text-primary">{letter}.</span>{' '}
+                      <span class="min-w-0 flex-1">
+                        <span class="mr-1 font-bold text-primary">{letter}.</span>
                         {option}
                       </span>
                     </label>
@@ -65,7 +71,7 @@ const quizId = `quiz-${lessonSlug}`;
               })}
             </ul>
             <div
-              class="course-quiz-feedback mt-4 hidden rounded-xl border-l-4 px-4 py-3 text-[0.98rem] leading-relaxed"
+              class="course-quiz-feedback mt-6 hidden max-w-3xl rounded-2xl border-l-4 px-5 py-5 text-base leading-relaxed md:mt-8 md:px-6 md:py-6"
               role="status"
               aria-live="polite"
             />
@@ -77,6 +83,14 @@ const quizId = `quiz-${lessonSlug}`;
 }
 
 <script>
+  function escapeHtml(text: string) {
+    return text
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
   function initQuiz(root: HTMLElement) {
     root.querySelectorAll<HTMLElement>('.course-quiz-question').forEach((fieldset) => {
       const feedback = fieldset.querySelector<HTMLElement>('.course-quiz-feedback');
@@ -95,17 +109,26 @@ const quizId = `quiz-${lessonSlug}`;
             label.classList.remove(
               'border-green-500',
               'bg-green-50',
-              'border-red-400',
-              'bg-red-50/40',
+              'ring-2',
+              'ring-green-200',
+              'border-light-blue',
+              'bg-sky-100/80',
+              'ring-sky-200',
             );
           });
 
           const chosenLabel = input.closest('.course-quiz-option');
           if (chosenLabel) {
-            chosenLabel.classList.add(
-              isCorrect ? 'border-green-500' : 'border-red-400',
-              isCorrect ? 'bg-green-50' : 'bg-red-50/40',
-            );
+            if (isCorrect) {
+              chosenLabel.classList.add('border-green-500', 'bg-green-50', 'ring-2', 'ring-green-200');
+            } else {
+              chosenLabel.classList.add(
+                'border-light-blue',
+                'bg-sky-100/80',
+                'ring-2',
+                'ring-sky-200',
+              );
+            }
           }
 
           if (!isCorrect) {
@@ -113,27 +136,24 @@ const quizId = `quiz-${lessonSlug}`;
               `input[value="${correct}"]`,
             );
             const correctLabel = correctInput?.closest('.course-quiz-option');
-            correctLabel?.classList.add('border-green-500', 'bg-green-50');
+            correctLabel?.classList.add('border-green-500', 'bg-green-50', 'ring-2', 'ring-green-200');
           }
 
           feedback.classList.remove('hidden');
           feedback.classList.toggle('border-green-500', isCorrect);
           feedback.classList.toggle('bg-green-50', isCorrect);
-          feedback.classList.toggle('text-primary', isCorrect);
           feedback.classList.toggle('border-light-blue', !isCorrect);
-          feedback.classList.toggle('bg-sky-50/80', !isCorrect);
+          feedback.classList.toggle('bg-sky-50', !isCorrect);
 
-          const parts: string[] = [];
-          if (isCorrect) {
-            parts.push('<strong>Správně!</strong>');
-          } else {
-            parts.push(`<strong>Ještě ne.</strong> Správná odpověď je ${correct}.`);
-          }
-          const detail = explanation || hint;
-          if (detail) {
-            parts.push(detail);
-          }
-          feedback.innerHTML = parts.join(' ');
+          const detail = escapeHtml(explanation || hint);
+          const title = isCorrect
+            ? 'Správně!'
+            : `Ještě ne. Správná odpověď je ${correct}.`;
+
+          feedback.innerHTML = `
+            <p class="mb-3 text-lg font-bold text-primary">${escapeHtml(title)}</p>
+            ${detail ? `<p class="text-gray-700 leading-relaxed">${detail}</p>` : ''}
+          `;
         });
       });
     });
