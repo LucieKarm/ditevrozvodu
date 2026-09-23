@@ -13,7 +13,7 @@ const courseQuizzesData = {
       "options": [
         "Děti si změn nevšímají, pokud o nich dospělí nezačnou sami mluvit.",
         "Děti vnímají napětí, změny chování i atmosféry a bez informací žijí v nejistotě.",
-        "O rozvodu je nutné mluvit pouze pro případ, že se dětí bdue ptát někdo ve škole nebo rodině.",
+        "O rozvodu je nutné mluvit pouze pro případ, že se dětí bude ptát někdo ve škole nebo rodině.",
         "Řeči o rozvodu děti pouze zbytečně vystraší a traumatizuje."
       ],
       "correct": "B",
