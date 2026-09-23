@@ -2,7 +2,9 @@
 import CourseLayout from '../../layouts/CourseLayout.astro';
 import StreamVideo from '../../components/StreamVideo.astro';
 import ArticleProseStyles from '../../components/ArticleProseStyles.astro';
+import CourseQuiz from '../../components/CourseQuiz.astro';
 import { COURSE_SLUG, getLesson, getLessonNav } from '../../lib/course';
+import { getQuizForLesson } from '../../lib/courseQuizzes';
 import { userHasCourseAccess } from '../../lib/access';
 import { getEntry } from 'astro:content';
 
@@ -25,6 +27,7 @@ if (!hasAccess) {
 const contentEntry = await getEntry('courseLessons', lesson.slug);
 const nav = getLessonNav(lesson.slug);
 const { Content } = contentEntry ? await contentEntry.render() : { Content: null };
+const quizQuestions = getQuizForLesson(lesson.slug);
 ---
 
 <CourseLayout
@@ -55,6 +58,8 @@ const { Content } = contentEntry ? await contentEntry.render() : { Content: null
         </div>
       )
     }
+
+    <CourseQuiz questions={quizQuestions} lessonSlug={lesson.slug} />
 
     <nav class="flex flex-wrap justify-between gap-4">
       {
