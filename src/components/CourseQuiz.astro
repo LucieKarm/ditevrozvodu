@@ -42,7 +42,8 @@ const quizId = `quiz-${lessonSlug}`;
               Otázka {qi + 1}: {q.question}
             </legend>
             <p class="mb-6 max-w-3xl text-lg font-semibold leading-relaxed text-primary md:mb-8 md:text-xl">
-              <span class="text-light-blue">{qi + 1}.</span> {q.question}
+              <span class="text-light-blue">{qi + 1}.{' '}</span>
+              {q.question}
             </p>
             <ul class="flex max-w-3xl flex-col gap-3 md:gap-4">
               {q.options.map((option, oi) => {
@@ -111,9 +112,9 @@ const quizId = `quiz-${lessonSlug}`;
               'bg-green-50',
               'ring-2',
               'ring-green-200',
-              'border-light-blue',
-              'bg-sky-100/80',
-              'ring-sky-200',
+              'border-red-400',
+              'bg-red-50',
+              'ring-red-100',
             );
           });
 
@@ -122,12 +123,7 @@ const quizId = `quiz-${lessonSlug}`;
             if (isCorrect) {
               chosenLabel.classList.add('border-green-500', 'bg-green-50', 'ring-2', 'ring-green-200');
             } else {
-              chosenLabel.classList.add(
-                'border-light-blue',
-                'bg-sky-100/80',
-                'ring-2',
-                'ring-sky-200',
-              );
+              chosenLabel.classList.add('border-red-400', 'bg-red-50', 'ring-2', 'ring-red-100');
             }
           }
 
@@ -142,8 +138,8 @@ const quizId = `quiz-${lessonSlug}`;
           feedback.classList.remove('hidden');
           feedback.classList.toggle('border-green-500', isCorrect);
           feedback.classList.toggle('bg-green-50', isCorrect);
-          feedback.classList.toggle('border-light-blue', !isCorrect);
-          feedback.classList.toggle('bg-sky-50', !isCorrect);
+          feedback.classList.toggle('border-red-400', !isCorrect);
+          feedback.classList.toggle('bg-red-50', !isCorrect);
 
           const detail = escapeHtml(explanation || hint);
           const title = isCorrect
