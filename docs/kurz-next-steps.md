@@ -15,9 +15,9 @@ All Astro CTAs now point to `/kurz`. Deploy to publish.
 5. Run the query.
 6. Tell buyers: register at `https://ditevrozvodu.cz/registrace` with the **same email**.
 
-## Step 3 — Full lesson texts (later)
+## Step 3 — Full lesson texts ✅
 
-Map `source-materials/extracted-text/Jak mluvit s dětmi o rozpadu rodiny.txt` to the 4 video lessons.
+Content in `src/content/courseLessons/` (4 markdown files). Deploy to publish.
 
 ## Step 4 — Go live
 

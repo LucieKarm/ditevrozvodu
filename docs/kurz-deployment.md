@@ -47,9 +47,9 @@ Supabase → Authentication → URL Configuration:
 | URL | Účel |
 |-----|------|
 | `/kurz` | Prodejní stránka + trailer |
-| `/kurz/proc-rikat` | Lekce 1 (chráněno) |
-| `/kurz/dopady-na-deti` | Lekce 2 |
-| `/kurz/co-deti-potrebuji` | Lekce 3 |
-| `/kurz/co-rikat` | Lekce 4 |
+| `/kurz/proc-rikat` | 1 — Dětem je potřeba o rozvodu říct |
+| `/kurz/co-rikat` | 2 — Jaké věty pomohou a jaké ublíží |
+| `/kurz/co-deti-potrebuji` | 3 — Jakou péči od vás podle věku potřebují |
+| `/kurz/dopady-na-deti` | 4 — Jak děti rozpad rodiny prožívají |
 | `/prihlaseni` | Přihlášení |
 | `/registrace` | Registrace |
