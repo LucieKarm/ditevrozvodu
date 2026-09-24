@@ -1,8 +1,7 @@
 export const COURSE_SLUG = 'jak-mluvit-s-detmi';
 
-/** Temporary: sales until Stripe live. Existing buyers use /kurz after login. */
-export const COURSE_SALES_URL =
-  'https://spondea.thinkific.com/courses/jakmluvitsdetmi';
+/** Public entry for course sales (landing + Stripe Checkout). */
+export const COURSE_SALES_URL = '/kurz';
 
 export type Lesson = {
   slug: string;

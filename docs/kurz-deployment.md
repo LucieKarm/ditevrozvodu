@@ -15,17 +15,19 @@ Site settings → Environment variables → přidejte:
 | `PUBLIC_SUPABASE_URL` | `https://mbaofpeilvwlvfwgkhzl.supabase.co` |
 | `PUBLIC_SUPABASE_ANON_KEY` | Supabase publishable key |
 | `SUPABASE_SERVICE_ROLE_KEY` | Supabase secret key (jen server) |
-| `STRIPE_SECRET_KEY` | Stripe secret key (test mode) |
-| `STRIPE_PRICE_ID` | `price_1UFZo8AlYvVVLssHjmBoabDk` |
-| `STRIPE_WEBHOOK_SECRET` | Viz krok 3 |
+| `STRIPE_SECRET_KEY` | Stripe secret key (`sk_live_…` in production) |
+| `STRIPE_PRICE_ID` | Live Price ID (`price_…` from Live mode product) |
+| `STRIPE_WEBHOOK_SECRET` | Live webhook signing secret (`whsec_…`) |
 
-## 3. Stripe webhook
+## 3. Stripe webhook (Live mode)
 
-Stripe → Developers → Webhooks → Add endpoint:
+Stripe → **Live** → Developers → Webhooks → Add endpoint:
 
 - **URL:** `https://ditevrozvodu.cz/api/stripe/webhook`
 - **Event:** `checkout.session.completed`
 - Zkopírujte **Signing secret** → `STRIPE_WEBHOOK_SECRET` v Netlify
+
+All three Stripe env vars must be from **Live** mode (not test).
 
 ## 4. Supabase Auth URL
 

@@ -4,6 +4,11 @@ interface Props {
 }
 
 const { variant = 'full' } = Astro.props;
+
+const title = 'Čtení, poslech, pohádky';
+const descriptionFull =
+    'Vybrali jsme pro vás kvalitní knihy, odborné podcasty a pohádky, které citlivě otevírají téma emocí a mohou vám pomoct porozumět pocitům dětí.';
+const descriptionCompact = descriptionFull;
 ---
 
 {variant === 'full' ? (
@@ -12,9 +17,9 @@ const { variant = 'full' } = Astro.props;
             <div class="bg-white rounded-2xl shadow-lg overflow-hidden">
                 <div class="bg-gradient-to-r from-primary to-accent p-6 md:p-8 text-white text-center">
                     <p class="text-sm uppercase tracking-wider mb-2 opacity-90">Stáhněte si zdarma</p>
-                    <h2 class="text-2xl md:text-3xl font-bold mb-2">20 proseb dítěte</h2>
+                    <h2 class="text-2xl md:text-3xl font-bold mb-2">{title}</h2>
                     <p class="opacity-90 text-base md:text-lg">
-                        Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají? Zašleme vám PDF, které můžete ukázat i druhému rodiči.
+                        {descriptionFull}
                     </p>
                 </div>
                 <div class="p-6 md:p-8">
@@ -23,7 +28,7 @@ const { variant = 'full' } = Astro.props;
                         <input
                             type="email"
                             name="email"
-                            placeholder="Kam vám máme text poslat?"
+                            placeholder="Kam vám máme PDF poslat?"
                             required
                             class="flex-1 px-5 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent text-base"
                         />
@@ -51,9 +56,9 @@ const { variant = 'full' } = Astro.props;
     <div class="bg-gradient-to-r from-primary/5 to-accent/5 rounded-xl p-6 md:p-8 border border-accent/10" id="lead-magnet-article">
         <div class="text-center mb-4">
             <p class="text-sm uppercase tracking-wider text-accent font-semibold mb-1">Stáhněte si zdarma</p>
-            <h3 class="text-xl md:text-2xl font-bold text-primary mb-2">20 proseb dítěte</h3>
+            <h3 class="text-xl md:text-2xl font-bold text-primary mb-2">{title}</h3>
             <p class="text-gray-600 text-sm">
-                Co by vám vaše děti řekly, kdyby uměly pojmenovat, co při rozvodu prožívají? PDF vám přijde na e-mail.
+                {descriptionCompact}
             </p>
         </div>
         <form id="lead-magnet-form-compact" class="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto" method="post" action="https://spondea.ecomailapp.cz/public/subscribe/3/b6fcc542fb021c84fdaff536dd0a74a1">
@@ -61,7 +66,7 @@ const { variant = 'full' } = Astro.props;
             <input
                 type="email"
                 name="email"
-                placeholder="Kam vám máme text poslat?"
+                placeholder="Kam vám máme PDF poslat?"
                 required
                 class="flex-1 px-5 py-3 rounded-full border border-gray-300 focus:outline-none focus:ring-2 focus:ring-accent text-sm"
             />
