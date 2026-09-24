@@ -5,6 +5,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
+import { COURSE_SALES_URL } from "../lib/course";
 
 const articles = await getCollection("blog", ({ data }) => {
     return (
@@ -28,7 +29,7 @@ const sortedArticles = sortBlogNewestFirst(articles);
                 klíčem k tomu, aby děti prožily toto období s pocitem bezpečí.
             </p>
             <a
-                href="/kurz"
+                href={COURSE_SALES_URL}
                 class="inline-block bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition"
             >
                 Naučte se mluvit s dětmi

@@ -5,6 +5,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import LeadMagnet from "../components/LeadMagnet.astro";
 import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
+import { COURSE_SALES_URL } from "../lib/course";
 
 const publishedArticles = await getCollection("blog", ({ data }) => {
     return data.published === true;
@@ -262,7 +263,7 @@ const featuredArticles = latestArticles.slice(0, 4);
                 </li>
             </ul>
             <a
-                href="/kurz"
+                href={COURSE_SALES_URL}
                 class="inline-block bg-white text-primary px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition"
             >
                 Zjistit více o kurzu

@@ -5,6 +5,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
 import { sortBlogNewestFirst } from "../utils/blogSort";
+import { COURSE_SALES_URL } from "../lib/course";
 
 const articles = await getCollection("blog", ({ data }) => {
     return data.category === "OSPOD a soud" && data.published === true;
@@ -25,7 +26,7 @@ const sortedArticles = sortBlogNewestFirst(articles);
                 strašákem. OSPOD vám ale může pomoct s domluvou a rozsudek soudu může zajistit pravidla, podle kterých se vaší rodině bude dobře žít.
             </p>
             <a
-                href="/kurz"
+                href={COURSE_SALES_URL}
                 class="inline-block bg-white text-primary px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition"
             >
                 Naučte se mluvit s dětmi
