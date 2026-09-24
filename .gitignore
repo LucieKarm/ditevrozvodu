@@ -20,6 +20,9 @@ pnpm-debug.log*
 # migration plan contains secrets (Supabase keys, DB password) — local only
 docs/kurz-migration-plan.md
 
+# Supabase one-off imports with real customer emails — local only
+supabase/import-thinkific-buyers.local.sql
+
 # Netlify local build cache
 .netlify/
 

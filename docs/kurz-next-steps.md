@@ -11,9 +11,10 @@ All Astro CTAs now point to `/kurz`. Deploy to publish.
 1. Open your Thinkific buyer CSV.
 2. Copy all buyer emails (lowercase).
 3. Supabase → SQL Editor.
-4. Use `supabase/import-thinkific-buyers.sql` — replace examples with real emails.
-5. Run the query.
-6. Tell buyers: register at `https://ditevrozvodu.cz/registrace` with the **same email**.
+4. Copy `supabase/import-thinkific-buyers.sql` → `supabase/import-thinkific-buyers.local.sql` (gitignored).
+5. Paste real emails into the `.local.sql` file only — never commit customer data.
+6. Run the **local** file in SQL Editor.
+7. Tell buyers: register at `https://ditevrozvodu.cz/registrace` with the **same email**.
 
 ## Step 3 — Full lesson texts ✅
 
