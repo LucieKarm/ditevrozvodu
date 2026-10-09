@@ -15,6 +15,11 @@ export const POST: APIRoute = async ({ locals, url, redirect }) => {
 
   const session = await stripe.checkout.sessions.create({
     mode: 'payment',
+    locale: 'cs',
+    payment_method_types: ['card'],
+    wallet_options: {
+      link: { display: 'never' },
+    },
     line_items: [{ price: priceId, quantity: 1 }],
     success_url: `${url.origin}/kurz/dekujeme?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${url.origin}/kurz`,
