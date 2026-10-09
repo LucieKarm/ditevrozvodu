@@ -16,7 +16,8 @@ export const POST: APIRoute = async ({ locals, url, redirect }) => {
   const session = await stripe.checkout.sessions.create({
     mode: 'payment',
     locale: 'cs',
-    payment_method_types: ['card'],
+    // Card (+ Apple Pay / Google Pay when enabled in Stripe). Revolut Pay as separate method.
+    payment_method_types: ['card', 'revolut_pay'],
     wallet_options: {
       link: { display: 'never' },
     },
