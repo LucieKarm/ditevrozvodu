@@ -12,7 +12,7 @@ Rozvodem nebo rozchodem končí vaše společná partnerská cesta, ale ta rodi�
 
 Představte si sami sebe jako dva kolegy ve firmě, kteří se nemusí mít v lásce, ale spojuje je společný úkol s nejvyšší prioritou – **spokojené a klidné dítě, které vyrůstá v bezpečném prostředí bez konfliktů**.
 
-## 1. Přepněte do „firemního“ režimu
+## 1. Přepněte do „pracovního“ režimu
 
 Při komunikaci s kolegou nebo kolegyní v práci obvykle nevytahujete křivdy z minulosti ani se nevyjadřujete ironicky nebo pasivně agresivně. Zachováváte profesionální odstup a věcnost. Přesně tento princip může dobře fungovat i v porozvodovém rodičovství:
 
