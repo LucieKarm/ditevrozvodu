@@ -6,22 +6,20 @@ Phase 1 is live: pay → webhook → register → watch videos.
 
 All Astro CTAs now point to `/kurz`. Deploy to publish.
 
-## Step 2 — Import existing Thinkific buyers (you)
+## Step 2 — Import existing Thinkific buyers ✅
 
-1. Open your Thinkific buyer CSV.
-2. Copy all buyer emails (lowercase).
-3. Supabase → SQL Editor.
-4. Copy `supabase/import-thinkific-buyers.sql` → `supabase/import-thinkific-buyers.local.sql` (gitignored).
-5. Paste real emails into the `.local.sql` file only — never commit customer data.
-6. Run the **local** file in SQL Editor.
-7. Tell buyers: register at `https://ditevrozvodu.cz/registrace` with the **same email**.
+183 rows in Supabase `purchases`. E-mail campaign still TODO (Ecomail).
 
 ## Step 3 — Full lesson texts ✅
 
-Content in `src/content/courseLessons/` (4 markdown files). Deploy to publish.
+Content in `src/content/courseLessons/` + quizzes in `src/lib/courseQuizzes.ts`.
 
-## Step 4 — Go live
+## Step 4 — Go live ✅ (2026-10-09)
 
-- Stripe: switch to live mode + live Price ID in Netlify.
-- Stripe: live webhook endpoint.
-- Cancel Thinkific when satisfied.
+- Stripe live + Netlify `STRIPE_*` + webhook verified (pay → `purchases` → register → `/kurz`).
+
+## Step 5 — Still open
+
+- E-mail 183 buyers (`/registrace`, same email).
+- GDPR / privacy policy update.
+- Cancel Thinkific subscription.
