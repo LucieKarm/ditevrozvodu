@@ -1,6 +1,6 @@
 ---
-title: "Jak komunikovat s druhým rodičem věcně: Staňte se kolegy v projektu „Dítě“"
-description: "Nemusíte si s bývalým partnerem rozumět ani k sobě chovat sympatie. Pokud zvládnete vytvořit fungující rodičovský tým, uděláte pro své děti to nejlepší."
+title: "Jak komunikovat s druhým rodičem věcně"
+description: "Nemusíte si s bývalým partnerem rozumět. Pokud zvládnete vytvořit fungující rodičovský tým, uděláte pro své děti to nejlepší."
 category: "Domluva s druhým rodičem"
 image: "/images/Když se rodiče hádají.png"
 published: true
