@@ -98,7 +98,7 @@ Můžete mít pocit, že se poctivě snažíte o věcnost, ale z druhé strany n
 * **Využijte mediaci:** Mediátor nebo mediátorka vytváří bezpečný prostor pro dohodu. Pohlídá, abyste oba měli prostor mluvit, pomůže vám oddělit emoce od potřeb a povede vás k hledání řešení, které bude fungovat pro vás oba.
 * **Předávejte děti přes školu či školku:** Pokud je přímý kontakt mezi vámi zdrojem třenic, předávejte si děti bez osobního setkání. Ráno jeden rodič dítě do školy přivede, odpoledne si ho druhý vyzvedne. Děti mají klid a vy se vyhnete zbytečným střetům.
 
-Pokud vás téma mediace zajímá blíže, přečtěte si náš článek [Co je mediace a kdy se vyplatí](https://ditevrozvodu.cz/clanek-mediace/).
+Pokud byste se o mediaci chtěli dozvědět více, přečtěte si článek [Mediace jako cesta k dohodě: Zvažte to!](https://ditevrozvodu.cz/clanek-mediace/).
 
 ## Na závěr
 
