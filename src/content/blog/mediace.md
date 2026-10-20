@@ -10,7 +10,7 @@ ctaText: 'Mediace vám pomůže najít dohodu s druhým rodičem. Ale jak tu doh
 
 Když padne slovo rozvod, většina lidí má v hlavě dvě varianty: buď se nějak dohodneme sami, nebo to budou řešit právníci a soud. Mediace je třetí cesta — a doporučili bychom ji zvážit. Povídali jsme si o ní s PhDr. Bc. Janem Kabátem, MBA, mediátorem z Dialogo (dříve ADRC) v Brně.
 
-![Jan Kabát, mediátor z Dialogo (dříve ADRC) v Brně](/images/kabat.jpg)
+![Jan Kabát, mediátor z Dialogo (dříve ADRC) v Brně](/images/kabat.webp)
 **Jan Kabát**, mediátor z Dialogo (dříve ADRC) v Brně
 ---
 
