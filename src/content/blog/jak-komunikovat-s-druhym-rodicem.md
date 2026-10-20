@@ -98,14 +98,16 @@ Můžete mít pocit, že se poctivě snažíte o věcnost, ale z druhé strany n
 * **Využijte mediaci:** Mediátor nebo mediátorka vytváří bezpečný prostor pro dohodu. Pohlídá, abyste oba měli prostor mluvit, pomůže vám oddělit emoce od potřeb a povede vás k hledání řešení, které bude fungovat pro vás oba.
 * **Předávejte děti přes školu či školku:** Pokud je přímý kontakt mezi vámi zdrojem třenic, předávejte si děti bez osobního setkání. Ráno jeden rodič dítě do školy přivede, odpoledne si ho druhý vyzvedne. Děti mají klid a vy se vyhnete zbytečným střetům.
 
-Pokud byste se o mediaci chtěli dozvědět více, přečtěte si článek [Mediace jako cesta k dohodě: Zvažte to!](https://ditevrozvodu.cz/clanek-mediace/).
+<div style="background: linear-gradient(135deg, #f0f1fa 0%, #e8eaf6 100%); border-left: 4px solid var(--color-accent, #e85d8a); border-radius: 0.75rem; padding: 1.25rem 1.5rem; margin: 1.5rem 0; display: flex; align-items: center; gap: 1rem; text-decoration: none;">
+  <span style="font-size: 1.75rem; flex-shrink: 0;">📖</span>
+  <div>
+    <p style="margin: 0 0 0.2rem 0; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent, #e85d8a);">Přečtěte si také</p>
+    <a href="https://ditevrozvodu.cz/clanek-mediace/" style="font-weight: 700; color: var(--color-primary, #1e2260); text-decoration: none; font-size: 1rem;">Mediace jako cesta k dohodě: Zvažte to!</a>
+  </div>
+</div>
 
 ## Na závěr
 
 Nemusíte mít všechno vyřešené hned a bezchybně. Neshody a drobné zádrhely se dějí v každé rodině. Důležité je vytrvat v nastaveném profesionálním přístupu. **Nemusíte být přátelé – stačí, když budete spolehlivými parťáky.**
 
 Každá klidná zpráva, každá zvládnutá výměna názorů bez křiku a každá dodržená dohoda dává vašemu dítěti to nejdůležitější: pocit, že jeho svět zůstává v bezpečí.
-
----
-
-*Komunikace s bývalým partnerem bývá jednou z nejtěžších zkoušek celého rozchodu. V online kurzu [Jak mluvit s dětmi o rozpadu rodiny](https://spondea.thinkific.com/courses/jakmluvitsdetmi) se prakticky zaměřujeme na to, jak nastavit zdravé hranice, jak ochránit děti před konflikty dospělých a jak jim zajistit stabilní a klidné domovy.*
